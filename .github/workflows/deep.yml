@@ -1,29 +1,23 @@
 # =====================================================================
-#  DEEP-DIVE APPLICATION AGENT v13.1 – Damir Hadžić · works with jobs.yml (v11.1)
+#  DEEP-DIVE APPLICATION AGENT v12 – Damir Hadžić · works with jobs.yml (v11.1)
 #
-#  Per job: reads the JD link → line-by-line analysis and fit → HR prescreening
-#  + likely interview questions → ATS keywords, score, placement → tailoring
-#  recommendations → WEB salary search with sources → full tailored CV and
-#  cover letter from those recommendations → fact checks.
+#  For each job it: reads the JD link → analyses EVERY requirement and your
+#  fit → strong HR prescreening + likely interview questions → ATS keywords,
+#  score and placement → tailoring recommendations → searches the WEB for
+#  salary evidence and writes salary expectations with sources → drafts the
+#  full tailored CV and cover letter (copy-paste ready) from those
+#  recommendations → runs fact checks → emails you everything
+#  (report + CV.docx + Cover_Letter.docx). 4 AI requests per job.
 #
-#  PRIVATE DELIVERY (new in v13):
-#   1. PRIVATE VAULT – a separate private GitHub repository. Every file is
-#      written, read back and verified. INDEX.md lists all packs.
-#   2. EMAIL – copy with the Word files and a link to the vault folder.
-#   3. If a channel fails, the pack is kept ENCRYPTED in vault-outbox/ and
-#      delivered automatically later (no AI used again).
-#   The public log only shows references like #3f2a1c – never titles, links or text.
-#   Run-workflow inputs are read from the event file, not printed in the log.
-#
-#  USE: automatic (next High-fit job every 30 min, max DEEP_PER_DAY a day),
-#  or Actions → "Deep-dive application" → Run workflow → paste the job link,
-#  or PRIVATELY: put a file in the vault repository's inbox/ folder
-#  (job link on line 1, full job text below) – picked up within 30 minutes.
+#  FULLY AUTOMATIC: every 30 minutes it takes the next High-fit job from the
+#  job agent's list (max DEEP_PER_DAY per day, most urgent first).
+#  ON DEMAND: Actions → "Deep-dive application" → Run workflow → paste link.
+#  Login-only sites: Add file → cv-inbox/any-name.txt → link + full job text.
 #
 #  SAFETY: shares the job agent's AI lock and daily budget (branch agent-lock).
 #  Emergency stop for all agents: repository variable AI_ENABLED = no.
-#  Secrets: MASTER_CV, MAIL_USER, MAIL_PASS, VAULT_TOKEN, OUTBOX_KEY,
-#  optional SEARCH_API_KEY.  VAULT_REPO (owner/name) as a secret.
+#  Secrets: MASTER_CV, MAIL_USER, MAIL_PASS  (+ optional SEARCH_API_KEY for
+#  web salary search – Brave Search API key).
 # =====================================================================
 
 name: Deep-dive application
@@ -34,7 +28,7 @@ on:
   workflow_dispatch:
     inputs:
       job_url:
-        description: "The job's own link (or leave empty and use the vault's inbox/ folder)"
+        description: "The job's own link (leave empty if you used cv-inbox/)"
         required: false
         type: string
       language:
@@ -59,7 +53,7 @@ concurrency:
 
 env:
   DEEP_PER_DAY: "6"         # automatic deep packs per day (4 AI requests each); hard ceiling 8
-  DEEP_FITS: "High"         # "High" or "High,Medium"
+  DEEP_FITS: "High"         # which jobs get automatic deep packs: "High" or "High,Medium"
   AI_HIGH_PER_DAY: "30"     # keep the SAME values as in jobs.yml (hard ceilings 35 / 110 / 20)
   AI_LOW_PER_DAY: "100"
   AI_PER_HOUR: "16"
@@ -68,7 +62,7 @@ jobs:
   deep:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 16
     permissions:
       contents: write
       issues: write
@@ -77,23 +71,23 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Deep-dive analysis, salary search, CV and cover letter
-        timeout-minutes: 16
+        timeout-minutes: 14
         env:
           GH_TOKEN: ${{ github.token }}
           AI_ENABLED: ${{ vars.AI_ENABLED || 'yes' }}
-          VAULT_REPO: ${{ secrets.VAULT_REPO || vars.VAULT_REPO }}
+          JOB_URL: ${{ inputs.job_url }}
+          CV_LANGUAGE: ${{ inputs.language || 'auto' }}
+          CV_FOCUS: ${{ inputs.focus }}
           MASTER_CV: ${{ secrets.MASTER_CV }}
           MAIL_USER: ${{ secrets.MAIL_USER }}
           MAIL_PASS: ${{ secrets.MAIL_PASS }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
-          VAULT_TOKEN: ${{ secrets.VAULT_TOKEN }}
-          OUTBOX_KEY: ${{ secrets.OUTBOX_KEY }}
           SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
         run: |
           python3 - <<'PY'
-          import base64, hashlib, hmac, html, io, json, os, re, smtplib, subprocess, sys, time, zipfile, zlib
+          import base64, hashlib, hmac, html, json, os, re, smtplib, subprocess, sys, time, zipfile, zlib, io
           import urllib.error, urllib.parse, urllib.request
-          from datetime import date, datetime, timezone, timedelta
+          from datetime import date, datetime, timezone
           from email.message import EmailMessage
           from pathlib import Path
 
@@ -102,48 +96,37 @@ jobs:
           def _int(v, d):
               try: return max(0, int(str(v).strip()))
               except Exception: return d
-          REPO, TOKEN, EVENT = ENV("GITHUB_REPOSITORY", ""), ENV("GH_TOKEN", ""), ENV("GITHUB_EVENT_NAME", "")
+          REPO, TOKEN = ENV("GITHUB_REPOSITORY", ""), ENV("GH_TOKEN", "")
           RUN_ID = "deep-" + (ENV("GITHUB_RUN_ID", "") or f"local-{os.getpid()}")
-          AUTO = EVENT == "schedule"
-          def _event_inputs():
-              try: return json.loads(Path(ENV("GITHUB_EVENT_PATH", "")).read_text(encoding="utf-8")).get("inputs") or {}
-              except Exception: return {}
-          _IN = _event_inputs()                        # read here so the link/focus never appear in the public step log
-          JOB_URL = str(_IN.get("job_url") or ENV("JOB_URL", "") or "").strip()
+          JOB_URL = (ENV("JOB_URL", "") or "").strip()
           if JOB_URL and not re.match(r"(?i)https?://|test:", JOB_URL): JOB_URL = "https://" + JOB_URL.lstrip("/")
-          LANG = str(_IN.get("language") or ENV("CV_LANGUAGE", "auto") or "auto").strip()
-          if LANG not in ("auto", "English", "Bosnian", "French"): LANG = "auto"
-          FOCUS = re.sub(r"[\r\n]+", " ", str(_IN.get("focus") or ENV("CV_FOCUS", "") or "").strip())[:300]
+          LANG = (ENV("CV_LANGUAGE", "auto") or "auto").strip()
+          FOCUS = re.sub(r"[\r\n]+", " ", (ENV("CV_FOCUS", "") or "").strip())[:300]
           MASTER_CV = (ENV("MASTER_CV", "") or "").strip()
           MAIL_USER, MAIL_PASS = (ENV("MAIL_USER", "") or "").strip(), (ENV("MAIL_PASS", "") or "").replace(" ", "")
           MAIL_TO = (ENV("MAIL_TO", "") or "").strip() or MAIL_USER
-          MAIL_ON = bool(MAIL_USER and MAIL_PASS)
           MODELS_URL = (ENV("MODELS_URL", "") or "https://models.github.ai").rstrip("/")
           AI_ON = (ENV("AI_ENABLED", "yes") or "yes").strip().lower() not in ("no", "off", "false", "0")
           UA = {"User-Agent": "Mozilla/5.0 (personal job-search agent; GitHub Actions)"}
-          # ---- private vault (a separate PRIVATE GitHub repository) ----
-          VAULT_REPO = (ENV("VAULT_REPO", "") or "").strip().strip("/")
-          VAULT_TOKEN = (ENV("VAULT_TOKEN", "") or "").strip()
-          VAULT_API = (ENV("VAULT_API", "") or "https://api.github.com").rstrip("/")
-          VAULT_ON = bool(VAULT_REPO and VAULT_TOKEN)
-          OUTBOX_KEY = (ENV("OUTBOX_KEY", "") or "").strip()
-          # ---- shared AI limits: SAME hard ceilings as jobs.yml v11.1 (one budget, one lock: branch agent-lock) ----
+          # Same hard ceilings as the job agent v11.1 – both agents share ONE budget and ONE lock (branch agent-lock)
           CAP = {"high": min(_int(ENV("AI_HIGH_PER_DAY"), 30), 35), "low": min(_int(ENV("AI_LOW_PER_DAY"), 100), 110)}
           HOUR_CAP = min(_int(ENV("AI_PER_HOUR"), 16), 20)
           PACE = _int(ENV("AI_PACE_TEST"), 10)
           LEASE_TTL = _int(ENV("LEASE_TTL_TEST"), 16 * 60)
-          LOCK_WAIT = _int(ENV("LOCK_WAIT_TEST"), 240)
-          RUN_GUARD = _int(ENV("RUN_GUARD_TEST"), 8 * 60)           # no new pack starts after 8 min (step limit is 16 min)
+          LOCK_WAIT = _int(ENV("LOCK_WAIT_TEST"), 300)
           AI_WINDOW = 6 * 60
-          MAX_IN, OUT_A, OUT_S, OUT_CV, OUT_CL = 6000, 3000, 1600, 3500, 1800
-          MAX_JOBS = 2
-          DEEP_PER_DAY = min(_int(ENV("DEEP_PER_DAY"), 6), 8)
+          MAX_IN, OUT_CV, OUT_CL = 6000, 3500, 1800
+          MAX_JOBS = 2                                                  # deep packs per run (4 AI requests each)
+          EVENT = ENV("GITHUB_EVENT_NAME", "")
+          AUTO = EVENT == "schedule"
+          DEEP_PER_DAY = min(_int(ENV("DEEP_PER_DAY"), 6), 8)          # automatic deep packs per day (hard ceiling 8)
           DEEP_FITS = [x.strip().capitalize() for x in (ENV("DEEP_FITS", "High") or "High").split(",") if x.strip()]
-          SEARCH_KEY = (ENV("SEARCH_API_KEY", "") or "").strip()
+          SEARCH_KEY = (ENV("SEARCH_API_KEY", "") or "").strip()      # Brave Search API key (optional)
           SEARCH_URL = (ENV("SEARCH_URL", "") or "https://api.search.brave.com/res/v1/web/search")
-          SEARCH_PER_JOB, SEARCH_PER_DAY, SEARCH_PER_MONTH = 3, 30, 900
+          SEARCH_PER_JOB, SEARCH_PER_DAY, SEARCH_PER_MONTH = 3, 30, 900   # 900/month stays inside the ~1,000 free searches
+          OUT_A, OUT_S = 3000, 1600
           LOCK_BRANCH = "agent-lock"
-          log, summary, alerts = [], [], []           # PUBLIC log/summary: never job titles, links, CV or report text
+          log, summary = [], []
 
           GENERIC = [r"unvacancies\.org/jobs/(organization|function|grade|country)/", r"unjobs\.org/(skills|duty_stations|organizations)/",
                      r"careers\.unops\.org/?$", r"unhabitat\.org/join-us", r"impactpool\.org/jobs/c/", r"iom\.int/Zc8",
@@ -151,24 +134,15 @@ jobs:
           def generic(link): return any(re.search(p, link or "", re.I) for p in GENERIC)
           def norm(s): return re.sub(r"\W+", "", (s or "").lower())
           def same(l): return re.sub(r"^https?://(www\.)?", "", (l or "").split("?")[0].split("#")[0].rstrip("/").lower())
-          def old_key(j): return "deep:" + same(j["link"]) + "|" + norm(j["title"])
-          def _h(s): return hashlib.sha256(s.encode()).hexdigest()
-          def hkey(j):                                             # public ledger stores only a KEYED hash (cannot be tested against known job links)
-              return ("k:" + hmac.new(OUTBOX_KEY.encode(), old_key(j).encode(), "sha256").hexdigest()[:24]) if OUTBOX_KEY else ("d:" + _h(old_key(j))[:20])
-          def migrate_key(k):                                      # v12 plaintext "deep:…" key → keyed hash
-              return ("k:" + hmac.new(OUTBOX_KEY.encode(), k.encode(), "sha256").hexdigest()[:24]) if OUTBOX_KEY else ("d:" + _h(k)[:20])
-          def ref(j): return "#" + hashlib.sha256(old_key(j).encode()).hexdigest()[:6]          # public reference in logs
-          def is_done(j, st):
-              m = {**(st.get("done") or {}), **(st.get("deep_done") or {})}
-              return hkey(j) in m or ("d:" + _h(old_key(j))[:20]) in m or old_key(j) in m
+          def jkey(j): return "deep:" + same(j["link"]) + "|" + norm(j["title"])
           def clean(s): return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
           def page_text(raw):
               h = raw.decode("utf-8", "replace")
               return clean(re.sub(r"(?is)<(script|style|noscript|svg|nav|footer|header)\b.*?</\1>", " ", h))
+          def slug(s): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", ascii_(s).lower())).strip("-")[:50] or "job"
           def ascii_(s):
               for a, b in zip("čćžšđČĆŽŠĐ", "cczsdCCZSD"): s = (s or "").replace(a, b)
               return s.encode("ascii", "ignore").decode()
-          def slug(s): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", ascii_(s).lower())).strip("-")[:50] or "job"
           def est(s): return len(s) // 3 + 1
           def get(url, timeout=15):
               if url.startswith("test:"): return Path(url[5:]).read_bytes()
@@ -194,44 +168,33 @@ jobs:
                     headers={"Authorization": "Bearer " + TOKEN, "Accept": "application/vnd.github+json", **UA})
               try: return json.loads(urllib.request.urlopen(req, timeout=15).read() or b"null")
               except Exception as e: return {"_error": str(getattr(e, "code", e))}
-          def issue(title, body):                         # issues are public: never put job titles, links or report text here
-              alerts.append(title)
+          def issue(title, body):
               if not REPO: return
               o = gh("GET", f"/repos/{REPO}/issues?state=open&per_page=100")
               if isinstance(o, list) and any(i.get("title") == title for i in o): return
               gh("POST", f"/repos/{REPO}/issues", {"title": title, "body": body})
 
-          # ---- encrypted fallback store (vault-outbox/) – PBKDF2-SHA256 (600k) key, HMAC-SHA256 keystream, encrypt-then-MAC ----
-          def _keys(secret, salt):
-              k = hashlib.pbkdf2_hmac("sha256", secret.encode(), salt, 600_000, 64)
-              return k[:32], k[32:]
+          # encrypted outbox – SAME format as the job agent, so it re-sends these automatically
+          def _keys(secret):
+              k = hashlib.sha256(("job-agent|" + secret).encode()).digest()
+              return hashlib.sha256(b"enc" + k).digest(), hashlib.sha256(b"mac" + k).digest()
           def _stream(k, nonce, n):
               out, c = bytearray(), 0
-              while len(out) < n: out += hmac.new(k, nonce + c.to_bytes(8, "big"), "sha256").digest(); c += 1
+              while len(out) < n: out += hashlib.sha256(k + nonce + c.to_bytes(8, "big")).digest(); c += 1
               return bytes(out[:n])
-          def seal(data: bytes, secret):
-              salt, nonce = os.urandom(16), os.urandom(16); ke, km = _keys(secret, salt); z = zlib.compress(data)
-              ct = bytes(a ^ b for a, b in zip(z, _stream(ke, nonce, len(z))))
-              return b"JA2:" + base64.b64encode(salt + nonce + hmac.new(km, salt + nonce + ct, "sha256").digest() + ct)
-          def unseal(blob: bytes, secret):
-              try:
-                  if not blob.startswith(b"JA2:"): return None
-                  raw = base64.b64decode(blob[4:]); salt, nonce, tag, ct = raw[:16], raw[16:32], raw[32:64], raw[64:]
-                  ke, km = _keys(secret, salt)
-                  if not hmac.compare_digest(tag, hmac.new(km, salt + nonce + ct, "sha256").digest()): return None
-                  return zlib.decompress(bytes(a ^ b for a, b in zip(ct, _stream(ke, nonce, len(ct)))))
-              except Exception: return None
+          def seal(text, secret):
+              ke, km = _keys(secret); nonce = os.urandom(16); data = zlib.compress(text.encode("utf-8"))
+              ct = bytes(a ^ b for a, b in zip(data, _stream(ke, nonce, len(data))))
+              return base64.b64encode(nonce + hmac.new(km, nonce + ct, "sha256").digest() + ct)
 
-          # ======================= shared AI lock + ledger (same format as jobs.yml v11.1) =======================
+          # ======================= shared AI lock + ledger (identical format to job agent v11.1) =======================
           GIT_ID = {"GIT_AUTHOR_NAME": "job-agent", "GIT_AUTHOR_EMAIL": "job-agent@users.noreply.github.com",
                     "GIT_COMMITTER_NAME": "job-agent", "GIT_COMMITTER_EMAIL": "job-agent@users.noreply.github.com"}
           def git(*a, inp=None):
               return subprocess.run(["git", *a], input=inp, capture_output=True, text=True, env={**os.environ, **GIT_ID}, timeout=60)
           def fresh():
               return {"v": 1, "rev": 0, "day": T, "used": {"high": 0, "low": 0}, "packs": 0, "hour": "", "hour_used": 0, "blocked": {},
-                      "last_call": 0, "holder": "", "expires": 0, "reserved": {}, "fail_streak": 0, "paused_until": 0, "done": {},
-                      "search_day": "", "search_today": 0, "search_month": "", "search_month_used": 0, "deep_day": "", "deep_today": 0,
-                      "deliv": {"vault_fail": 0, "mail_fail": 0}, "deep_done": {}}
+                      "last_call": 0, "holder": "", "expires": 0, "reserved": {}, "fail_streak": 0, "paused_until": 0, "done": {}, "search_day": "", "search_today": 0, "search_month": "", "search_month_used": 0, "deep_day": "", "deep_today": 0}
           def ledger_read():
               r = git("fetch", "--quiet", "origin", f"+refs/heads/{LOCK_BRANCH}:refs/remotes/origin/{LOCK_BRANCH}")
               if r.returncode != 0:
@@ -247,7 +210,7 @@ jobs:
               if st.get("day") != T: st.update(day=T, used={"high": 0, "low": 0}, packs=0, blocked={})
               if st.get("hour") != hour: st.update(hour=hour, hour_used=0)
               if st.get("holder") and st.get("expires", 0) < now:
-                  log.append("AI-LOCK expired lock of another run released (its reserved budget stays counted)")
+                  log.append(f"AI-LOCK expired lock of {st['holder']} released (its reserved budget stays counted)")
                   st.update(holder="", expires=0, reserved={})
               return st
           def ledger_write(old, st, msg):
@@ -256,25 +219,14 @@ jobs:
               tree = git("mktree", inp=f"100644 blob {blob}\tlock.json\n").stdout.strip()
               commit = git("commit-tree", tree, "-m", msg, *(["-p", old] if old else [])).stdout.strip()
               return bool(blob and tree and commit) and git("push", "--quiet", "origin", f"{commit}:refs/heads/{LOCK_BRANCH}").returncode == 0
-          def ledger_update(fn, msg, need_holder=None):
-              """Read-modify-write with compare-and-swap. fn(st) mutates st. Returns st or None."""
-              for _ in range(4):
-                  sha, st = ledger_read()
-                  if st is None: return None
-                  st = roll(st)
-                  if need_holder and st.get("holder") != need_holder: return None
-                  fn(st)
-                  if ledger_write(sha, st, msg): return st
-                  time.sleep(2)
-              return None
 
           class Lease:
               def __init__(self, res, st):
                   self.res, self.used, self.blocked, self.errors, self.st, self.t0 = res, {"high": 0, "low": 0}, {}, 0, st, time.time()
-                  self.searches, self.deep, self.mail_fail, self.vault_fail, self.delivered = 0, 0, 0, 0, 0
-                  m = TODAY.strftime("%Y-%m")
+                  self.searches, self.done, self.deep = 0, {}, 0
+                  m, d = TODAY.strftime("%Y-%m"), T
                   self.search_left = 0 if not SEARCH_KEY else max(0, min(
-                      SEARCH_PER_DAY - (st.get("search_today", 0) if st.get("search_day") == T else 0),
+                      SEARCH_PER_DAY - (st.get("search_today", 0) if st.get("search_day") == d else 0),
                       SEARCH_PER_MONTH - (st.get("search_month_used", 0) if st.get("search_month") == m else 0)))
           def acquire(n_jobs):
               end = time.time() + LOCK_WAIT
@@ -285,70 +237,59 @@ jobs:
                   if st.get("paused_until", 0) > time.time(): return None, "AI is paused after repeated errors (see Issues)"
                   if st.get("holder"):
                       if time.time() < end: time.sleep(min(20, max(1, end - time.time()))); continue
-                      return None, "another agent is using AI – try again in a few minutes"
+                      return None, f"the job agent is still using AI ({st['holder']}) – try again in a few minutes"
                   hi = 0 if st["blocked"].get("high") == T else max(0, CAP["high"] - st["used"]["high"])
                   lo = 0 if st["blocked"].get("low") == T else max(0, CAP["low"] - st["used"]["low"])
                   hr = max(0, HOUR_CAP - st["hour_used"])
-                  jobs = min(n_jobs, (hi + lo) // 4, hr // 4)                 # one deep pack = 4 AI requests
-                  if jobs <= 0: return None, ("hourly AI limit reached – try again next hour" if hr < 4 else "daily AI budget used – try again tomorrow")
-                  r_hi = min(hi, 3 * jobs); r_lo = 4 * jobs - r_hi              # analysis, CV, letter on high; salary on low
+                  jobs = min(n_jobs, (hi + lo) // 4, hr // 4)               # deep pack = 4 AI requests
+                  if jobs <= 0: return None, "hourly AI limit reached – try again next hour" if hr < 4 else "daily AI budget used – try again tomorrow"
+                  r_hi = min(hi, 3 * jobs); r_lo = 4 * jobs - r_hi          # analysis, CV, letter on high; salary on low
                   if r_lo > lo: r_hi, r_lo = 4 * jobs - lo, lo
                   st["used"]["high"] += r_hi; st["used"]["low"] += r_lo; st["hour_used"] += 4 * jobs
                   st.update(holder=RUN_ID, expires=time.time() + LEASE_TTL, reserved={"high": r_hi, "low": r_lo})
                   if ledger_write(sha, st, f"lock: {RUN_ID} reserves {4 * jobs} AI requests"): return Lease({"high": r_hi, "low": r_lo}, st), ""
                   time.sleep(2)
           def topup(L, tier):
-              """While holding the lock: reserve ONE more request on `tier` (only when the other tier hit its limit)."""
-              def fn(st):
-                  if st["blocked"].get(tier) == T or st["used"][tier] >= CAP[tier] or st["hour_used"] >= HOUR_CAP: raise ValueError
+              """While holding the lock: reserve ONE more request on `tier` (used when the other tier hits its limit mid-run)."""
+              for _ in range(3):
+                  sha, st = ledger_read()
+                  if st is None: return False
+                  st = roll(st)
+                  if st.get("holder") != RUN_ID or st["blocked"].get(tier) == T or L.blocked.get(tier) == T: return False
+                  if st["used"][tier] >= CAP[tier] or st["hour_used"] >= HOUR_CAP: return False
                   st["used"][tier] += 1; st["hour_used"] += 1; st["expires"] = time.time() + LEASE_TTL
-              try: ok = ledger_update(fn, f"lock: {RUN_ID} +1 {tier}", need_holder=RUN_ID)
-              except ValueError: ok = None
-              if ok: L.res[tier] += 1; log.append(f"AI-LOCK +1 {tier} request (other tier hit its limit)")
-              return bool(ok)
-          def tidy_keys(st):
-              """Move deep-agent keys out of the shared 'done' map (the job agent prunes it) and hash any v12 plaintext keys."""
-              dd, d = st.setdefault("deep_done", {}), st.setdefault("done", {})
-              for k in [k for k in d if k.startswith(("deep:", "d:", "k:"))]:
-                  dd[migrate_key(k) if k.startswith("deep:") else k] = d.pop(k)
-              if len(dd) > 1500: st["deep_done"] = dict(sorted(dd.items(), key=lambda kv: kv[1].get("day", ""))[-1500:])
-          def checkpoint(L, key, val):
-              """Record a delivered pack IMMEDIATELY (while holding the lock) so a crash later can never cause a duplicate."""
-              def fn(st): st.setdefault("deep_done", {})[key] = val; st["expires"] = time.time() + LEASE_TTL
-              ok = ledger_update(fn, f"lock: {RUN_ID} checkpoint", need_holder=RUN_ID)
-              if ok: L.st.setdefault("deep_done", {})[key] = val
-              return bool(ok)
+                  if ledger_write(sha, st, f"lock: {RUN_ID} reserves 1 extra {tier} request"):
+                      L.res[tier] += 1; log.append(f"AI-LOCK +1 {tier} request (other tier hit its limit)"); return True
+                  time.sleep(2)
+              return False
+
           def release(L, failed):
-              def fn(st):
+              for _ in range(4):
+                  sha, st = ledger_read()
+                  if st is None: break
+                  st = roll(st)
+                  if st.get("holder") != RUN_ID: log.append("AI-LOCK lock already expired – unused budget not refunded (safe)"); return
                   for t in ("high", "low"): st["used"][t] = max(0, st["used"][t] - L.res[t])
                   if st.get("hour") == L.st.get("hour"): st["hour_used"] = max(0, st["hour_used"] - L.res["high"] - L.res["low"])
-                  st["blocked"].update(L.blocked); st.setdefault("deep_done", {}).update(L.st.get("deep_done", {})); tidy_keys(st)
+                  st["blocked"].update(L.blocked); st.setdefault("done", {}).update(L.done)
                   if st.get("search_day") != T: st.update(search_day=T, search_today=0)
                   if st.get("search_month") != TODAY.strftime("%Y-%m"): st.update(search_month=TODAY.strftime("%Y-%m"), search_month_used=0)
                   st["search_today"] += L.searches; st["search_month_used"] += L.searches
                   if st.get("deep_day") != T: st.update(deep_day=T, deep_today=0)
                   st["deep_today"] += L.deep
-                  d = st.setdefault("deliv", {"vault_fail": 0, "mail_fail": 0})
-                  d["vault_fail"] = d.get("vault_fail", 0) + 1 if L.vault_fail else (0 if L.delivered else d.get("vault_fail", 0))
-                  d["mail_fail"] = d.get("mail_fail", 0) + 1 if L.mail_fail else (0 if L.delivered else d.get("mail_fail", 0))
+                  if len(st["done"]) > 800: st["done"] = dict(sorted(st["done"].items(), key=lambda kv: kv[1].get("day", ""))[-800:])
                   st["last_call"] = max(st.get("last_call", 0), L.st.get("last_call", 0))
                   st["fail_streak"] = st.get("fail_streak", 0) + 1 if failed else 0
                   if st["fail_streak"] >= 3:
-                      st["paused_until"] = time.time() + 6 * 3600; st["fail_streak"] = 0; L.pause_issue = True
+                      st["paused_until"] = time.time() + 6 * 3600; st["fail_streak"] = 0
+                      issue("Job agent: AI paused for 6 hours after repeated errors",
+                            "Three AI sessions in a row failed. AI is paused for 6 hours for both agents and then resumes by itself.")
                   st.update(holder="", expires=0, reserved={})
-              L.pause_issue = False
-              st = ledger_update(fn, f"lock: {RUN_ID} releases ({L.used['high'] + L.used['low']} used)", need_holder=RUN_ID)
-              if st is None: log.append("AI-LOCK could not release – the lock expires by itself; reserved budget stays counted (safe)"); return None
-              if L.pause_issue: issue("Job agent: AI paused for 6 hours after repeated errors",
-                                      "Three AI sessions in a row failed. AI is paused for 6 hours for all agents and then resumes by itself.")
-              d = st.get("deliv", {})
-              if d.get("vault_fail", 0) >= 3: issue("Deep-dive agent: private vault is failing", "Saving reports to the private vault failed in 3 runs in a row. "
-                    "Reports are kept encrypted in vault-outbox/ and uploaded automatically once the vault works. Check the VAULT_TOKEN secret (expired?) and the VAULT_REPO variable.")
-              if d.get("mail_fail", 0) >= 3: issue("Deep-dive agent: email delivery is failing", "Sending email failed in 3 runs in a row. "
-                    "If you changed your Google password, Google revoked the app password – create a new one and update the MAIL_PASS secret.")
-              return st
+                  if ledger_write(sha, st, f"lock: {RUN_ID} releases ({L.used['high'] + L.used['low']} used)"): return
+                  time.sleep(2)
+              log.append("AI-LOCK could not release – the lock expires by itself; reserved budget stays counted (safe)")
 
-          # ======================= AI requests (only inside a Lease) =======================
+          # ======================= AI requests =======================
           PREFER = {"high": ["openai/gpt-4.1", "openai/gpt-4o"], "low": ["openai/gpt-4.1-mini", "openai/gpt-4o-mini"]}
           class NoAccess(Exception): pass
           class Stop(Exception): pass
@@ -370,25 +311,26 @@ jobs:
                               if text: L.errors = 0; return text, m
                               L.errors += 1
                           except urllib.error.HTTPError as e:
+                              body = e.read().decode("utf-8", "replace")[:200]
                               if e.code == 429:
                                   ra = _int(e.headers.get("Retry-After"), 3600)
                                   if ra <= 60 and attempt == 1: time.sleep(ra + 1); continue
                                   L.blocked[tier] = T; break
-                              if e.code in (401, 403): raise NoAccess(f"HTTP {e.code}")
+                              if e.code in (401, 403): raise NoAccess(f"HTTP {e.code}: {body[:100]}")
                               if e.code in (400, 404, 410, 413, 422): break
                               L.errors += 1
                           except (urllib.error.URLError, TimeoutError, OSError, KeyError, ValueError):
                               L.errors += 1
                           if L.errors >= 2: raise Stop("2 AI errors in a row")
                           time.sleep(10)
-              if any(L.blocked.get(t) == T for t in ("high", "low")):
+              if any(L.blocked.get(t) == T for t in ("high", "low")):        # short only because a tier hit its limit today
                   for t in (prefer, "low" if prefer == "high" else "high"):
                       if L.blocked.get(t) != T and L.res[t] <= 0 and topup(L, t):
                           return chat(L, prefer, messages, max_tokens)
               raise Stop("reserved AI requests used")
 
           # ======================= web search for salary evidence (Brave Search API, optional) =======================
-          MONEY = re.compile(r"(?i)((?:US\$|USD|EUR|€|\$|£|GBP|CHF|BAM|KM)\s?\d[\d.,\s]{2,}(?:\s?(?:k|000))?|\d[\d.,\s]{2,}\s?(?:USD|EUR|€|CHF|BAM|KM|GBP)\b)")
+          MONEY = re.compile(r"(?i)((?:US\$|USD|EUR|€|\$|£|GBP|CHF|BAM|KM|KM\b)\s?\d[\d.,\s]{2,}(?:\s?(?:k|000))?|\d[\d.,\s]{2,}\s?(?:USD|EUR|€|CHF|BAM|KM|GBP)\b)")
           def search(L, q):
               if L.search_left <= 0: return []
               L.search_left -= 1; L.searches += 1
@@ -400,7 +342,7 @@ jobs:
                            "text": clean(" ".join([x.get("description", "")] + (x.get("extra_snippets") or [])))}
                           for x in (r.get("web", {}) or {}).get("results", [])[:6]]
               except Exception as e:
-                  log.append(f"SEARCH  failed ({type(e).__name__})"); return []
+                  log.append(f"SEARCH  failed ({str(e)[:60]})"); return []
           def money_lines(text, n=6):
               out = []
               for m in MONEY.finditer(text or ""):
@@ -419,15 +361,16 @@ jobs:
               qs = [f"{t} {org[1] if org else ''} salary".strip()]
               if grade: qs.append(f"{grade[1]} salary {place[1].strip() if place else ''} {TODAY.year} net annual".strip())
               qs.append(f"{t} salary {place[1].strip() if place else 'Bosnia and Herzegovina'} {TODAY.year}")
-              seen, opened = set(), 0
+              seen, n = set(), 0
               for q in qs[:SEARCH_PER_JOB]:
                   for r in search(L, q):
                       if r["url"] in seen: continue
                       seen.add(r["url"]); lines = money_lines(r["text"], 3)
-                      if not lines and opened < 2:
-                          opened += 1
-                          try: lines = money_lines(page_text(get(r["url"], 12))[:80000], 4)
-                          except Exception: lines = []
+                      if not lines and len(ev) < 10:                     # open the page itself for numbers (2 pages max)
+                          if n < 2:
+                              n += 1
+                              try: lines = money_lines(page_text(get(r["url"], 12))[:80000], 4)
+                              except Exception: lines = []
                       if lines: ev.append({"source": r["title"][:100], "url": r["url"], "lines": lines})
               return ev, len(qs[:SEARCH_PER_JOB])
 
@@ -443,6 +386,7 @@ jobs:
           def lang_rule():
               return ("Write in the language of the job description (English if unclear)." if LANG.lower() == "auto"
                       else f"Write in {LANG}. Keep official job titles, organisation names and ATS keywords in their original form where needed.")
+
           ASK_A = """DEEP-DIVE ANALYSIS of this job for the candidate. Go through the job description line by line. Use exactly these headings:
           ## 1. Job summary
           Organisation, exact title, reference number, grade/contract type, duty station, duration, start date, deadline, reporting line, who is eligible to apply (nationality/residence/internal tiers), languages required and desirable.
@@ -458,6 +402,7 @@ jobs:
           Numbered and concrete: headline/title alignment, summary angle, which achievements to lead with, bullets to rewrite (before → after), what to cut, competencies to evidence, gaps to address honestly, how to answer application-form questions.
           ## 7. Decision
           Apply / Apply with caution / Skip, with one sentence why, and the 3 actions to take before applying."""
+
           ASK_S = """SALARY EXPECTATIONS for this job, using ONLY the evidence below plus general knowledge you label as such. Use exactly this heading:
           ## Salary expectations
           - **Stated in the posting:** quote it, or "not stated".
@@ -466,6 +411,7 @@ jobs:
           - **Recommended answer for an application-form salary field** (one line) and a short negotiation note.
           - **Verify here:** where the candidate should confirm (e.g. the posting, ICSC salary scales at icsc.un.org, the employer's pay scale).
           Never present an unverified figure as certain."""
+
           ASK_CV = """Write the COMPLETE tailored CV for this job, applying the ANALYSIS AND RECOMMENDATIONS below.
           FORMAT (ATS-safe):
           - First line: "# " + the candidate's name exactly as in the MASTER CV. Second line: the contact line exactly as in the MASTER CV.
@@ -475,6 +421,7 @@ jobs:
           - PROFESSIONAL SUMMARY: 3-4 lines aligned to this job's title and top requirements.
           - CORE COMPETENCIES: 10-14 short keyword phrases from the ATS list that the MASTER CV supports, separated by " | ".
           - No tables, columns, icons, graphics, photos or personal data beyond the MASTER CV contact line. Maximum 2 pages of content."""
+
           ASK_CL = """Write the tailored COVER LETTER and APPLICATION EMAIL for this job, applying the ANALYSIS AND RECOMMENDATIONS below. Use exactly these two headings:
           ## Cover letter
           - 300-380 words. Opening: the exact job title (and reference number if given) and one sentence on why this candidate fits.
@@ -486,9 +433,11 @@ jobs:
           - End with "Kind regards," and the candidate's name.
           ## Application email
           A subject line ("Subject: ...") and a 3-4 line email body to send with the attachments."""
+
           def section(text, a, b):
               m = re.search(r"##\s*" + a + r".*?(?=##\s*" + b + r"|\Z)", text, re.S)
               return m[0].strip() if m else ""
+
           def build(L, job, jd):
               cvx = MASTER_CV[:6500]
               head = f"JOB: {job['title']}\nLINK: {job['link'] or 'pasted text'}\n" + (f"CANDIDATE'S EXTRA INSTRUCTION (only if truthful): {FOCUS}\n" if FOCUS else "")
@@ -501,12 +450,14 @@ jobs:
               plan = "\n\n".join(x for x in (section(analysis, r"5\.", r"6\."), section(analysis, r"6\.", r"7\.")) if x)[:2600] or analysis[:2600]
               ev, nq = salary_evidence(L, job, jd)
               evtxt = "\n".join(f"- {e['source']} ({e['url']}): " + " | ".join(e["lines"]) for e in ev if e["lines"])[:4500] or "- no salary figures found"
-              salary, m2 = chat(L, "low", [sysm, {"role": "user", "content": f"{head}\nJOB DESCRIPTION (excerpt, untrusted):\n{focus_jd(job['title'], jd, 3500)}\n\n"
-                                                 f"WEB EVIDENCE ({nq} web searches; untrusted):\n{evtxt}\n\n{ASK_S}"}], OUT_S)
+              sal_msg = [sysm, {"role": "user", "content": f"{head}\nJOB DESCRIPTION (excerpt, untrusted):\n{focus_jd(job['title'], jd, 3500)}\n\n"
+                                f"WEB EVIDENCE ({nq} web searches; untrusted):\n{evtxt}\n\n{ASK_S}"}]
+              salary, m2 = chat(L, "low", sal_msg, OUT_S)
               extra = f"\nANALYSIS AND RECOMMENDATIONS:\n{plan}\n"
               cv, m3 = chat(L, "high", msg(ASK_CV, extra), OUT_CV)
               cl, m4 = chat(L, "high", msg(ASK_CL, extra), OUT_CL)
               return analysis, salary, cv, cl, sorted({m1, m2, m3, m4}), nq, ev
+
           CERTS = ["PRINCE2", "LEED", "BREEAM", "MBA", "Chartered", "CEng", "NEBOSH", "IOSH", "Scrum", "Six Sigma", "ISO 9001",
                    "ISO 45001", "Lean", "PgMP", "CCM", "RIBA", "AutoCAD Certified", "Primavera", "CPA", "CIPS"]
           def checks(cv, cl, jd, salary):
@@ -524,36 +475,36 @@ jobs:
               if n: out.append(f"{n} [ADD …] placeholder(s) to fill in or delete")
               w = len(re.findall(r"\w+", re.split(r"(?i)##\s*application email", re.split(r"(?i)##\s*cover letter", cl)[-1])[0]))
               if w and not 220 <= w <= 450: out.append(f"cover letter is {w} words (target 300-380)")
-              known = (MASTER_CV + "\n" + jd).lower()
-              foreign = sorted({x for x in re.findall(r"[\w.+-]+@[\w-]+\.[\w.-]+|https?://[^\s)>\]]+", both) if x.lower().rstrip(".,") not in known})
-              if foreign: out.append("links/e-mail addresses that are NOT in your master CV or the job posting (possible injected text) – remove: " + ", ".join(foreign[:5]))
               if not SEARCH_KEY: out.append("salary is an estimate WITHOUT web evidence – add the SEARCH_API_KEY secret for web search")
               elif "http" not in salary: out.append("no web source is cited in the salary section – verify the figures yourself")
               return out
 
-          # ======================= Word (.docx) writer – stdlib only, ATS-safe (A4, Arial, real headings, real bullets) =======================
+          # ======================= Word (.docx) writer – no extra installs, ATS-safe =======================
+          # A4, Arial, real Word headings and real bullet lists (no tables, columns, text boxes or images).
           W = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"'
-          CAND = next((re.sub(r"[#*]", "", l).split(",")[0].strip() for l in MASTER_CV.splitlines() if l.strip()), "Candidate")[:60]
           def _x(s): return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
-          def _runs(text):
-              text = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r"\1 (\2)", text)
-              out = []
-              for p in re.split(r"(\*\*[^*]+\*\*)", text):
+          def _runs(text, size=None, bold_all=False):
+              text = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r"\1 (\2)", text)          # links → plain text
+              out, parts = [], re.split(r"(\*\*[^*]+\*\*)", text)
+              for p in parts:
                   if not p: continue
-                  b = p.startswith("**") and p.endswith("**")
-                  p = p[2:-2] if b else p
-                  out.append(f'<w:r>{"<w:rPr><w:b/></w:rPr>" if b else ""}<w:t xml:space="preserve">{_x(p)}</w:t></w:r>')
+                  b = bold_all or (p.startswith("**") and p.endswith("**"))
+                  p = p[2:-2] if p.startswith("**") and p.endswith("**") else p
+                  p = p.replace("*", "") if not re.search(r"\w\*\w", p) else p
+                  rpr = ("<w:b/>" if b else "") + (f'<w:sz w:val="{size}"/><w:szCs w:val="{size}"/>' if size else "")
+                  out.append(f'<w:r>{"<w:rPr>" + rpr + "</w:rPr>" if rpr else ""}<w:t xml:space="preserve">{_x(p)}</w:t></w:r>')
               return "".join(out)
-          def _p(inner, style=None, bullet=False, after=None, keep=False):
+          def _p(inner, style=None, bullet=False, after=None, before=None, keep=False):
               ppr = (f'<w:pStyle w:val="{style}"/>' if style else "") + ('<w:keepNext/>' if keep else "") + \
                     ('<w:numPr><w:ilvl w:val="0"/><w:numId w:val="1"/></w:numPr>' if bullet else "") + \
-                    (f'<w:spacing w:after="{after}"/>' if after is not None else "")
+                    (f'<w:spacing w:before="{before or 0}" w:after="{after if after is not None else 80}"/>' if (after is not None or before) else "")
               return f'<w:p>{"<w:pPr>" + ppr + "</w:pPr>" if ppr else ""}{inner}</w:p>'
           def md_to_body(md, kind):
               body, first = [], True
               for raw in md.splitlines():
-                  line = raw.rstrip(); s = line.strip()
-                  if not s or re.fullmatch(r"(-{3,}|\*{3,}|_{3,})", s): continue
+                  line = raw.rstrip()
+                  if not line.strip() or re.fullmatch(r"\s*(-{3,}|\*{3,}|_{3,})\s*", line): continue
+                  s = line.strip()
                   if s.startswith("#"):
                       lvl = len(s) - len(s.lstrip("#")); txt = s.lstrip("#").strip()
                       if kind == "cl" and re.fullmatch(r"(?i)(cover letter|application email|propratno pismo|lettre de motivation)", txt): continue
@@ -595,108 +546,11 @@ jobs:
               with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
                   for n, d in (("[Content_Types].xml", ctypes), ("_rels/.rels", rels), ("word/document.xml", doc), ("word/styles.xml", styles),
                                ("word/numbering.xml", numbering), ("word/_rels/document.xml.rels", drels), ("docProps/core.xml", core)):
-                      z.writestr(zipfile.ZipInfo(n, (2026, 1, 1, 0, 0, 0)), d)
+                      z.writestr(n, d)
               return buf.getvalue()
+          CAND = next((re.sub(r"[#*]", "", l).split(",")[0].strip() for l in MASTER_CV.splitlines() if l.strip()), "Candidate")[:60]
 
-          # ======================= PRIVATE VAULT: a separate PRIVATE GitHub repository =======================
-          # Written with a fine-grained token that can access ONLY that repository (Contents: Read and write).
-          # Every file is read back and its git SHA compared after writing ("verified"). The agent refuses to write
-          # if the vault repository is public or is this public repository.
-          def vapi(method, path, data=None, accept="application/vnd.github+json", timeout=30):
-              req = urllib.request.Request(VAULT_API + path, method=method, data=json.dumps(data).encode() if data is not None else None,
-                    headers={"Authorization": "Bearer " + VAULT_TOKEN, "Accept": accept, "X-GitHub-Api-Version": "2022-11-28", **UA})
-              try:
-                  r = urllib.request.urlopen(req, timeout=timeout)
-                  return r.status, r.read(), {k.lower(): v for k, v in r.headers.items()}
-              except urllib.error.HTTPError as e:
-                  return e.code, e.read(), {k.lower(): v for k, v in (e.headers or {}).items()}
-              except Exception as e:
-                  return 0, type(e).__name__.encode(), {}
-          def qp(path): return urllib.parse.quote(path)
-          VAULT = {"ok": False, "why": "not set up", "branch": "main", "exp_days": None}
-          def vault_check():
-              if not VAULT_ON: return
-              if REPO and VAULT_REPO.lower() == REPO.lower(): VAULT["why"] = "VAULT_REPO points to this PUBLIC repository – use a separate private one"; return
-              if not re.fullmatch(r"[\w.-]+/[\w.-]+", VAULT_REPO): VAULT["why"] = "VAULT_REPO must look like owner/name"; return
-              code, body, h = vapi("GET", f"/repos/{VAULT_REPO}")
-              if code == 401: VAULT["why"] = "VAULT_TOKEN is invalid or expired"; return
-              if code in (403, 404): VAULT["why"] = "vault repository not found, or VAULT_TOKEN has no access to it"; return
-              if code != 200: VAULT["why"] = f"GitHub API error {code}"; return
-              info = json.loads(body)
-              if not info.get("private"): VAULT["why"] = "the vault repository is PUBLIC – make it private (Settings → Danger zone)"; return
-              if isinstance(info.get("permissions"), dict) and not info["permissions"].get("push"):
-                  VAULT["why"] = "VAULT_TOKEN cannot write to the vault (needs Contents: Read and write)"; return
-              VAULT.update(ok=True, why="", branch=info.get("default_branch") or "main")
-              m = re.search(r"(\d{4}-\d{2}-\d{2})[ T](\d{2}):(\d{2})", h.get("github-authentication-token-expiration", ""))
-              if m:
-                  exp = datetime.fromisoformat(f"{m[1]}T{m[2]}:{m[3]}:00+00:00")
-                  left = (exp - datetime.now(timezone.utc)).total_seconds() / 86400
-                  if left > 0.1: VAULT["exp_days"] = int(left)                # ignore a known header glitch (expiry = now)
-          def blob_sha(data): return hashlib.sha1(b"blob %d\0" % len(data) + data).hexdigest()
-          def vault_get(path):
-              code, body, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/{qp(path)}?ref={qp(VAULT['branch'])}")
-              return json.loads(body) if code == 200 else (None if code == 404 else {"_err": code})
-          def vault_put(path, data, msg):
-              want = blob_sha(data)
-              for attempt in range(4):
-                  cur = vault_get(path)
-                  if isinstance(cur, dict) and "_err" in cur: time.sleep(3 * (attempt + 1)); continue
-                  if cur and cur.get("sha") == want: return True                  # already stored (safe retry)
-                  payload = {"message": msg, "content": base64.b64encode(data).decode(), "branch": VAULT["branch"]}
-                  if cur and cur.get("sha"): payload["sha"] = cur["sha"]
-                  code, body, _ = vapi("PUT", f"/repos/{VAULT_REPO}/contents/{qp(path)}", payload, timeout=60)
-                  if code in (200, 201):
-                      chk = vault_get(path)                                       # read back and verify
-                      if chk and chk.get("sha") == want: return True
-                  elif code in (401, 403): return False
-                  time.sleep(3 * (attempt + 1))
-              return False
-          def vault_delete(path, sha, msg):
-              code, _, _ = vapi("DELETE", f"/repos/{VAULT_REPO}/contents/{qp(path)}", {"message": msg, "sha": sha, "branch": VAULT["branch"]})
-              return code in (200, 204)
-          def vault_index(row):
-              head = ("# Application packs (private)\n\nNewest first. Each folder: report.md (analysis, HR prescreening, ATS, salary, CV, letter), "
-                      "CV.docx, Cover_Letter.docx.\n\n| Date | Job | Folder | Checks |\n|---|---|---|---|\n")
-              for attempt in range(4):
-                  cur = vault_get("INDEX.md")
-                  old = base64.b64decode(cur["content"]).decode("utf-8", "replace") if cur and cur.get("content") else ""
-                  rows = [l for l in old.splitlines() if l.startswith("| 20")]
-                  if row in rows: return True
-                  data = (head + "\n".join([row] + rows[:1999]) + "\n").encode()
-                  payload = {"message": "index", "content": base64.b64encode(data).decode(), "branch": VAULT["branch"]}
-                  if cur and cur.get("sha"): payload["sha"] = cur["sha"]
-                  code, _, _ = vapi("PUT", f"/repos/{VAULT_REPO}/contents/INDEX.md", payload)
-                  if code in (200, 201): return True
-                  time.sleep(2 * (attempt + 1))
-              return False
-          def vault_store(bundle):
-              """bundle = {'folder','files':{name:bytes},'row'} → web link or None"""
-              if not VAULT["ok"]: return None
-              ok = all(vault_put(f"{bundle['folder']}/{n}", d, "add report") for n, d in bundle["files"].items())
-              if not ok: return None
-              vault_index(bundle["row"])                                      # index is a convenience; files are what matter
-              return f"https://github.com/{VAULT_REPO}/tree/{VAULT['branch']}/{qp(bundle['folder'])}"
-          def vault_inbox():
-              """Jobs you drop PRIVATELY into the vault's inbox/ folder (link on line 1, job text below)."""
-              if not VAULT["ok"]: return []
-              code, body, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/inbox?ref={qp(VAULT['branch'])}")
-              if code != 200: return []
-              out = []
-              for f in sorted(json.loads(body), key=lambda x: x.get("name", ""))[:MAX_JOBS]:
-                  if f.get("type") != "file" or not f["name"].lower().endswith((".txt", ".md")) or f["name"].lower().startswith("readme"): continue
-                  c, raw, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/{qp(f['path'])}?ref={qp(VAULT['branch'])}", accept="application/vnd.github.raw+json")
-                  if c == 200: out.append({"path": f["path"], "sha": f["sha"], "text": raw.decode("utf-8", "replace")[:60000]})
-              return out
-
-          # ======================= EMAIL (Gmail SMTP, app password) =======================
-          def smtp_open():
-              s = smtplib.SMTP("smtp.gmail.com", 587, timeout=30); s.starttls(); s.login(MAIL_USER, MAIL_PASS); return s
-          def mail_check():
-              if not MAIL_ON: return False, "not set up"
-              if ENV("MAIL_DRYRUN"): return (False, "login refused") if ENV("MAIL_FAIL") else (True, "")
-              try: s = smtp_open(); s.quit(); return True, ""
-              except smtplib.SMTPAuthenticationError: return False, "Gmail refused the app password (changing your Google password revokes it)"
-              except Exception as e: return False, f"cannot reach Gmail ({type(e).__name__})"
+          # ======================= delivery =======================
           def send(subject, body, files):
               msg = EmailMessage(); msg["Subject"], msg["From"], msg["To"] = subject, MAIL_USER, MAIL_TO
               msg.set_content(body)
@@ -705,269 +559,164 @@ jobs:
               if ENV("MAIL_DRYRUN"):
                   if ENV("MAIL_FAIL"): raise smtplib.SMTPException("test failure")
                   d = Path(ENV("MAIL_DRYRUN")); d.mkdir(parents=True, exist_ok=True)
-                  (d / (slug(subject)[:50] + f"-{time.time_ns() % 10**8}.eml")).write_bytes(bytes(msg)); return
+                  (d / (slug(subject)[:60] + f"-{int(time.time()*1000)%100000}.eml")).write_bytes(bytes(msg)); return
               for attempt in (1, 2):
                   try:
-                      s = smtp_open(); s.send_message(msg); s.quit(); return
+                      with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as s:
+                          s.starttls(); s.login(MAIL_USER, MAIL_PASS); s.send_message(msg); return
                   except Exception:
                       if attempt == 2: raise
                       time.sleep(15)
-
-          # ======================= delivery: vault (primary, verified) + email (copy) + encrypted fallback =======================
-          DOCX = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-          MIME = {".docx": DOCX, ".md": "text/markdown"}
-          def deliver(bundle, subject, body):
-              """Vault first (verified), then email. Anything not delivered is kept ENCRYPTED in vault-outbox/ and retried.
-              Returns (status, vault_link): vault+email / vault / email / pending / lost."""
-              link = vault_store(bundle) if VAULT["ok"] else None
-              mailed = False
-              if MAIL["ok"]:
-                  try:
-                      send(subject, (f"Saved privately: {link}\n\n" if link else "") + body,
-                           [(n, d, MIME.get(Path(n).suffix, "application/octet-stream")) for n, d in bundle["files"].items()]); mailed = True
-                  except Exception as e: log.append(f"EMAIL   failed ({type(e).__name__})")
-              need_vault, need_mail = VAULT_ON and not link, MAIL_ON and not mailed
-              pending = False
-              if link and need_mail:                                   # vault OK, email failed → queue the email privately IN the vault
-                  note = json.dumps({"folder": bundle["folder"], "subject": subject, "made": T}).encode()
-                  if vault_put(f"outbox/{hashlib.sha256(bundle['folder'].encode()).hexdigest()[:16]}.json", note, "email queued"):
-                      need_mail, pending = False, True
-              if need_vault or need_mail:
-                  if OUTBOX_KEY and len(OUTBOX_KEY) >= 24:
-                      Path("vault-outbox").mkdir(exist_ok=True)
-                      pkg = {"folder": bundle["folder"], "row": bundle["row"], "subject": subject, "body": body, "need_mail": need_mail,
-                             "need_vault": need_vault, "made": T, "files": {n: base64.b64encode(d).decode() for n, d in bundle["files"].items()}}
-                      Path("vault-outbox", hashlib.sha256(bundle["folder"].encode()).hexdigest()[:16] + ".sealed").write_bytes(seal(json.dumps(pkg).encode(), OUTBOX_KEY))
-                      pending = True
-                  else:
-                      log.append("OUTBOX  no strong OUTBOX_KEY secret (24+ characters) – a missed delivery cannot be kept safely for a retry")
-              if link and mailed: return "vault+email", link
-              if link: return ("vault+email-queued" if pending else "vault"), link
-              if mailed: return "email", None
-              return ("pending" if pending else "lost"), None
-          def retry_vault_mail():
-              """Emails that failed while the vault worked: re-send from the PRIVATE vault copy (no AI used)."""
-              if not (VAULT["ok"] and MAIL["ok"]): return
-              code, body, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/outbox?ref={qp(VAULT['branch'])}")
-              if code != 200: return
-              for f in json.loads(body)[:6]:
-                  if not f.get("name", "").endswith(".json"): continue
-                  c, raw, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/{qp(f['path'])}?ref={qp(VAULT['branch'])}", accept="application/vnd.github.raw+json")
-                  if c != 200: continue
-                  try: note = json.loads(raw)
-                  except Exception: vault_delete(f["path"], f["sha"], "bad note"); continue
-                  files = {}
-                  c2, lst, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/{qp(note['folder'])}?ref={qp(VAULT['branch'])}")
-                  for x in (json.loads(lst) if c2 == 200 else []):
-                      c3, data, _ = vapi("GET", f"/repos/{VAULT_REPO}/contents/{qp(x['path'])}?ref={qp(VAULT['branch'])}", accept="application/vnd.github.raw+json")
-                      if c3 == 200: files[x["name"]] = data
-                  if not files: continue
-                  link = f"https://github.com/{VAULT_REPO}/tree/{VAULT['branch']}/{qp(note['folder'])}"
-                  try:
-                      send(note["subject"] + " (delayed)", f"Saved privately: {link}\n\n" + files.get("report.md", b"").decode("utf-8", "replace"),
-                           [(n, d, MIME.get(Path(n).suffix, "application/octet-stream")) for n, d in files.items()])
-                      vault_delete(f["path"], f["sha"], "email sent"); log.append("OUTBOX  one delayed email sent from the vault copy")
+          def tell(subject, text):
+              if MAIL_USER and MAIL_PASS:
+                  try: send(subject, text, [])
                   except Exception: pass
-          def retry_outbox():
-              """Runs before any AI: finishes deliveries that failed earlier (no AI used)."""
-              retry_vault_mail()
-              if not Path("vault-outbox").is_dir() or not OUTBOX_KEY: return
-              for f in sorted(Path("vault-outbox").glob("*.sealed"))[:6]:
-                  raw = unseal(f.read_bytes(), OUTBOX_KEY)
-                  if raw is None:
-                      log.append("OUTBOX  one package cannot be decrypted (OUTBOX_KEY changed?) – kept, not deleted"); continue
-                  pkg = json.loads(raw); files = {n: base64.b64decode(d) for n, d in pkg["files"].items()}
-                  if pkg.get("need_vault") and not VAULT_ON: pkg["need_vault"] = False
-                  if pkg.get("need_mail") and not MAIL_ON: pkg["need_mail"] = False
-                  link = None
-                  if pkg.get("need_vault") and VAULT["ok"]:
-                      link = vault_store({"folder": pkg["folder"], "files": files, "row": pkg["row"]})
-                      if link: pkg["need_vault"] = False
-                  if pkg.get("need_mail") and MAIL["ok"]:
-                      try:
-                          send(pkg["subject"] + " (delayed)", (f"Saved privately: {link}\n\n" if link else "") + pkg["body"],
-                               [(n, d, MIME.get(Path(n).suffix, "application/octet-stream")) for n, d in files.items()]); pkg["need_mail"] = False
-                      except Exception: pass
-                  if not pkg["need_vault"] and not pkg["need_mail"]:
-                      f.unlink(); log.append("OUTBOX  one earlier pack delivered")
-                  elif (TODAY - date.fromisoformat(pkg.get("made", T))).days > 30:
-                      f.unlink(); issue("Deep-dive agent: an undelivered pack was discarded after 30 days",
-                                        "A pack could not be delivered for 30 days and was deleted. Check the VAULT_TOKEN and MAIL_PASS secrets.")
-                  else:
-                      f.write_bytes(seal(json.dumps(pkg).encode(), OUTBOX_KEY))
-          MAIL = {"ok": False, "why": "not set up"}
 
-          # ======================= helpers for this run =======================
+          DOCX = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
           _top = [l.strip() for l in MASTER_CV.splitlines() if l.strip()][:2]
           LETTERHEAD = ("**" + _top[0].lstrip("# ") + "**\n" + (_top[1] + "\n" if len(_top) > 1 else "") + TODAY.strftime("%d %B %Y") + "\n\n") if _top else ""
           def title_of(raw, text):
               m = re.search(rb"<title[^>]*>(.*?)</title>", raw or b"", re.S | re.I)
               t = clean(m[1].decode("utf-8", "replace")).split(" | ")[0].split(" - ")[0] if m else ""
               return (t or (text or "")[:80].split(".")[0] or "Job")[:140]
-          def private_note(subject, text):                       # tells YOU privately (email); never in the public log
-              if MAIL["ok"]:
-                  try: send(subject, text, [])
-                  except Exception: pass
-          def mark_skip(j):
-              def fn(st): st.setdefault("deep_done", {})[hkey(j)] = {"pack": "deep-skip", "day": T}; tidy_keys(st)
-              ledger_update(fn, f"{RUN_ID}: skip unreadable job")
 
-          # ======================= 1. what to work on =======================
-          reqs, public_inbox_done = [], []
-          if JOB_URL: reqs.append({"link": JOB_URL, "text": None, "title": "", "src": "link"})
-          vault_check()
-          for v in vault_inbox():                                  # PRIVATE inbox in the vault repository
-              m = re.search(r"https?://\S+", v["text"])
-              reqs.append({"link": m[0].rstrip(").,>") if m else "", "text": v["text"], "title": "", "src": "vault", "vpath": v["path"], "vsha": v["sha"]})
-          for f in sorted(Path("cv-inbox").glob("*"))[:MAX_JOBS] if Path("cv-inbox").is_dir() else []:     # public inbox (legacy)
+          # ======================= what to work on =======================
+          reqs, inbox_done = [], []
+          if JOB_URL: reqs.append({"link": JOB_URL, "file": None, "text": None, "title": ""})
+          for f in sorted(Path("cv-inbox").glob("*"))[:MAX_JOBS] if Path("cv-inbox").is_dir() else []:
               if f.suffix.lower() not in (".txt", ".md") or f.name.lower().startswith("readme"): continue
-              body = f.read_text(encoding="utf-8", errors="replace")[:60000]; m = re.search(r"https?://\S+", body)
-              reqs.append({"link": m[0].rstrip(").,>") if m else "", "text": body, "title": "", "src": "public", "file": f})
-              summary.append("Tip: the public cv-inbox/ folder is visible to everyone – use the private vault's inbox/ folder instead.")
-          if AUTO and not reqs:
+              body = f.read_text(encoding="utf-8", errors="replace")[:60000]
+              m = re.search(r"https?://\S+", body)
+              reqs.append({"link": m[0].rstrip(").,>") if m else "", "file": f, "text": body, "title": ""})
+          if AUTO and not reqs:                                     # automatic: best open jobs from the job agent's list
               try: jl = json.loads(Path("jobs.json").read_text(encoding="utf-8")).get("jobs", [])
               except Exception: jl = []
-              _, st0 = ledger_read(); st0 = roll(st0) if st0 else {}
-              today_deep = st0.get("deep_today", 0) if st0.get("deep_day") == T else 0
+              _, st0 = ledger_read()
+              st0 = roll(st0) if st0 else {}
+              done = (st0 or {}).get("done", {})
+              today_deep = (st0 or {}).get("deep_today", 0) if (st0 or {}).get("deep_day") == T else 0
               def dl(j):
                   try: return (date.fromisoformat(j.get("deadline") or "") - TODAY).days
                   except Exception: return None
               cand = [j for j in jl if j.get("status", "open") == "open" and j.get("fit") in DEEP_FITS and (dl(j) is None or dl(j) >= 0)
-                      and str(j.get("link", "")).startswith("http") and not generic(j["link"]) and not is_done(j, st0)
-                      and not str(j.get("pack", "")).startswith("needs-link")]
+                      and str(j.get("link", "")).startswith("http") and not generic(j["link"]) and jkey(j) not in done
+                      and j.get("deep_tries", 0) < 3 and not str(j.get("pack", "")).startswith("needs-link")]
               cand.sort(key=lambda j: (0 if (dl(j) is not None and dl(j) <= 7) else 1, dl(j) if dl(j) is not None else 999))
               room = max(0, DEEP_PER_DAY - today_deep)
-              reqs = [{"link": j["link"], "text": None, "title": j["title"], "src": "auto"} for j in cand[:min(1, room)]]
+              reqs = [{"link": j["link"], "file": None, "text": None, "title": j["title"], "auto": True} for j in cand[:min(1, room)]]
               if not room: summary.append(f"Automatic deep packs: daily limit of {DEEP_PER_DAY} reached.")
           reqs = reqs[:MAX_JOBS]
 
-          # ======================= 2. delivery health (no AI used) =======================
-          if VAULT_ON and not VAULT["ok"]: summary.append(f"⚠️ Private vault not usable: {VAULT['why']}.")
-          if VAULT["ok"] and VAULT["exp_days"] is not None and VAULT["exp_days"] <= 14:
-              issue("Deep-dive agent: VAULT_TOKEN expires soon", f"The vault token expires in about {VAULT['exp_days']} day(s). "
-                    "Create a new fine-grained token (same settings) and update the VAULT_TOKEN secret.")
-          vault_queue = VAULT["ok"] and vapi("GET", f"/repos/{VAULT_REPO}/contents/outbox?ref={qp(VAULT['branch'])}")[0] == 200
-          if reqs or Path("vault-outbox").is_dir() or vault_queue:
-              ok, why = mail_check(); MAIL.update(ok=ok, why=why)
-              if MAIL_ON and not ok: summary.append(f"⚠️ Email not usable: {why}.")
-          retry_outbox()
-          if OUTBOX_KEY and len(OUTBOX_KEY) < 24: summary.append("⚠️ OUTBOX_KEY is shorter than 24 characters – it is not used. Set a long random value.")
-          if not VAULT_ON: summary.append("Reports are delivered by email only. Add a private vault (VAULT_REPO + VAULT_TOKEN) for a verified private archive.")
-
-          # ======================= 3. gates =======================
           problems = []
           if not AI_ON: problems.append("AI is switched off (repository variable AI_ENABLED = no)")
           if not MASTER_CV: problems.append("the MASTER_CV secret is missing")
+          if not (MAIL_USER and MAIL_PASS): problems.append("the MAIL_USER / MAIL_PASS secrets are missing (packs are only delivered by email)")
           if not TOKEN: problems.append("no GitHub token")
-          if not (VAULT["ok"] or MAIL["ok"]): problems.append("no working private delivery channel (vault and email both unavailable)")
-          if AUTO and ((VAULT_ON and not VAULT["ok"]) or (MAIL_ON and not MAIL["ok"])):
-              problems.append("automatic mode pauses while a configured delivery channel is failing (no AI budget is spent on packs that cannot be delivered)")
-          if reqs and not (VAULT["ok"] or MAIL["ok"]):
-              issue("Deep-dive agent: no private delivery channel works", "Both the private vault and email failed their checks, so no AI was used. "
-                    "Check the VAULT_TOKEN secret / VAULT_REPO variable and the MAIL_USER / MAIL_PASS secrets.")
-
-          # ======================= 4. build and deliver =======================
           if not reqs:
-              summary.append("Nothing to do now." if AUTO else "Nothing to do: paste a job link in Run workflow, or add a file to the vault's inbox/ folder.")
+              summary.append("Nothing to do now." if AUTO else "Nothing to do: paste a job link in **Run workflow**, or add a file to `cv-inbox/`.")
           elif problems:
               summary.append("Not started: " + "; ".join(problems) + ".")
           else:
-              jobs = []
+              jobs, marks = [], {}
               for r in reqs:
-                  raw, text = None, r["text"]; pasted = bool(text and len(text) > 400)
-                  if not pasted and r["link"] and not generic(r["link"]):
+                  raw, text = None, r["text"]
+                  pasted = bool(text and len(text) > 400)
+                  if not pasted and r["link"]:
                       try: raw = get(r["link"], 20); text = page_text(raw)
-                      except Exception as e: text = None; log.append(f"LINK    could not open a job page ({type(e).__name__})")
+                      except Exception as e: text = None; log.append(f"LINK    could not open {r['link'][:70]} ({str(e)[:60]})")
                   first = next((l.strip("# ").strip() for l in (r["text"] or "").splitlines() if l.strip() and not l.strip().startswith("http")), "")
-                  job = {**r, "title": r["title"] or (first[:140] if r["text"] else "") or title_of(raw, text)}
+                  job = {"title": r["title"] or (first[:140] if r["text"] else "") or title_of(raw, text), "link": r["link"], "file": r["file"], "auto": r.get("auto")}
+                  if generic(job["link"]) and not pasted: text = None
                   if not jd_ok(text, pasted):
                       why = "the page could not be opened" if text is None else "the page does not show this job's own description (login page or job list)"
-                      summary.append(f"❌ {ref(job)} – {why}. No AI was used.")
-                      if r["src"] == "auto": mark_skip(job)
-                      else: private_note(f"Deep-dive agent: could not read {job['title'][:60]}",
-                                         f"The agent could not read the job description at:\n{r['link']}\n\nReason: {why}.\n\nFix: put the job link on line 1 and the "
-                                         "full job text below it in a new file in your PRIVATE vault repository's inbox/ folder. No AI budget was used.")
-                      if r["src"] == "vault": vault_delete(r["vpath"], r["vsha"], "processed")
-                      if r["src"] == "public": public_inbox_done.append(r["file"])
+                      summary.append(f"❌ **{job['title'][:80]}** – {why}. No AI was used.")
+                      if job["auto"]: marks[jkey(job)] = {"pack": "deep-skip", "day": T}
+                      else:
+                          tell(f"Deep-dive agent: could not read {job['title'][:60]}", f"The agent could not read the job description at:\n{r['link']}\n\nReason: {why}.\n\n"
+                               "Fix: in your repository select Add file → Create new file → name it cv-inbox/any-name.txt → paste the job link on the first line "
+                               "and the full job text below → Commit. The full pack is emailed a few minutes later.\n\nNo AI budget was used.")
+                      if r["file"]: inbox_done.append(r["file"])
                       continue
                   job["jd"] = text; jobs.append(job)
-              if jobs:
-                  L, why = acquire(len(jobs))
-                  if not L:
+              L = None
+              if jobs or marks:
+                  L, why = acquire(max(1, len(jobs))) if jobs else (None, "")
+                  if jobs and not L:
                       summary.append(f"⏳ Not started: {why}." + ("" if AUTO else " Your request is kept – run it again later."))
-                  else:
-                      failed, made = False, 0
-                      try:
-                          for job in jobs:
-                              if is_done(job, L.st) and job["src"] == "auto":
-                                  summary.append(f"↷ {ref(job)} – already done by another run."); continue
-                              if time.time() - START > RUN_GUARD:
-                                  summary.append(f"⏳ {ref(job)} – not started: run time limit; it stays queued."); continue
-                              av = {t: 0 if L.blocked.get(t) == T else L.res[t] for t in ("high", "low")}
-                              if av["high"] + av["low"] < 4: summary.append(f"⏳ {ref(job)} – not enough AI budget left in this run."); continue
-                              try:
-                                  analysis, salary, cv, cl, models, nq, ev = build(L, job, job["jd"])
-                              except NoAccess as e:
-                                  failed = True; summary.append("❌ AI refused access – check that GitHub Models is enabled for your account.")
-                                  issue("Job agent: AI (GitHub Models) is not available", f"The deep-dive agent was refused access ({e})."); break
-                              except Stop as e:
-                                  failed = made == 0 and L.errors > 0; summary.append(f"⏳ {ref(job)} – AI stopped ({e}); it will be tried again."); break
-                              flags = checks(cv, cl, job["jd"], salary)
-                              letter = re.split(r"(?i)##\s*application email", cl)
-                              email_part = letter[1].strip() if len(letter) > 1 else ""
-                              srcs = [e for e in ev[1:] if e["lines"]]
-                              sal = re.sub(r"(?im)^##\s*salary expectations\s*$", "", salary).strip()
-                              report = (f"# Application pack (deep dive) – {job['title']}\n\n**Posting:** {job['link'] or 'pasted text'}  \n"
-                                        f"**Prepared:** {T} by {', '.join(models)} (GitHub Models) · web searches: {nq} · salary sources found: {len(srcs)}"
-                                        f"{'  · language: ' + LANG if LANG.lower() != 'auto' else ''}\n\n"
-                                        + ("## ⚠️ Check before sending\n" + "\n".join(f"- {x}" for x in flags) + "\n\n" if flags else "")
-                                        + f"---\n\n# A. Analysis, fit and HR prescreening\n\n{analysis}\n\n---\n\n# B. Salary expectations (web evidence)\n\n{sal}\n\n"
-                                        f"---\n\n# C. Tailored CV (copy-paste ready)\n\n{cv}\n\n---\n\n# D. Cover letter (copy-paste ready)\n\n{letter[0].strip()}\n\n"
-                                        f"---\n\n# E. Application email\n\n{email_part}\n")
-                              short = hashlib.sha256((old_key(job) + RUN_ID).encode()).hexdigest()[:6]
-                              folder = f"reports/{T[:4]}/{T[5:7]}/{T}_{slug(job['title'])[:40]}_{short}"
-                              base = f"{ascii_(CAND).replace(' ', '_')}_{slug(job['title'])[:40]}"
-                              bundle = {"folder": folder, "row": f"| {T} | {job['title'][:90].replace('|', '/')} | [{short}]({qp(folder)}) | {len(flags)} |",
-                                        "files": {"report.md": report.encode("utf-8"),
-                                                  f"{base}_CV.docx": docx_bytes(cv, "cv", f"CV – {job['title']}"),
-                                                  f"{base}_Cover_Letter.docx": docx_bytes(LETTERHEAD + letter[0], "cl", f"Cover letter – {job['title']}")}}
-                              body = (f"Deep-dive application pack for: {job['title']}\n{job['link']}\n\n"
-                                      + ("CHECK BEFORE SENDING:\n" + "\n".join(f"- {x}" for x in flags) + "\n\n" if flags else "No automatic warnings – still read every line before sending.\n\n")
-                                      + "Attached: full report, CV (Word), cover letter (Word). The full report follows below.\n\n" + report)
-                              status, link = deliver(bundle, f"Deep-dive pack: {job['title'][:90]}", body)
-                              if VAULT_ON and not link: L.vault_fail += 1
-                              if MAIL_ON and "email" not in status: L.mail_fail += 1
-                              if status == "lost":
-                                  summary.append(f"❌ {ref(job)} – pack could not be delivered or stored; it will be made again later."); continue
-                              L.delivered += 1; made += 1
-                              if not checkpoint(L, hkey(job), {"pack": "deep-" + status, "day": T}):
-                                  L.st.setdefault("deep_done", {})[hkey(job)] = {"pack": "deep-" + status, "day": T}
-                              if ENV("TEST_CRASH_AFTER_DELIVERY"): os._exit(9)            # test hook: simulates a killed run
-                              if job["src"] == "auto": L.deep += 1
-                              if job["src"] == "vault": vault_delete(job["vpath"], job["vsha"], "processed")
-                              if job["src"] == "public": public_inbox_done.append(job["file"])
-                              summary.append(f"✅ {ref(job)} – delivered: {status.replace('+', ' + ')} · {len(flags)} item(s) to check · {len(srcs)} salary source(s)")
-                      finally:
-                          release(L, failed)
-                          log.append(f"AI-LOCK reserved {L.used['high'] + L.used['low'] + L.res['high'] + L.res['low']}, used {L.used['high'] + L.used['low']}, "
-                                     f"refunded {L.res['high'] + L.res['low']} · web searches {L.searches}")
+                      log.append(f"AI      not now: {why}")
+              if L:
+                  L.done.update(marks)
+                  failed, made = False, 0
+                  try:
+                      for job in jobs:
+                          if L.st.get("done", {}).get(jkey(job)) and job["auto"]:
+                              summary.append(f"↷ **{job['title'][:80]}** – already done by another run."); continue
+                          av = {t: 0 if L.blocked.get(t) == T else L.res[t] for t in ("high", "low")}
+                          if av["high"] + av["low"] < 4:
+                              summary.append(f"⏳ **{job['title'][:80]}** – not enough AI budget left in this run."); continue
+                          try:
+                              analysis, salary, cv, cl, models, nq, ev = build(L, job, job["jd"])
+                          except NoAccess as e:
+                              failed = True; summary.append("❌ AI refused access – check that GitHub Models is enabled for your account.")
+                              issue("Job agent: AI (GitHub Models) is not available", f"The deep-dive agent was refused access ({str(e)[:120]}).")
+                              break
+                          except Stop as e:
+                              failed = made == 0 and L.errors > 0
+                              summary.append(f"⏳ **{job['title'][:80]}** – AI stopped ({e}); it will be tried again."); break
+                          flags = checks(cv, cl, job["jd"], salary)
+                          base = f"{ascii_(CAND).replace(' ', '_')}_{slug(job['title'])[:40]}"
+                          letter = re.split(r"(?i)##\s*application email", cl)
+                          email_part = letter[1].strip() if len(letter) > 1 else ""
+                          srcs = [e for e in ev[1:] if e["lines"]]
+                          report = (f"# Application pack (deep dive) – {job['title']}\n\n**Posting:** {job['link'] or 'pasted text'}  \n"
+                                    f"**Prepared:** {T} by {', '.join(models)} (GitHub Models) · web searches: {nq} · salary sources found: {len(srcs)}"
+                                    f"{'  · language: ' + LANG if LANG.lower() != 'auto' else ''}\n\n"
+                                    + ("## ⚠️ Check before sending\n" + "\n".join(f"- {x}" for x in flags) + "\n\n" if flags else "")
+                                    + f"---\n\n# A. Analysis, fit and HR prescreening\n\n{analysis}\n\n---\n\n# B. Salary expectations (web evidence)\n\n{re.sub(r"(?im)^##\s*salary expectations\s*$", "", salary).strip()}\n\n"
+                                    f"---\n\n# C. Tailored CV (copy-paste ready)\n\n{cv}\n\n---\n\n# D. Cover letter (copy-paste ready)\n\n{letter[0].strip()}\n\n"
+                                    f"---\n\n# E. Application email\n\n{email_part}\n")
+                          files = [(f"{base}_CV.docx", docx_bytes(cv, "cv", f"CV – {job['title']}"), DOCX),
+                                   (f"{base}_Cover_Letter.docx", docx_bytes(LETTERHEAD + letter[0], "cl", f"Cover letter – {job['title']}"), DOCX),
+                                   (f"{base}_Deep_Dive.md", report.encode("utf-8"), "text/markdown")]
+                          body = (f"Deep-dive application pack for: {job['title']}\n{job['link']}\n\n"
+                                  + ("CHECK BEFORE SENDING:\n" + "\n".join(f"- {x}" for x in flags) + "\n\n" if flags else "No automatic warnings – still read every line before sending.\n\n")
+                                  + "Attached: CV (Word), cover letter (Word), full report (text). The full report follows below.\n\n" + report)
+                          try:
+                              send(f"Deep-dive pack: {job['title'][:90]}", body, files)
+                              summary.append(f"✅ **{job['title'][:80]}** – deep-dive pack emailed ({len(flags)} item(s) to check, {len(srcs)} salary source(s)).")
+                              status = "deep-email"
+                          except Exception as e:
+                              Path("outbox").mkdir(exist_ok=True)
+                              Path("outbox", f"{T}-deep-{slug(job['title'])}.md.sealed").write_bytes(seal(report, MAIL_PASS))
+                              summary.append(f"📮 **{job['title'][:80]}** – email failed; saved encrypted in outbox/ and re-sent automatically (text version).")
+                              log.append(f"EMAIL   failed ({str(e)[:60]})"); status = "deep-outbox"
+                          L.done[jkey(job)] = {"pack": status, "day": T}; made += 1
+                          if job["auto"]: L.deep += 1
+                          if job["file"]: inbox_done.append(job["file"])
+                  finally:
+                      release(L, failed)
+                      log.append(f"AI-LOCK reserved {L.used['high'] + L.used['low'] + L.res['high'] + L.res['low']}, used {L.used['high'] + L.used['low']}, "
+                                 f"refunded {L.res['high'] + L.res['low']} · web searches {L.searches}")
+              elif marks:                                              # nothing to build, but remember unreadable auto jobs
+                  for _ in range(3):
+                      sha, st = ledger_read()
+                      if st is None or st.get("holder"): break
+                      st = roll(st); st.setdefault("done", {}).update(marks)
+                      if ledger_write(sha, st, f"{RUN_ID}: mark unreadable jobs"): break
 
-          # ======================= 5. save public changes (inbox removals, encrypted outbox) – generic commit message =======================
-          for f in public_inbox_done: Path(f).unlink(missing_ok=True)
-          changed = [p for p in ("cv-inbox", "vault-outbox") if Path(p).exists() or git("ls-files", p).stdout.strip()]
+          # ======================= tidy up =======================
+          for f in inbox_done: Path(f).unlink(missing_ok=True)
+          changed = [p for p in ("cv-inbox", "outbox") if Path(p).exists() or git("ls-files", p).stdout.strip()]
           if changed:
               git("add", "-A", "--", *changed)
               if git("diff", "--cached", "--quiet").returncode != 0:
-                  git("commit", "-q", "-m", "agent update")
-                  br = ENV("GITHUB_REF_NAME", "main")
+                  git("commit", "-q", "-m", f"Deep-dive agent {T}")
                   for i in range(3):
-                      if git("pull", "--quiet", "--rebase", "-X", "theirs", "origin", br).returncode == 0 and git("push", "--quiet", "origin", f"HEAD:{br}").returncode == 0: break
+                      if git("pull", "--quiet", "--rebase", "-X", "theirs", "origin", ENV("GITHUB_REF_NAME", "main")).returncode == 0 and \
+                         git("push", "--quiet", "origin", f"HEAD:{ENV('GITHUB_REF_NAME', 'main')}").returncode == 0: break
                       time.sleep(5 * (i + 1))
-                  else: log.append("SAVE    could not save inbox/outbox changes (retried next run)")
-
-          # PUBLIC output: references (#abc123) and status only – job titles, links and content go only to your vault/email
-          out = "\n".join(["## Deep-dive application agent"] + [f"- {s}" for s in summary] + ([f"- Issue opened/kept: {a}" for a in alerts] if alerts else [])
-                          + ["", "```", *log, "```"])
+                  else: log.append("SAVE    could not save the cv-inbox/outbox changes (retried next time)")
+          out = "\n".join(["## Deep-dive application agent"] + [f"- {s}" for s in summary] + ["", "```", *log, "```"])
           print(out)
           if ENV("GITHUB_STEP_SUMMARY"): Path(ENV("GITHUB_STEP_SUMMARY")).write_text(out, encoding="utf-8")
           PY
