@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**45 open jobs** (🟢 11 · 🟡 20 · ⚪ 14) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 25 waiting · updated 2026-10-06 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**48 open jobs** (🟢 11 · 🟡 22 · ⚪ 15) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 28 waiting · updated 2026-10-06 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -34,6 +34,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) 🆕 | UN-Habitat · Montreal · consultancy | 2026-10-21 | 15 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 24 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) 🆕 | UN-Habitat · Nairobi | 2026-11-07 | 32 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania](https://unjobs.org/vacancies/1791297050460) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Skills Adviser Building, Construction & Workforce Development](https://unjobs.org/vacancies/1791176514795) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Coordinator](https://unjobs.org/vacancies/1791230820933) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791190732675) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon](https://unjobs.org/vacancies/1790951875279) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
@@ -50,6 +52,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) 🆕 | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | 9 days | ⚪ Low | 🔗 needs the job's own link | Junior – you're overqualified |
 | [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) 🆕 | EIB · Luxembourg | 2026-10-21 | 15 days | ⚪ Low | 🔗 needs the job's own link | EIB usually hires EU nationals |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) 🆕 | UN-Habitat · Montreal · consultancy | 2026-10-21 | 15 days | ⚪ Low | 🔗 needs the job's own link | Policy research. Deadline from listing |
+| [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Shelter and WaSH Technical Assistant Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153877) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
