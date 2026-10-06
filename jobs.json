@@ -3,31 +3,31 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-06T1"
+    "muted": "2026-10-06T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-06",
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 4,
+   "rev": 6,
    "day": "2026-10-06",
    "used": {
-    "high": 4,
+    "high": 6,
     "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-06T11",
+   "hour": "2026-10-06T13",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "07ed41f50d09c774dc744c02d49f097bec2365785c30e241a563304a632f94c1",
-  "site_time": "2026-10-06T11:07:35.014394+00:00"
+  "site_hash": "464d5158d4ff64ab1ff38dd965526035912c17dcc48a73de5dfa381821cb2ac7",
+  "site_time": "2026-10-06T13:22:11.190639+00:00"
  },
  "jobs": [
   {
