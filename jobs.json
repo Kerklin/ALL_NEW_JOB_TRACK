@@ -77,13 +77,13 @@
     "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-06T13",
-   "hour_used": 2,
+   "hour": "2026-10-06T16",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
   "site_hash": "464d5158d4ff64ab1ff38dd965526035912c17dcc48a73de5dfa381821cb2ac7",
-  "site_time": "2026-10-06T13:22:11.190639+00:00"
+  "site_time": "2026-10-06T16:53:03.648571+00:00"
  },
  "jobs": [
   {
