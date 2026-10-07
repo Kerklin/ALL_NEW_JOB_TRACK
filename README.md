@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**48 open jobs** (🟢 11 · 🟡 22 · ⚪ 15) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 28 waiting · updated 2026-10-07 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**52 open jobs** (🟢 14 · 🟡 22 · ⚪ 16) · AI today: 10 of 130 requests (max 16/hour) · 0 packs · 32 waiting · updated 2026-10-07 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -15,6 +15,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 23 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS · Homs · IICA-2 | 2026-10-30 | 23 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) 🆕 | Huawei · Sarajevo | 2026-12-14 | 68 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791396181599) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
+| [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791396181477) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Joint Project Coordinator \[Opent to Tier 1 & 2 applicants\], Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1790801308669) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Project Manager, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1789649136938) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1778607480538) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
@@ -52,6 +55,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) 🆕 | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | 8 days | ⚪ Low | 🔗 needs the job's own link | Junior – you're overqualified |
 | [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) 🆕 | EIB · Luxembourg | 2026-10-21 | 14 days | ⚪ Low | 🔗 needs the job's own link | EIB usually hires EU nationals |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) 🆕 | UN-Habitat · Montreal · consultancy | 2026-10-21 | 14 days | ⚪ Low | 🔗 needs the job's own link | Policy research. Deadline from listing |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) 🆕 | via UNjobs · infrastructure projects | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Shelter and WaSH Technical Assistant Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153877) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
@@ -86,11 +90,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-06 |
-| unvacancies · UNOPS | 2026-10-06 |
+| unvacancies · UNOPS | 2026-10-07 |
 | unvacancies · UN-Habitat | 2026-10-07 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-07 |
 | UNjobs · construction | 2026-10-06 |
-| UNjobs · infrastructure projects | 2026-10-06 |
+| UNjobs · infrastructure projects | 2026-10-07 |
 | UNOPS careers | 2026-10-07 |
 | UNICEF · construction | 2026-10-07 |
 

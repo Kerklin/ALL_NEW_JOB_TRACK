@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-06T2"
+    "muted": "2026-10-07T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-06T2"
+    "muted": "2026-10-07T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,74 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 18,
+   "rev": 20,
    "day": "2026-10-07",
    "used": {
-    "high": 6,
-    "low": 2
+    "high": 7,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-07T19",
-   "hour_used": 0,
+   "hour": "2026-10-07T23",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "6e5f3100bd401fbd97ccd6c458de974a7d626a048b3a4a5966058a122a9301d2",
-  "site_time": "2026-10-07T19:33:42.631056+00:00"
+  "site_hash": "68c9f5de10320b0f18ab0ff9f495724bf6609fd950897d7f803a0b5e65739c5d",
+  "site_time": "2026-10-07T23:44:30.928587+00:00"
  },
  "jobs": [
+  {
+   "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791394751777",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791396181599",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791396181477",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791352893661",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-07",
+   "status": "open",
+   "checked": "2026-10-07",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania",
    "info": "via UNjobs · construction",
