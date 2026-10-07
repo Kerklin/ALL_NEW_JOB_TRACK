@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-07T0"
+    "muted": "2026-10-07T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-07T0"
+    "muted": "2026-10-07T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 12,
+   "rev": 16,
    "day": "2026-10-07",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-07T06",
-   "hour_used": 0,
+   "hour": "2026-10-07T13",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "42b59d2cf4a5f97b375affb7ca1bb43afdc12a6fd1891f7acb85a120a54882b3",
-  "site_time": "2026-10-07T06:32:32.451732+00:00"
+  "site_hash": "df8b73b69ad2ac74d2df78102b9f44eadb269733225652de4afc937ec677a449",
+  "site_time": "2026-10-07T13:47:39.296512+00:00"
  },
  "jobs": [
   {
