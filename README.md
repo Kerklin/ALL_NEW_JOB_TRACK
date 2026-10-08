@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**56 open jobs** (🟢 15 · 🟡 24 · ⚪ 17) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 36 waiting · updated 2026-10-08 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**57 open jobs** (🟢 16 · 🟡 24 · ⚪ 17) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 37 waiting · updated 2026-10-08 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -12,6 +12,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
 | [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 2 days | 🟢 High | ⏳ queued | Check French + nationality rules |
+| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa) 🆕 | via UNICEF · construction | 2026-10-18 | 10 days | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 22 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 22 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 67 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
@@ -96,10 +97,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-08 |
 | unvacancies · UNOPS | 2026-10-07 |
 | unvacancies · UN-Habitat | 2026-10-07 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-07 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-08 |
 | UNjobs · construction | 2026-10-08 |
 | UNjobs · infrastructure projects | 2026-10-07 |
 | UNOPS careers | 2026-10-07 |
-| UNICEF · construction | 2026-10-07 |
+| UNICEF · construction | 2026-10-08 |
 
 </details>
