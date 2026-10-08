@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-06T3"
+    "muted": "2026-10-08T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-07T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,80 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-07",
+  "maint": "2026-10-08",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 20,
-   "day": "2026-10-07",
+   "rev": 24,
+   "day": "2026-10-08",
    "used": {
-    "high": 7,
-    "low": 3
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-07T23",
+   "hour": "2026-10-08T02",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "68c9f5de10320b0f18ab0ff9f495724bf6609fd950897d7f803a0b5e65739c5d",
-  "site_time": "2026-10-07T23:44:30.928587+00:00"
+  "site_hash": "c6545bb070ba4fbc7317f3c41adca3d2cc7a1a6cf43ce4a1c04064c861cf7bf9",
+  "site_time": "2026-10-08T02:57:23.761029+00:00"
  },
  "jobs": [
+  {
+   "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925",
+   "deadline": "2026-10-20",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791394768869",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Director, Sustainable Infrastructure Portfolio and Implementation",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791373293624",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791345738022",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · infrastructure projects",
@@ -342,7 +394,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -355,7 +407,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -368,7 +420,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -381,7 +433,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -420,7 +472,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "needs-link",
    "tries": 0
   },
@@ -433,7 +485,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -472,7 +524,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -498,7 +550,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -511,7 +563,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -524,7 +576,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -589,7 +641,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -602,7 +654,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -615,7 +667,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -628,7 +680,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "needs-link",
    "tries": 0
   },
@@ -680,7 +732,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
