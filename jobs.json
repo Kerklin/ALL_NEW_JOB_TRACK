@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-09T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-09T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 36,
+   "rev": 40,
    "day": "2026-10-09",
    "used": {
-    "high": 3,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-09T07",
-   "hour_used": 0,
+   "hour": "2026-10-09T14",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "81015aed59b203a7f93d7171dc3b9e5a03040d662538a7247832d02013fe6aa5",
-  "site_time": "2026-10-09T07:48:45.142216+00:00"
+  "site_hash": "48ec388d03a553684a3938c9fddc2c565db5c283f2bfd6103c2e2831f4d82c3f",
+  "site_time": "2026-10-09T14:42:08.382444+00:00"
  },
  "jobs": [
+  {
+   "title": "Facility Engineer (Civil), Aden, Yemen",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791522065800",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791464823412",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · construction",
