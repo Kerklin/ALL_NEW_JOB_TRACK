@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-08T3"
+    "muted": "2026-10-09T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-08T3"
+    "muted": "2026-10-09T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-08",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,32 +58,32 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-09",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-08",
+  "maint": "2026-10-09",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 30,
-   "day": "2026-10-08",
+   "rev": 34,
+   "day": "2026-10-09",
    "used": {
-    "high": 7,
-    "low": 3
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-08T21",
-   "hour_used": 0,
+   "hour": "2026-10-09T01",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "44a0f7b8c291339880ad7528f136ddafedeeede4a698d68c34b4d049c7fd75d7",
-  "site_time": "2026-10-08T21:51:02.512096+00:00"
+  "site_hash": "33b2defe3b1c7d033dd4e40f5f10cc79c5d85787153060fd580250ac5209bfa1",
+  "site_time": "2026-10-09T01:30:12.169177+00:00"
  },
  "jobs": [
   {
@@ -212,7 +212,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -222,10 +222,10 @@
    "link": "https://unjobs.org/vacancies/1791396181599",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -235,10 +235,10 @@
    "link": "https://unjobs.org/vacancies/1791396181477",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -251,7 +251,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -264,7 +264,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -277,7 +277,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -290,7 +290,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -303,7 +303,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -316,7 +316,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -329,7 +329,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -339,10 +339,10 @@
    "link": "https://unjobs.org/vacancies/1790801308669",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -355,7 +355,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -810,7 +810,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-09",
    "pack": "needs-link",
    "tries": 0
   },
@@ -849,7 +849,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-09",
    "pack": "needs-link",
    "tries": 0
   },
@@ -862,7 +862,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-09",
    "pack": "needs-link",
    "tries": 0
   },
