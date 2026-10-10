@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-08T2"
+    "muted": "2026-10-10T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-09T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,80 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-09",
+  "maint": "2026-10-10",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 42,
-   "day": "2026-10-09",
+   "rev": 46,
+   "day": "2026-10-10",
    "used": {
-    "high": 8,
-    "low": 2
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-09T23",
-   "hour_used": 0,
+   "hour": "2026-10-10T02",
+   "hour_used": 4,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "98ef873f6d8fb5481e79b4aedc51fccef0b9f500e83c57e6b9c8feec19c895a0",
-  "site_time": "2026-10-09T23:33:11.077694+00:00"
+  "site_hash": "f8f01e0c47ac8db12b29c97bf1440a43e6738ca38e2c2ae31bf0ba4abae6367d",
+  "site_time": "2026-10-10T02:38:47.697028+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH Supervisor, Tyre, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791556268009",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Coordinator South Sudan Ulang, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246881",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Officer, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246494",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash & Shelter Officer, Bouar, Central African Republic",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565245476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Facility Engineer (Civil), Aden, Yemen",
    "info": "via UNjobs · infrastructure projects",
@@ -121,7 +173,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -134,7 +186,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -147,7 +199,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -160,7 +212,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -173,7 +225,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -186,7 +238,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -199,7 +251,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -212,7 +264,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -394,7 +446,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -407,7 +459,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -420,7 +472,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -433,7 +485,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -446,7 +498,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -459,7 +511,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -472,7 +524,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
