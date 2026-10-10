@@ -77,13 +77,13 @@
     "low": 4
    },
    "packs": 0,
-   "hour": "2026-10-10T19",
-   "hour_used": 2,
+   "hour": "2026-10-10T22",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "cb0fa40c7d549572f75951de6024e5fe7f4f61d5f0cc878aa7e6f410ffaaf3cc",
-  "site_time": "2026-10-10T19:07:03.660877+00:00"
+  "site_hash": "41c07de3f0f23987e9cf499f69a8c3ba61a8ace9c07b68343e52a64da25f6c3f",
+  "site_time": "2026-10-10T22:26:38.278613+00:00"
  },
  "jobs": [
   {
@@ -681,7 +681,7 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-08",
-   "pack": "",
+   "pack": "needs-link",
    "tries": 0
   },
   {
