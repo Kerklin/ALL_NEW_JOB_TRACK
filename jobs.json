@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T1"
+    "muted": "2026-10-10T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 48,
+   "rev": 50,
    "day": "2026-10-10",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-10T08",
+   "hour": "2026-10-10T14",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "57f56ff590df8548886eb142b3cc3794c8c682568ddc64379566442f98608915",
-  "site_time": "2026-10-10T08:57:22.746060+00:00"
+  "site_hash": "9c153d9c4b4187c3c90392be64e8cc1835b2a82365e0f8ec7c41c013b1115f91",
+  "site_time": "2026-10-10T14:58:28.097225+00:00"
  },
  "jobs": [
+  {
+   "title": "SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791395387894",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Project Associate – Shelter (Gaza Response)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791453622548",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture) – Housing Improvements",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791633706500",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
    "info": "via UNjobs · construction",
