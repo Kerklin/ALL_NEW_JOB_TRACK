@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 46,
+   "rev": 48,
    "day": "2026-10-10",
    "used": {
-    "high": 3,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-10T02",
-   "hour_used": 4,
+   "hour": "2026-10-10T08",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "f8f01e0c47ac8db12b29c97bf1440a43e6738ca38e2c2ae31bf0ba4abae6367d",
-  "site_time": "2026-10-10T02:38:47.697028+00:00"
+  "site_hash": "57f56ff590df8548886eb142b3cc3794c8c682568ddc64379566442f98608915",
+  "site_time": "2026-10-10T08:57:22.746060+00:00"
  },
  "jobs": [
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791608868643",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Supervisor, Tyre, Lebanon",
    "info": "via UNjobs · construction",
