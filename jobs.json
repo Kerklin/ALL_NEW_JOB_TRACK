@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T2"
+    "muted": "2026-10-11T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-09T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 58,
+   "rev": 60,
    "day": "2026-10-11",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-11T07",
-   "hour_used": 2,
+   "hour": "2026-10-11T13",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "a8564f85690d169997f472b60a8f185ed683590ad8dd1921f62ee270e06d31a2",
-  "site_time": "2026-10-11T07:04:15.627251+00:00"
+  "site_hash": "233377896fe2774cc172c432db66e9de87980ff6ba9d4f36cccf0725ef65495d",
+  "site_time": "2026-10-11T13:55:31.625533+00:00"
  },
  "jobs": [
   {
