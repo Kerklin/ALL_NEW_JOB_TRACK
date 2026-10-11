@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**62 open jobs** (🟢 20 · 🟡 27 · ⚪ 15) · AI today: 10 of 130 requests (max 16/hour) · 0 packs · 45 waiting · updated 2026-10-11 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**63 open jobs** (🟢 20 · 🟡 28 · ⚪ 15) · AI today: 12 of 130 requests (max 16/hour) · 0 packs · 46 waiting · updated 2026-10-11 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -41,6 +41,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 10 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 19 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 27 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791712782551) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut](https://unjobs.org/vacancies/1791602788994) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Senior Project Associate – Shelter (Gaza Response)](https://unjobs.org/vacancies/1791453622548) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Shelter Coordinator South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246881) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |

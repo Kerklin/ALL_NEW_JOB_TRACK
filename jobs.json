@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-11T1"
+    "muted": "2026-10-11T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-11T1"
+    "muted": "2026-10-11T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 64,
+   "rev": 66,
    "day": "2026-10-11",
    "used": {
-    "high": 8,
+    "high": 10,
     "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-11T18",
-   "hour_used": 2,
+   "hour": "2026-10-11T22",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "9c6daa7f057df1832fd877dc3e8b5d44f9888ed6086c009464c57ffc6cb5b7aa",
-  "site_time": "2026-10-11T18:31:11.660739+00:00"
+  "site_hash": "b0a6ac2066aa5739102e7371d12463febbe736341256eb61e6bf7bd2f27e8823",
+  "site_time": "2026-10-11T22:20:28.325643+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791712782551",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-11",
+   "status": "open",
+   "checked": "2026-10-11",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · infrastructure projects",
