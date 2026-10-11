@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-10T3"
+    "muted": "2026-10-11T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-10T3"
+    "muted": "2026-10-11T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-10",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-10",
+  "maint": "2026-10-11",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 54,
-   "day": "2026-10-10",
+   "day": "2026-10-11",
    "used": {
-    "high": 8,
-    "low": 4
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-10T22",
+   "hour": "2026-10-11T01",
    "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "41c07de3f0f23987e9cf499f69a8c3ba61a8ace9c07b68343e52a64da25f6c3f",
-  "site_time": "2026-10-10T22:26:38.278613+00:00"
+  "site_hash": "8c426dbc3c32fdb67bc151fa2a7b3bbed9d83d48db783131856622c94f705864",
+  "site_time": "2026-10-11T01:05:57.004054+00:00"
  },
  "jobs": [
   {
@@ -326,10 +326,10 @@
    "link": "https://unjobs.org/vacancies/1791345738022",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-11)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-08",
+   "status": "removed",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -586,10 +586,10 @@
    "link": "https://unjobs.org/vacancies/1791190732675",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-11)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-08",
+   "status": "removed",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -602,7 +602,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -615,7 +615,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -628,7 +628,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -667,7 +667,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
@@ -680,7 +680,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
@@ -719,7 +719,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -745,7 +745,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -758,7 +758,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -771,7 +771,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -836,7 +836,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -849,7 +849,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -862,7 +862,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -875,7 +875,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "needs-link",
    "tries": 0
   },
