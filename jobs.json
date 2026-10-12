@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-12T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-12T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-11",
+  "maint": "2026-10-12",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 66,
-   "day": "2026-10-11",
+   "day": "2026-10-12",
    "used": {
-    "high": 10,
-    "low": 2
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-11T22",
+   "hour": "2026-10-12T01",
    "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "b0a6ac2066aa5739102e7371d12463febbe736341256eb61e6bf7bd2f27e8823",
-  "site_time": "2026-10-11T22:20:28.325643+00:00"
+  "site_hash": "0eeec205cf289436543fd6a870ab48cd996773e7640929854ea45d22f5c35c05",
+  "site_time": "2026-10-12T01:24:46.346343+00:00"
  },
  "jobs": [
   {
@@ -238,7 +238,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -248,10 +248,10 @@
    "link": "https://unjobs.org/vacancies/1791464823412",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-12)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-09",
+   "status": "removed",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -381,7 +381,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -420,7 +420,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -433,7 +433,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -446,7 +446,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -459,7 +459,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -472,7 +472,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -485,7 +485,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -498,7 +498,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -521,10 +521,10 @@
    "link": "https://unjobs.org/vacancies/1789649136938",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-12)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-09",
+   "status": "removed",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -966,7 +966,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -979,7 +979,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1018,7 +1018,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1031,7 +1031,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "needs-link",
    "tries": 0
   },
