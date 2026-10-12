@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-11T2"
+    "muted": "2026-10-12T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-12T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,100 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 70,
+   "rev": 74,
    "day": "2026-10-12",
    "used": {
-    "high": 3,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-12T07",
+   "hour": "2026-10-12T16",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "65dea057f6724e95ace35ef3ff0b791f4d2d19648cb965644180818ab4961f2e",
-  "site_time": "2026-10-12T07:31:59.697809+00:00"
+  "site_hash": "fa77462408f15ca5e71e3d14774845ad882b577b5749b4026cf54c18c0e720d3",
+  "site_time": "2026-10-12T16:56:01.698280+00:00"
  },
  "jobs": [
+  {
+   "title": "Manager, Facilities Transportation, Alamo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791644019637",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Education Infrastructure Engineer, Damascus",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791813713952",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791805833982",
+   "deadline": "2026-10-26",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791805949717",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791806017218",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "National Building Code Adviser - STA",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791781328274",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-12",
+   "status": "open",
+   "checked": "2026-10-12",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
