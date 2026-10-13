@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-13T0"
+    "muted": "2026-10-13T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 84,
+   "rev": 86,
    "day": "2026-10-13",
    "used": {
-    "high": 5,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-13T18",
-   "hour_used": 0,
+   "hour": "2026-10-13T22",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "7c19352d48d688b14f615da1257e4a337fb662d6dd810a55a499ed6c6df28d02",
-  "site_time": "2026-10-13T18:07:34.289402+00:00"
+  "site_hash": "4ace22397244fc71a8c56e2dd1d7304ba2bc5f7396061d51eb5e0cb93cd056d6",
+  "site_time": "2026-10-13T22:38:42.735370+00:00"
  },
  "jobs": [
+  {
+   "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910843659",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791900091937",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Sanitation Engineer (Drainage Project)",
    "info": "via unvacancies · engineering",

@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**69 open jobs** (🟢 23 · 🟡 30 · ⚪ 16) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 52 waiting · updated 2026-10-13 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**71 open jobs** (🟢 24 · 🟡 31 · ⚪ 16) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 54 waiting · updated 2026-10-13 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -17,6 +17,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 17 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 17 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 62 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1791824450489) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Education Infrastructure Engineer, Damascus](https://unjobs.org/vacancies/1791813713952) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
@@ -45,6 +46,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan](https://unjobs.org/vacancies/1791805833982) 🆕 | via UNjobs · construction | 2026-10-26 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 17 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 25 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Manager, Facilities Transportation, Alamo](https://unjobs.org/vacancies/1791644019637) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [National Building Code Adviser - STA](https://unjobs.org/vacancies/1791781328274) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791712782551) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
