@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-12T2"
+    "muted": "2026-10-13T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-12T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,54 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-12",
-  "vcheck": "2026-10-06",
+  "maint": "2026-10-13",
+  "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 78,
-   "day": "2026-10-12",
+   "day": "2026-10-13",
    "used": {
-    "high": 9,
-    "low": 3
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-12T23",
-   "hour_used": 2,
+   "hour": "2026-10-13T03",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "80be05a61259da253009c07b4c41a6478d6517c503aa3ae688be2780ce39c304",
-  "site_time": "2026-10-12T23:23:02.691563+00:00"
+  "site_hash": "4d1bef7893b2c9da8227728ddd2b6e2aab01ed72d84ec856777a0ce5107edffd",
+  "site_time": "2026-10-13T03:39:27.127414+00:00"
  },
  "jobs": [
+  {
+   "title": "Sanitation Engineer (Drainage Project)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289",
+   "deadline": "2026-10-16",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791824450489",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-13",
+   "status": "open",
+   "checked": "2026-10-13",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Manager, Facilities Transportation, Alamo",
    "info": "via UNjobs · construction",
@@ -212,7 +238,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -225,7 +251,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -238,7 +264,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -251,7 +277,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -264,7 +290,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -277,7 +303,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -290,7 +316,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -303,7 +329,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -342,7 +368,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -355,7 +381,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -368,7 +394,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -381,7 +407,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -394,7 +420,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -407,7 +433,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -420,7 +446,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
