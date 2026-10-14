@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-12T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -77,15 +77,54 @@
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-14T01",
-   "hour_used": 2,
+   "hour": "2026-10-14T06",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "d0261f25074f502b1d454613fafc0fe929c5222d1754abaaed2814be026726c8",
-  "site_time": "2026-10-14T01:22:20.887732+00:00"
+  "site_hash": "4d586bed117a1288b191c35cedb6452b86164e7abe65334a32dbefa47256c9cb",
+  "site_time": "2026-10-14T06:15:20.096785+00:00"
  },
  "jobs": [
+  {
+   "title": "Officier WASH, Ouahigouya, Burkina Faso",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791954098327",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-14",
+   "status": "open",
+   "checked": "2026-10-14",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Management Services Associate, SC6, Engineer, (Multiple locations), Abeche, Chad",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791954093389",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-14",
+   "status": "open",
+   "checked": "2026-10-14",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Facilities Officer (Residential Real Estate Services) - CSFDF, Washington DC",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791897283060",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-14",
+   "status": "open",
+   "checked": "2026-10-14",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
