@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**70 open jobs** (🟢 25 · 🟡 32 · ⚪ 13) · AI today: 10 of 130 requests (max 16/hour) · 0 packs · 53 waiting · updated 2026-10-14 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**71 open jobs** (🟢 25 · 🟡 33 · ⚪ 13) · AI today: 14 of 130 requests (max 16/hour) · 0 packs · 54 waiting · updated 2026-10-14 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -44,6 +44,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops) | UNOPS · Gaza · P-4 | 2026-10-18 | 🔴 4 days | 🟡 Medium | 🔗 needs the job's own link | High-risk post. Deadline from listing |
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 🔴 7 days | 🟡 Medium | 🔗 needs the job's own link | Design/architecture angle. Deadline from listing |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 🔴 7 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing |
+| [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) 🆕 | via UNICEF · construction | 2026-10-22 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan](https://unjobs.org/vacancies/1791805833982) 🆕 | via UNjobs · construction | 2026-10-26 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 16 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 24 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
@@ -137,10 +138,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-14 |
 | unvacancies · UNOPS | 2026-10-14 |
 | unvacancies · UN-Habitat | 2026-10-14 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-12 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-14 |
 | UNjobs · construction | 2026-10-14 |
 | UNjobs · infrastructure projects | 2026-10-14 |
 | UNOPS careers | 2026-10-14 |
-| UNICEF · construction | 2026-10-12 |
+| UNICEF · construction | 2026-10-14 |
 
 </details>
