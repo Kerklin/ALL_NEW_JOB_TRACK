@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-13T1"
+    "muted": "2026-10-14T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-13T1"
+    "muted": "2026-10-14T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,28 +64,41 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-13",
+  "maint": "2026-10-14",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 86,
-   "day": "2026-10-13",
+   "rev": 90,
+   "day": "2026-10-14",
    "used": {
-    "high": 6,
-    "low": 2
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-13T22",
+   "hour": "2026-10-14T01",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4ace22397244fc71a8c56e2dd1d7304ba2bc5f7396061d51eb5e0cb93cd056d6",
-  "site_time": "2026-10-13T22:38:42.735370+00:00"
+  "site_hash": "d0261f25074f502b1d454613fafc0fe929c5222d1754abaaed2814be026726c8",
+  "site_time": "2026-10-14T01:22:20.887732+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791882791098",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-14",
+   "status": "open",
+   "checked": "2026-10-14",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
    "info": "via UNjobs · construction",
@@ -222,10 +235,10 @@
    "link": "https://unjobs.org/vacancies/1791712782551",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-11",
-   "status": "open",
-   "checked": "2026-10-11",
+   "status": "removed",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -238,7 +251,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-11",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -251,7 +264,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-11",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -482,10 +495,10 @@
    "link": "https://unjobs.org/vacancies/1791373293624",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -667,7 +680,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -677,10 +690,10 @@
    "link": "https://unjobs.org/vacancies/1791230820933",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -690,10 +703,10 @@
    "link": "https://unjobs.org/vacancies/1791262896839",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -706,7 +719,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -716,10 +729,10 @@
    "link": "https://unjobs.org/vacancies/1791109153877",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -729,10 +742,10 @@
    "link": "https://unjobs.org/vacancies/1791109153601",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-10-14)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -745,7 +758,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -771,7 +784,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -784,7 +797,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -797,7 +810,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-14",
    "pack": "",
    "tries": 0
   },
@@ -836,7 +849,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11",
+   "checked": "2026-10-14",
    "pack": "needs-link",
    "tries": 0
   },
