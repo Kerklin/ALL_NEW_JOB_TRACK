@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 90,
+   "rev": 94,
    "day": "2026-10-14",
    "used": {
-    "high": 3,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-14T06",
-   "hour_used": 0,
+   "hour": "2026-10-14T11",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4d586bed117a1288b191c35cedb6452b86164e7abe65334a32dbefa47256c9cb",
-  "site_time": "2026-10-14T06:15:20.096785+00:00"
+  "site_hash": "6be02c45e029523c1cd0c0dfaeccc5c7a89e29cb6930e92dbe89bee7f07c351a",
+  "site_time": "2026-10-14T11:55:08.924702+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Environment, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968019122",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-14",
+   "status": "open",
+   "checked": "2026-10-14",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Environment, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018730",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-14",
+   "status": "open",
+   "checked": "2026-10-14",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Officier WASH, Ouahigouya, Burkina Faso",
    "info": "via UNjobs · construction",
