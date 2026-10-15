@@ -1,19 +1,22 @@
 {
  "v": 1,
- "rev": 100,
- "day": "2026-10-14",
+ "rev": 101,
+ "day": "2026-10-15",
  "used": {
-  "high": 11,
-  "low": 3
+  "high": 3,
+  "low": 1
  },
  "packs": 0,
- "hour": "2026-10-14T23",
- "hour_used": 2,
+ "hour": "2026-10-15T00",
+ "hour_used": 4,
  "blocked": {},
  "last_call": 1792019474.2346146,
- "holder": "",
- "expires": 0,
- "reserved": {},
+ "holder": "deep-38662462509",
+ "expires": 1792026497.5556285,
+ "reserved": {
+  "high": 3,
+  "low": 1
+ },
  "fail_streak": 2,
  "paused_until": 1792013392.2232416,
  "done": {},
