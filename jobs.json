@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-14T1"
+    "muted": "2026-10-15T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-14T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,74 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 102,
+   "rev": 104,
    "day": "2026-10-15",
    "used": {
-    "high": 2,
-    "low": 0
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-15T06",
-   "hour_used": 0,
+   "hour": "2026-10-15T11",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "20373e144c9b78ddd82d50aada6cacb524ecf182bbf0bd79c4300411ebd906ab",
-  "site_time": "2026-10-15T06:04:45.050300+00:00"
+  "site_hash": "e3358ff9ae7c2fbef350d9c14710c39a31aa60004f6e1b497edd7d31190fde77",
+  "site_time": "2026-10-15T11:18:56.276374+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792058510450",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Safeguards Coordinator, Infrastructure",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792040462591",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792058500199",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash Technical Assistant, North Afar, Ethiopia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791997248968",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
    "info": "via UNICEF · construction",

@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**65 open jobs** (🟢 25 · 🟡 28 · ⚪ 12) · AI today: 2 of 130 requests (max 16/hour) · 0 packs · 52 waiting · updated 2026-10-15 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**69 open jobs** (🟢 26 · 🟡 30 · ⚪ 13) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 56 waiting · updated 2026-10-15 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -17,6 +17,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 15 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 15 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 60 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792058510450) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Senior Manager, Sustainable Infrastructure - Environment, United States](https://unjobs.org/vacancies/1791968019122) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Senior Manager, Sustainable Infrastructure - Environment, London](https://unjobs.org/vacancies/1791968018730) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
@@ -44,6 +45,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan](https://unjobs.org/vacancies/1791805833982) | via UNjobs · construction | 2026-10-26 | 11 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 15 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 23 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Senior Safeguards Coordinator, Infrastructure](https://unjobs.org/vacancies/1792040462591) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
+| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1792058500199) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Officier WASH, Ouahigouya, Burkina Faso](https://unjobs.org/vacancies/1791954098327) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Management Services Associate, SC6, Engineer, (Multiple locations), Abeche, Chad](https://unjobs.org/vacancies/1791954093389) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Facilities Officer (Residential Real Estate Services) - CSFDF, Washington DC](https://unjobs.org/vacancies/1791897283060) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -69,6 +72,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 🔴 5 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) | EIB · Luxembourg | 2026-10-21 | 🔴 6 days | ⚪ Low | 🔗 needs the job's own link | EIB usually hires EU nationals |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 🔴 6 days | ⚪ Low | 🔗 needs the job's own link | Policy research. Deadline from listing |
+| [Wash Technical Assistant, North Afar, Ethiopia](https://unjobs.org/vacancies/1791997248968) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine](https://unjobs.org/vacancies/1791608868643) | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) | via UNjobs · infrastructure projects | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
@@ -135,11 +139,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-14 |
+| unvacancies · engineering | 2026-10-15 |
 | unvacancies · UNOPS | 2026-10-15 |
 | unvacancies · UN-Habitat | 2026-10-15 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-14 |
-| UNjobs · construction | 2026-10-14 |
+| UNjobs · construction | 2026-10-15 |
 | UNjobs · infrastructure projects | 2026-10-15 |
 | UNOPS careers | 2026-10-15 |
 | UNICEF · construction | 2026-10-14 |
