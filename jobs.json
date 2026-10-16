@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-15T2"
+    "muted": "2026-10-16T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-16T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -77,15 +77,93 @@
     "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-16T14",
-   "hour_used": 2,
+   "hour": "2026-10-16T17",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "6e2b0bac1f25ea37cb305d7c6cccd16982f9d90872182de4f3dc67b3084f18be",
-  "site_time": "2026-10-16T14:02:52.401915+00:00"
+  "site_hash": "3b2fb84880648b49ccef9a2268b5784898bbcdc337c11f1aeb6b70d0e256c3ec",
+  "site_time": "2026-10-16T17:56:22.999853+00:00"
  },
  "jobs": [
+  {
+   "title": "Civil Engineer/Architect",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-architect-open-to-internal-and-external-applicants-DP-37528",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "Found automatically (17 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Data Product and Engineering Consultant – UNJSPF TPV",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/data-product-and-engineering-consultant-total-portfolio-analysis-N-286407",
+   "deadline": "2026-10-25",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087264868",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087267794",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Engineer Consultant, Chisinau, Moldova, 8 months (Remote)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083758670",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792144906524",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Construction & Site Manager, Menongue, Angola",
    "info": "via UNjobs · infrastructure projects",
