@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**84 open jobs** (🟢 32 · 🟡 37 · ⚪ 15) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 72 waiting · updated 2026-10-16 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**85 open jobs** (🟢 32 · 🟡 37 · ⚪ 16) · AI today: 10 of 130 requests (max 16/hour) · 0 packs · 73 waiting · updated 2026-10-16 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -84,6 +84,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 🔴 4 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) | EIB · Luxembourg | 2026-10-21 | 🔴 5 days | ⚪ Low | 🔗 needs the job's own link | EIB usually hires EU nationals |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 🔴 5 days | ⚪ Low | 🔗 needs the job's own link | Policy research. Deadline from listing |
+| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) 🆕 | via unvacancies · engineering | 2026-10-28 | 12 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja/Aru, DR Congo](https://unjobs.org/vacancies/1791867671241) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Shelter and Settlement Officer, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910842362) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [WASH Officer, Uror, Jonglei State, South Sudan](https://unjobs.org/vacancies/1791910843244) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |

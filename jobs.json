@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-16T2"
+    "muted": "2026-10-16T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 120,
+   "rev": 122,
    "day": "2026-10-16",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 6,
+    "low": 4
    },
    "packs": 0,
-   "hour": "2026-10-16T17",
-   "hour_used": 0,
+   "hour": "2026-10-16T20",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "3b2fb84880648b49ccef9a2268b5784898bbcdc337c11f1aeb6b70d0e256c3ec",
-  "site_time": "2026-10-16T17:56:22.999853+00:00"
+  "site_hash": "33714bcf34679aeaf67b496bcee76c86a6f036da96a48122f487d278889f1ac1",
+  "site_time": "2026-10-16T20:19:39.095708+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
+   "deadline": "2026-10-28",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer/Architect",
    "info": "via unvacancies · engineering",
