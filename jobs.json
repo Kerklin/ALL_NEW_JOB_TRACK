@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-16T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-16T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 114,
+   "rev": 116,
    "day": "2026-10-16",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 2,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-16T04",
-   "hour_used": 0,
+   "hour": "2026-10-16T09",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "68daaa9c4e35b3f75e33d8b4a3efa1e1d1ff4c9305bbe23ec7d3db74794f1a6f",
-  "site_time": "2026-10-16T04:53:33.296111+00:00"
+  "site_hash": "f3faf2d430299117df0dc1355f4576ca216a65f7ea32f4e0836ad319afa69651",
+  "site_time": "2026-10-16T09:21:22.051751+00:00"
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792101963327",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792101948135",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792101947916",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA",
    "info": "via UNjobs · construction",
