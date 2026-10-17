@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-16T2"
+    "muted": "2026-10-17T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-16T2"
+    "muted": "2026-10-17T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 126,
+   "rev": 128,
    "day": "2026-10-17",
    "used": {
-    "high": 0,
-    "low": 0
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-17T00",
-   "hour_used": 0,
+   "hour": "2026-10-17T05",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "204847a1f3b3889967f293f966792de768f9a2e0638164531a7fe23ba2dcaa27",
-  "site_time": "2026-10-17T00:50:01.367127+00:00"
+  "site_hash": "8fc2314bbbec718ae2a2c54fda6cec21e3b77fb1337c278e9637abe6238d7463",
+  "site_time": "2026-10-17T05:03:37.942901+00:00"
  },
  "jobs": [
+  {
+   "title": "ICT Project Manager",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792166486232",
+   "deadline": "2026-11-01",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-17",
+   "status": "open",
+   "checked": "2026-10-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792126888214",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-17",
+   "status": "open",
+   "checked": "2026-10-17",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Engineer Consultant",
    "info": "via unvacancies · engineering",
