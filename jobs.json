@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-18T0"
+    "muted": "2026-10-18T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-18T0"
+    "muted": "2026-10-18T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 150,
+   "rev": 154,
    "day": "2026-10-18",
    "used": {
-    "high": 9,
-    "low": 3
+    "high": 12,
+    "low": 4
    },
    "packs": 0,
-   "hour": "2026-10-18T21",
-   "hour_used": 0,
+   "hour": "2026-10-18T23",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "39d3f9d476f03e751204d8185e3d0b8ef618913038509514106948135bcbd8c4",
-  "site_time": "2026-10-18T21:05:08.311380+00:00"
+  "site_hash": "19178225200bc31a92abb3c31eaac05fac8599d6a1c3dfedd398d5c83386f72e",
+  "site_time": "2026-10-18T23:00:57.984520+00:00"
  },
  "jobs": [
   {

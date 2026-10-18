@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**74 open jobs** (🟢 27 · 🟡 33 · ⚪ 14) · AI today: 12 of 130 requests (max 16/hour) · 0 packs · 61 waiting · updated 2026-10-18 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**74 open jobs** (🟢 27 · 🟡 33 · ⚪ 14) · AI today: 16 of 130 requests (max 16/hour) · 0 packs · 61 waiting · updated 2026-10-18 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
