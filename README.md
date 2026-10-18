@@ -4,14 +4,14 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**74 open jobs** (🟢 27 · 🟡 33 · ⚪ 14) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 62 waiting · updated 2026-10-18 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**74 open jobs** (🟢 27 · 🟡 33 · ⚪ 14) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 61 waiting · updated 2026-10-18 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
-| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa) | via UNICEF · construction | 2026-10-18 | 🔴 0 days | 🟢 High | ⏳ queued | Found automatically (13 points) |
+| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa) | via UNICEF · construction | 2026-10-18 | 🔴 0 days | 🟢 High | – | Found automatically (13 points) |
 | [Civil Engineer/Architect](https://unvacancies.org/jobs/civil-engineer-architect-open-to-internal-and-external-applicants-DP-37528) 🆕 | via unvacancies · engineering | 2026-10-23 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (17 points) |
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
@@ -162,11 +162,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-18 |
 | unvacancies · UNOPS | 2026-10-18 |
-| unvacancies · UN-Habitat | 2026-10-17 |
+| unvacancies · UN-Habitat | 2026-10-18 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-17 |
 | UNjobs · construction | 2026-10-18 |
 | UNjobs · infrastructure projects | 2026-10-18 |
-| UNOPS careers | 2026-10-17 |
+| UNOPS careers | 2026-10-18 |
 | UNICEF · construction | 2026-10-17 |
 
 </details>

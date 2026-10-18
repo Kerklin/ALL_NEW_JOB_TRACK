@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-17T3"
+    "muted": "2026-10-18T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-17T3"
+    "muted": "2026-10-18T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 142,
+   "rev": 144,
    "day": "2026-10-18",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-18T04",
-   "hour_used": 2,
+   "hour": "2026-10-18T09",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "a5c906dbc6ae441aaa66c00bed44c9f624613621274c288c17efb79e7ffe33be",
-  "site_time": "2026-10-18T04:42:46.692392+00:00"
+  "site_hash": "a801d0b62b81a9760499572c969c089911f3aece5de5af373c732da9f06de179",
+  "site_time": "2026-10-18T09:05:16.141220+00:00"
  },
  "jobs": [
   {
@@ -863,8 +863,9 @@
    "found": "2026-10-08",
    "status": "open",
    "checked": "2026-10-17",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1,
+   "next": "2026-10-19"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
