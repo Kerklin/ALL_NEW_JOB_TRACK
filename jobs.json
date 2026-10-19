@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-18T0"
+    "muted": "2026-10-19T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-18T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,41 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-18",
+  "maint": "2026-10-19",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 154,
-   "day": "2026-10-18",
+   "rev": 156,
+   "day": "2026-10-19",
    "used": {
-    "high": 12,
-    "low": 4
+    "high": 2,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-18T23",
+   "hour": "2026-10-19T00",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "19178225200bc31a92abb3c31eaac05fac8599d6a1c3dfedd398d5c83386f72e",
-  "site_time": "2026-10-18T23:00:57.984520+00:00"
+  "site_hash": "e5a2a7f41a897b352605605a86133b7f8c2446e5dbaca2efdca329bf8c2bf812",
+  "site_time": "2026-10-19T00:58:25.280653+00:00"
  },
  "jobs": [
+  {
+   "title": "Consultant: Field Engineer (READY), Pohnpei",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792368028760",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
    "info": "via UNjobs · construction",
@@ -277,7 +290,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -290,7 +303,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -303,7 +316,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -316,7 +329,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -329,7 +342,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -342,7 +355,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -355,7 +368,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -365,10 +378,10 @@
    "link": "https://unjobs.org/vacancies/1792058510450",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-19)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-15",
+   "status": "removed",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -381,7 +394,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -391,10 +404,10 @@
    "link": "https://unjobs.org/vacancies/1792058500199",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-10-19)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-15",
+   "status": "removed",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -407,7 +420,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -576,7 +589,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -1201,7 +1214,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -1214,7 +1227,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-19",
    "pack": "",
    "tries": 0
   },
@@ -1253,7 +1266,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-19",
    "pack": "needs-link",
    "tries": 0
   },
