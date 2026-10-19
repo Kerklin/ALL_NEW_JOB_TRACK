@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-19T0"
+    "muted": "2026-10-19T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,74 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 156,
+   "rev": 160,
    "day": "2026-10-19",
    "used": {
-    "high": 2,
-    "low": 0
+    "high": 5,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-19T05",
-   "hour_used": 0,
+   "hour": "2026-10-19T11",
+   "hour_used": 4,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "e5a2a7f41a897b352605605a86133b7f8c2446e5dbaca2efdca329bf8c2bf812",
-  "site_time": "2026-10-19T05:43:02.449732+00:00"
+  "site_hash": "c75d23b85cd6f32884716f698c66b8f40e8254480d176ccf09f54383b8995413",
+  "site_time": "2026-10-19T11:16:30.728796+00:00"
  },
  "jobs": [
+  {
+   "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792213286219",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396939881",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Emergency WASH Officer, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396932098",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "National Project Officer – Construction Engineer, Beirut",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396826266",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
    "info": "via UNjobs · construction",
