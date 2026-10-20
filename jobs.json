@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-18T2"
+    "muted": "2026-10-20T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-18T2"
+    "muted": "2026-10-20T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-20",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-20",
     "muted": ""
    }
   },
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 164,
+   "rev": 168,
    "day": "2026-10-20",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-20T00",
+   "hour": "2026-10-20T05",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "fc5663d2501a6a746852b706e63daa7693f2c3dcb1845b69cc5a7c62c8a47962",
-  "site_time": "2026-10-20T00:37:58.804843+00:00"
+  "site_hash": "1a1221c7a81488bf46fa95d974b31ea673eb2f6044d015c0e0a03447c5729a45",
+  "site_time": "2026-10-20T05:13:15.834496+00:00"
  },
  "jobs": [
   {
@@ -1497,7 +1497,7 @@
    "link": "https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402",
    "deadline": "2026-10-16",
    "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-20)",
+   "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "removed",
    "checked": "2026-10-20",

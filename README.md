@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**81 open jobs** (🟢 31 · 🟡 36 · ⚪ 14) · AI today: 2 of 130 requests (max 16/hour) · 0 packs · 70 waiting · updated 2026-10-20 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**81 open jobs** (🟢 31 · 🟡 36 · ⚪ 14) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 70 waiting · updated 2026-10-20 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -135,7 +135,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -10 days | 🟢 High | 🔗 needs the job's own link | Check French + nationality rules |
 | [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku · consultancy | 2026-10-14 | -6 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops) | UNOPS · Gaza · P-4 | 2026-10-18 | -2 days | 🟡 Medium | 🔗 needs the job's own link | High-risk post. Deadline from listing |
-| [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | – | Posting removed (checked 2026-10-20) |
+| [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | – | EU work permit needed |
 | [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | -5 days | ⚪ Low | 🔗 needs the job's own link | Junior – you're overqualified |
 | [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -7 days | ⚪ Low | – | Junior UNV, French. Listings disagree on national vs international |
 | [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -12 days | ⚪ Low | 🔗 needs the job's own link | Displacement/CCCM focus. French likely |
@@ -174,10 +174,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-20 |
 | unvacancies · UNOPS | 2026-10-19 |
 | unvacancies · UN-Habitat | 2026-10-19 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-18 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-20 |
 | UNjobs · construction | 2026-10-20 |
 | UNjobs · infrastructure projects | 2026-10-19 |
 | UNOPS careers | 2026-10-19 |
-| UNICEF · construction | 2026-10-18 |
+| UNICEF · construction | 2026-10-20 |
 
 </details>
