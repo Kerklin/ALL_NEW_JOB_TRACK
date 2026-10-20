@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-19T1"
+    "muted": "2026-10-20T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-18T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,67 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-19",
-  "vcheck": "2026-10-13",
+  "maint": "2026-10-20",
+  "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 162,
-   "day": "2026-10-19",
+   "rev": 164,
+   "day": "2026-10-20",
    "used": {
-    "high": 7,
+    "high": 1,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-19T21",
-   "hour_used": 0,
+   "hour": "2026-10-20T00",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "47c613f71963356176a60c7c2fd6146f82c68a52dd1ae52a07c263fe1bb2fdb3",
-  "site_time": "2026-10-19T21:40:15.579282+00:00"
+  "site_hash": "fc5663d2501a6a746852b706e63daa7693f2c3dcb1845b69cc5a7c62c8a47962",
+  "site_time": "2026-10-20T00:37:58.804843+00:00"
  },
  "jobs": [
+  {
+   "title": "Consultant Field Engineer READY (two positions), Majuro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792440024693",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Coordinator",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792432836633",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter & WASH Technical Officer Ukraine Shostka, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792429248532",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Housing, Land and Property Advisor",
    "info": "via unvacancies · UNOPS",
@@ -238,7 +277,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -251,7 +290,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -693,7 +732,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -706,7 +745,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -719,7 +758,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -732,7 +771,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1370,7 +1409,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1409,7 +1448,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1435,7 +1474,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1448,7 +1487,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1458,10 +1497,10 @@
    "link": "https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402",
    "deadline": "2026-10-16",
    "fit": "Medium",
-   "note": "EU work permit needed",
+   "note": "Posting removed (checked 2026-10-20)",
    "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-10-15",
+   "status": "removed",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1526,7 +1565,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1539,7 +1578,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1552,7 +1591,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "",
    "tries": 0
   },
@@ -1565,7 +1604,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-20",
    "pack": "needs-link",
    "tries": 0
   },
