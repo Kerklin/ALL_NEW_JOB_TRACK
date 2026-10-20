@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-20T2"
+    "muted": "2026-10-20T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -77,13 +77,13 @@
     "low": 4
    },
    "packs": 0,
-   "hour": "2026-10-20T18",
-   "hour_used": 2,
+   "hour": "2026-10-20T21",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
   "site_hash": "a90b3a8f5e96ebd390d202f7f08c6a5f5cdc9f6291c4f560720a216796fa2b21",
-  "site_time": "2026-10-20T18:50:17.619653+00:00"
+  "site_time": "2026-10-20T21:56:07.584452+00:00"
  },
  "jobs": [
   {
