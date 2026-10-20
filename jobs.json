@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-20",
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 170,
+   "rev": 174,
    "day": "2026-10-20",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 8,
+    "low": 4
    },
    "packs": 0,
-   "hour": "2026-10-20T14",
+   "hour": "2026-10-20T18",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4d16ee8577d05aeda617e1dfe92dfc2b2b92add2b45812a2b027aa2a7fcc14e8",
-  "site_time": "2026-10-20T14:56:13.238668+00:00"
+  "site_hash": "a90b3a8f5e96ebd390d202f7f08c6a5f5cdc9f6291c4f560720a216796fa2b21",
+  "site_time": "2026-10-20T18:50:17.619653+00:00"
  },
  "jobs": [
+  {
+   "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792483244365",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design, Amman",
    "info": "via UNjobs · construction",
