@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 168,
+   "rev": 170,
    "day": "2026-10-20",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-20T10",
-   "hour_used": 0,
+   "hour": "2026-10-20T14",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "1a1221c7a81488bf46fa95d974b31ea673eb2f6044d015c0e0a03447c5729a45",
-  "site_time": "2026-10-20T10:03:22.919388+00:00"
+  "site_hash": "4d16ee8577d05aeda617e1dfe92dfc2b2b92add2b45812a2b027aa2a7fcc14e8",
+  "site_time": "2026-10-20T14:56:13.238668+00:00"
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design, Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792476080480",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "MSDI - Management Services Assistant (Facilities) G5, Rome",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792472477228",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "100000001233.Facilities Coordinator, Doha",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792472450068",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Consultant Field Engineer READY (two positions), Majuro",
    "info": "via UNjobs · construction",

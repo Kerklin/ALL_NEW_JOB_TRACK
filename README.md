@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**81 open jobs** (🟢 31 · 🟡 36 · ⚪ 14) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 70 waiting · updated 2026-10-20 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**84 open jobs** (🟢 32 · 🟡 38 · ⚪ 14) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 73 waiting · updated 2026-10-20 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -19,6 +19,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 10 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 10 days | 🟢 High | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 55 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Shelter & WASH Technical Officer Ukraine Shostka, Kyiv](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (16 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
@@ -49,6 +50,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 10 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 18 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Coordinator](https://unjobs.org/vacancies/1792432836633) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Engineer](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Engineering Assistant, Bidibidi, Rhino Camp, Uganda](https://unjobs.org/vacancies/1792213286219) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
