@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**84 open jobs** (🟢 33 · 🟡 38 · ⚪ 13) · AI today: 12 of 130 requests (max 16/hour) · 0 packs · 73 waiting · updated 2026-10-21 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**85 open jobs** (🟢 33 · 🟡 39 · ⚪ 13) · AI today: 12 of 130 requests (max 16/hour) · 0 packs · 74 waiting · updated 2026-10-21 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -51,6 +51,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 9 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 11 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 17 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [WASH & Rehabilitation Officer (Roster), Aleppo, Syria](https://unjobs.org/vacancies/1789738262027) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [WASH and Construction Officer, Kinshasa](https://unjobs.org/vacancies/1792558930105) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
