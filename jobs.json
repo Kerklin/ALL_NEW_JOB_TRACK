@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-21T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 180,
+   "rev": 182,
    "day": "2026-10-21",
    "used": {
-    "high": 5,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-21T09",
-   "hour_used": 0,
+   "hour": "2026-10-21T14",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "ab911655fd26fd9bc7e3137e93b544ce599b17541397bee4611d9d1f43ddfc49",
-  "site_time": "2026-10-21T09:42:05.490156+00:00"
+  "site_hash": "c6558550ea306ea10542b79e3e55e747ac3b61d8529e26e329eabc8865cfe299",
+  "site_time": "2026-10-21T14:39:56.130350+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH and Construction Officer, Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558930105",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558903984",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (18 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
