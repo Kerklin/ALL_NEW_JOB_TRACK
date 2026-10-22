@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-21T3"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-21T3"
+    "muted": "2026-10-22T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-21",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,32 +58,32 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-21",
+  "maint": "2026-10-22",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 186,
-   "day": "2026-10-21",
+   "day": "2026-10-22",
    "used": {
-    "high": 9,
-    "low": 3
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-10-21T22",
+   "hour": "2026-10-22T00",
    "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "e0053a9a1b3bfc170674a5d4291fb58e3981131b86c0a825e28a33791f34cd4c",
-  "site_time": "2026-10-21T22:01:24.928524+00:00"
+  "site_hash": "d186e39fa8bf4b5462afab5c4e13dc10aa3a5ac1a980939394ac99b5f5450138",
+  "site_time": "2026-10-22T00:32:26.268710+00:00"
  },
  "jobs": [
   {
@@ -329,7 +329,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -342,7 +342,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -355,7 +355,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -771,7 +771,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -784,7 +784,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -914,7 +914,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -927,7 +927,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1240,7 +1240,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1253,7 +1253,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1266,7 +1266,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1279,7 +1279,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1747,7 +1747,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1760,7 +1760,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1799,7 +1799,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "needs-link",
    "tries": 0
   },
@@ -1812,7 +1812,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-22",
    "pack": "needs-link",
    "tries": 0
   },
