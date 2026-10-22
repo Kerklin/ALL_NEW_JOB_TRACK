@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-22T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 186,
+   "rev": 190,
    "day": "2026-10-22",
    "used": {
-    "high": 0,
-    "low": 0
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-22T00",
-   "hour_used": 0,
+   "hour": "2026-10-22T05",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "d186e39fa8bf4b5462afab5c4e13dc10aa3a5ac1a980939394ac99b5f5450138",
-  "site_time": "2026-10-22T00:32:26.268710+00:00"
+  "site_hash": "c1ec7bb7c4f0ff8c169925ca6361db1b8bef0162500092e961bc00abc5e40dee",
+  "site_time": "2026-10-22T05:15:54.736558+00:00"
  },
  "jobs": [
+  {
+   "title": "Officier WASH, Muyinga, Burundi",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792645386124",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792620224351",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792620248427",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Aleppo, Syria",
    "info": "via UNjobs · infrastructure projects",
