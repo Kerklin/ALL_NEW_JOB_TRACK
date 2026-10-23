@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**90 open jobs** (🟢 35 · 🟡 45 · ⚪ 10) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 83 waiting · updated 2026-10-23 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**91 open jobs** (🟢 35 · 🟡 46 · ⚪ 10) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 84 waiting · updated 2026-10-23 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -51,6 +51,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 9 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 10 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) 🆕 | via UNjobs · construction | 2026-11-05 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) 🆕 | via unvacancies · UN-Habitat | 2026-11-06 | 14 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 15 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
 | [SENIOR FACILITIES MANAGEMENT ASSISTANT, G7](https://unjobs.org/vacancies/1792732082714) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific, Suva](https://unjobs.org/vacancies/1792731679962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
@@ -192,11 +193,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-23 |
 | unvacancies · UNOPS | 2026-10-23 |
-| unvacancies · UN-Habitat | 2026-10-19 |
+| unvacancies · UN-Habitat | 2026-10-23 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-22 |
 | UNjobs · construction | 2026-10-23 |
 | UNjobs · infrastructure projects | 2026-10-23 |
-| UNOPS careers | 2026-10-19 |
+| UNOPS careers | 2026-10-23 |
 | UNICEF · construction | 2026-10-22 |
 
 </details>

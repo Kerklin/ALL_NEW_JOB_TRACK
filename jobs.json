@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-19T2"
+    "muted": "2026-10-23T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-19T2"
+    "muted": "2026-10-23T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -77,15 +77,28 @@
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-23T10",
+   "hour": "2026-10-23T15",
    "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "d9c4e6975dbf83b349446ffef133c9f1157e2c0aa7966dbba755b9c81035e96f",
-  "site_time": "2026-10-23T10:15:09.558053+00:00"
+  "site_hash": "2bfae07d0faeeceb6e83a7d5c9baf6a1e00bf8e43ded937c562ef4c145bba976",
+  "site_time": "2026-10-23T15:05:48.222587+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager, Global Housing Hub",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598",
+   "deadline": "2026-11-06",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Construction Management Engineer, Kabul",
    "info": "via UNjobs · construction",
