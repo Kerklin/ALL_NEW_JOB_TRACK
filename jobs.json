@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-22T2"
+    "muted": "2026-10-23T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-22T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 202,
+   "rev": 204,
    "day": "2026-10-23",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-23T05",
-   "hour_used": 2,
+   "hour": "2026-10-23T10",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "bd1a96cd968aa5c38909286b70c64f72fbf659b9a05baad70a9d55036264d9f5",
-  "site_time": "2026-10-23T05:23:49.941522+00:00"
+  "site_hash": "d9c4e6975dbf83b349446ffef133c9f1157e2c0aa7966dbba755b9c81035e96f",
+  "site_time": "2026-10-23T10:15:09.558053+00:00"
  },
  "jobs": [
+  {
+   "title": "Construction Management Engineer, Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792677691805",
+   "deadline": "2026-11-05",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792732082714",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific, Suva",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792731679962",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-23",
+   "status": "open",
+   "checked": "2026-10-23",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design",
    "info": "via unvacancies · engineering",
