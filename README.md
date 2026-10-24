@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**88 open jobs** (🟢 32 · 🟡 46 · ⚪ 10) · AI today: 0 of 130 requests (max 16/hour) · 0 packs · 81 waiting · updated 2026-10-24 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**89 open jobs** (🟢 32 · 🟡 47 · ⚪ 10) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 82 waiting · updated 2026-10-24 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -47,6 +47,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 🔴 6 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing – confirm |
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 9 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) 🆕 | via UNICEF · construction | 2026-11-05 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) 🆕 | via UNjobs · construction | 2026-11-05 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) 🆕 | via unvacancies · UN-Habitat | 2026-11-06 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 14 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
@@ -196,10 +197,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-23 |
 | unvacancies · UNOPS | 2026-10-23 |
 | unvacancies · UN-Habitat | 2026-10-24 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-22 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-24 |
 | UNjobs · construction | 2026-10-23 |
 | UNjobs · infrastructure projects | 2026-10-23 |
 | UNOPS careers | 2026-10-24 |
-| UNICEF · construction | 2026-10-22 |
+| UNICEF · construction | 2026-10-24 |
 
 </details>
