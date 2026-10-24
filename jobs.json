@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-23T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-23T3"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-23",
+    "last_ok": "2026-10-24",
     "muted": ""
    },
    "UNOPS careers": {
@@ -77,15 +77,41 @@
     "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-24T18",
-   "hour_used": 2,
+   "hour": "2026-10-24T21",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "cd8b9daa2601356e8d0a7190f9d8aed5c1c9b586814a5ad043121f84dc76ca2c",
-  "site_time": "2026-10-24T18:58:36.737388+00:00"
+  "site_hash": "82933e3aade51b0951470cdc12f87f42ed3672d3a315810466c3f39e539ed92b",
+  "site_time": "2026-10-24T21:24:28.721773+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792808752982",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Infrastructure Specialist, Manila, Philippines",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792816249783",
+   "deadline": "2026-10-28",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Technical Program Manager, Facilities, South San Francisco, United States",
    "info": "via UNjobs · construction",
