@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-24T3"
+    "muted": "2026-10-25T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-24T3"
+    "muted": "2026-10-25T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-24",
+  "maint": "2026-10-25",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 222,
-   "day": "2026-10-24",
+   "rev": 224,
+   "day": "2026-10-25",
    "used": {
-    "high": 9,
-    "low": 3
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-24T23",
-   "hour_used": 0,
+   "hour": "2026-10-25T01",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "82933e3aade51b0951470cdc12f87f42ed3672d3a315810466c3f39e539ed92b",
-  "site_time": "2026-10-24T23:26:21.597113+00:00"
+  "site_hash": "a30f1f81f7b2dae7eef96a70ab5caa858516fd9f2ce45431a9fdaa1b731cf710",
+  "site_time": "2026-10-25T01:22:26.328111+00:00"
  },
  "jobs": [
   {
@@ -433,7 +433,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -446,7 +446,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -459,7 +459,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -472,7 +472,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -485,7 +485,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -498,7 +498,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -511,7 +511,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -667,7 +667,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -680,7 +680,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -940,7 +940,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1106,10 +1106,10 @@
    "link": "https://unjobs.org/vacancies/1791813713952",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-10-25)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-19",
+   "status": "removed",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1122,7 +1122,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-20",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1734,7 +1734,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1747,7 +1747,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "",
    "tries": 0
   },
@@ -1786,7 +1786,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-25",
    "pack": "needs-link",
    "tries": 0
   },
