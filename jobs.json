@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-25T2"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 232,
+   "rev": 234,
    "day": "2026-10-25",
    "used": {
-    "high": 7,
+    "high": 9,
     "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-25T15",
-   "hour_used": 2,
+   "hour": "2026-10-25T18",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4de2da8e4e78cdeb7dddc80f5a44babab6312aad724bbd295944e21468777eb8",
-  "site_time": "2026-10-25T15:02:31.607817+00:00"
+  "site_hash": "f39225a991fa814a0cf8dd6f82a60705146f3c33713a57d03df0afe3d9bfdf2a",
+  "site_time": "2026-10-25T18:20:26.469204+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager-Port Development, Walvis-Bay, Namibia",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792816421069",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-25",
+   "status": "open",
+   "checked": "2026-10-25",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
