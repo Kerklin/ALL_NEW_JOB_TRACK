@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**98 open jobs** (🟢 32 · 🟡 55 · ⚪ 11) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 91 waiting · updated 2026-10-26 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**100 open jobs** (🟢 34 · 🟡 55 · ⚪ 11) · AI today: 12 of 130 requests (max 16/hour) · 0 packs · 93 waiting · updated 2026-10-26 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -16,6 +16,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 10 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) 🆕 | via UNICEF · construction | 2026-11-08 | 13 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 49 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030445542) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (17 points) |
+| [CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030444841) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (17 points) |
 | [Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg](https://unjobs.org/vacancies/1792808743799) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792771336977) | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
