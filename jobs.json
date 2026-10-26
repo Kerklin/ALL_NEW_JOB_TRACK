@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-24T1"
+    "muted": "2026-10-26T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-24T1"
+    "muted": "2026-10-26T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-26",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-26",
     "muted": ""
    }
   },
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 240,
+   "rev": 242,
    "day": "2026-10-26",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-26T05",
+   "hour": "2026-10-26T12",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "27463641b0d000938405871895c30b1d0d525a4b1da54421dcfd3d53174315bb",
-  "site_time": "2026-10-26T05:58:20.200645+00:00"
+  "site_hash": "7d630dbbfb33603cd027a268c7b50daafeed910c18cb8d1cef1f89efe8deef58",
+  "site_time": "2026-10-26T12:14:33.733399+00:00"
  },
  "jobs": [
+  {
+   "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication Section, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1792861242574",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
    "info": "via UNjobs · construction",
