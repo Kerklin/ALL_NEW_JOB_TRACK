@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-26T0"
+    "muted": "2026-10-27T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-26T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,80 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-10-26",
-  "vcheck": "2026-10-20",
+  "maint": "2026-10-27",
+  "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 246,
-   "day": "2026-10-26",
+   "rev": 248,
+   "day": "2026-10-27",
    "used": {
-    "high": 8,
-    "low": 4
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-26T22",
-   "hour_used": 0,
+   "hour": "2026-10-27T01",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4513236084d8f27161a41f8e97d04fdf0598868501564a7a46f6b611eac6684e",
-  "site_time": "2026-10-26T22:52:24.433460+00:00"
+  "site_hash": "2a037739c58016f731d1145bc7a0daf97c102a7d9b7327679710ae8551747aef",
+  "site_time": "2026-10-27T01:38:28.351045+00:00"
  },
  "jobs": [
+  {
+   "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791",
+   "deadline": "2026-11-08",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction and Engineer, Program Design Specialist, United States, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049615470",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Resident Engineer (1 position), Somalia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049721853",
+   "deadline": "2026-10-28",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
    "info": "via UNjobs · infrastructure projects",
@@ -355,7 +407,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -365,10 +417,10 @@
    "link": "https://unjobs.org/vacancies/1792677657283",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-22",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -381,7 +433,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-22",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -781,10 +833,10 @@
    "link": "https://unjobs.org/vacancies/1792087264868",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -794,10 +846,10 @@
    "link": "https://unjobs.org/vacancies/1792087267794",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -810,7 +862,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -823,7 +875,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -836,7 +888,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -846,10 +898,10 @@
    "link": "https://unjobs.org/vacancies/1792101963327",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -859,10 +911,10 @@
    "link": "https://unjobs.org/vacancies/1792101948135",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -1132,10 +1184,10 @@
    "link": "https://unjobs.org/vacancies/1791900091937",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -1392,10 +1444,10 @@
    "link": "https://unjobs.org/vacancies/1791522065800",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -1575,10 +1627,10 @@
    "link": "https://unjobs.org/vacancies/1791352893661",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-10-27)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-21",
+   "status": "removed",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -1591,7 +1643,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
@@ -1604,7 +1656,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-21",
+   "checked": "2026-10-27",
    "pack": "",
    "tries": 0
   },
