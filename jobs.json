@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-27T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,87 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 252,
+   "rev": 256,
    "day": "2026-10-27",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 7,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-27T12",
-   "hour_used": 0,
+   "hour": "2026-10-27T18",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "275eb7387a91de6f2c26289d39f4c951033d0e9049011e78b6828574c47487ff",
-  "site_time": "2026-10-27T12:43:36.495239+00:00"
+  "site_hash": "87bf87f8c823343bf1e777d4e0e9c14459ed18e326bbe65522bf403e2d6f374a",
+  "site_time": "2026-10-27T18:17:06.125028+00:00"
  },
  "jobs": [
+  {
+   "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793120569990",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH and Shelter Manager Ethiopia Dollo Ado",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793120569462",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793037691345",
+   "deadline": "2026-11-09",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793048987493",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793077258711",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
    "info": "via unvacancies · engineering",
