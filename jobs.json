@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-28T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-28T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-28",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-28",
     "muted": ""
    }
   },
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 264,
+   "rev": 268,
    "day": "2026-10-28",
    "used": {
-    "high": 5,
-    "low": 1
+    "high": 8,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-28T13",
-   "hour_used": 0,
+   "hour": "2026-10-28T19",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "3018088ae8b55f1314dcd1f59d186dad01c85bbda3cd811f5f923dc9c87002cf",
-  "site_time": "2026-10-28T13:56:12.198511+00:00"
+  "site_hash": "e8294d00dc82c4998e1c0beaaef4992742e5225a3f045daacc9fff3f39e989bd",
+  "site_time": "2026-10-28T19:12:26.167974+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1793188852256",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision)",
    "info": "via unvacancies · engineering",
