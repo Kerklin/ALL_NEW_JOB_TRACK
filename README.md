@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**99 open jobs** (🟢 35 · 🟡 51 · ⚪ 13) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 92 waiting · updated 2026-10-28 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**103 open jobs** (🟢 38 · 🟡 52 · ⚪ 13) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 96 waiting · updated 2026-10-28 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -19,7 +19,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) 🆕 | via unvacancies · engineering | 2026-11-08 | 11 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) 🆕 | via UNICEF · construction | 2026-11-08 | 11 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) 🆕 | via UNjobs · construction | 2026-11-09 | 12 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
+| [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 14 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 47 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Civil Engineer (Project Management and Construction Supervision), Kabul](https://unjobs.org/vacancies/1793181721552) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (14 points) |
+| [Supply Chain Construction Manager, Bunia, Democratic Republic of Congo](https://unjobs.org/vacancies/1793163739608) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [WASH and Shelter Manager Ethiopia Dollo Ado](https://unjobs.org/vacancies/1793120569462) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine](https://unjobs.org/vacancies/1793048987493) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
@@ -54,6 +57,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) | via UNjobs · construction | 2026-11-05 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 9 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 10 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Linear Infrastructure Ecologist, United States](https://unjobs.org/vacancies/1793163658534) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication Section, Sarajevo](https://unjobs.org/vacancies/1792861242574) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
@@ -219,11 +223,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-27 |
+| unvacancies · engineering | 2026-10-28 |
 | unvacancies · UNOPS | 2026-10-28 |
 | unvacancies · UN-Habitat | 2026-10-28 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-26 |
-| UNjobs · construction | 2026-10-27 |
+| UNjobs · construction | 2026-10-28 |
 | UNjobs · infrastructure projects | 2026-10-28 |
 | UNOPS careers | 2026-10-28 |
 | UNICEF · construction | 2026-10-26 |

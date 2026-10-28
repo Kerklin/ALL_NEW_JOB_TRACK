@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-27T3"
+    "muted": "2026-10-28T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-26T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,74 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 262,
+   "rev": 264,
    "day": "2026-10-28",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-28T07",
-   "hour_used": 2,
+   "hour": "2026-10-28T13",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "8e8acb3d47d51d44b63aed68ffd8f4ae745906eaaf2d42ef752fa75feedb1add",
-  "site_time": "2026-10-28T07:01:49.143888+00:00"
+  "site_hash": "3018088ae8b55f1314dcd1f59d186dad01c85bbda3cd811f5f923dc9c87002cf",
+  "site_time": "2026-10-28T13:56:12.198511+00:00"
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793181721552",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Housing Economist, Montreal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793167466760",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793163739608",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Linear Infrastructure Ecologist, United States",
    "info": "via UNjobs · infrastructure projects",
