@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**99 open jobs** (🟢 35 · 🟡 52 · ⚪ 12) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 92 waiting · updated 2026-10-30 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**100 open jobs** (🟢 35 · 🟡 53 · ⚪ 12) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 93 waiting · updated 2026-10-30 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -53,6 +53,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) | via UNjobs · construction | 2026-11-05 | 🔴 6 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 8 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) 🆕 | via unvacancies · UN-Habitat | 2026-11-08 | 9 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793347308700) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1793347304476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |

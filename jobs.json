@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-30T0"
+    "muted": "2026-10-30T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-30T0"
+    "muted": "2026-10-30T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 286,
+   "rev": 288,
    "day": "2026-10-30",
    "used": {
-    "high": 4,
+    "high": 6,
     "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-30T11",
-   "hour_used": 2,
+   "hour": "2026-10-30T17",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "48f5045d29b6590ffc83961db5be3d5943a532f955427205cf8715abd53f381c",
-  "site_time": "2026-10-30T11:35:21.645156+00:00"
+  "site_hash": "a1a37bbaab0b04a55aea533efc5261d1b9086d7e6b6d25444bef9cb25d17d2b3",
+  "site_time": "2026-10-30T17:07:57.090812+00:00"
  },
  "jobs": [
+  {
+   "title": "Informal Settlements Urban Planning Senior Consultant",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263",
+   "deadline": "2026-11-08",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
    "info": "via UNjobs · construction",
