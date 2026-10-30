@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-30T0"
+    "muted": "2026-10-30T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 282,
+   "rev": 286,
    "day": "2026-10-30",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-30T05",
-   "hour_used": 0,
+   "hour": "2026-10-30T11",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "59d9898f36bc89b68cae70123f24dfffcc1109ab1fef9e5c6b0fa4bc032d1189",
-  "site_time": "2026-10-30T05:37:22.097082+00:00"
+  "site_hash": "48f5045d29b6590ffc83961db5be3d5943a532f955427205cf8715abd53f381c",
+  "site_time": "2026-10-30T11:35:21.645156+00:00"
  },
  "jobs": [
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793347308700",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793347304476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
    "info": "via unvacancies · engineering",
