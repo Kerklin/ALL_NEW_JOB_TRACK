@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**96 open jobs** (🟢 35 · 🟡 50 · ⚪ 11) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 91 waiting · updated 2026-10-31 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**97 open jobs** (🟢 36 · 🟡 50 · ⚪ 11) · AI today: 12 of 130 requests (max 16/hour) · 0 packs · 92 waiting · updated 2026-10-31 · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -13,6 +13,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|---|---|---|---|---|
 | [Civil Engineer (1 position), Libya](https://unjobs.org/vacancies/1793365860777) 🆕 | via UNjobs · construction | 2026-11-03 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Construction Management Senior Associate Engineer](https://unjobs.org/vacancies/1793419279543) 🆕 | via UNjobs · infrastructure projects | 2026-11-06 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | 8 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 8 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | 8 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
@@ -238,11 +239,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-31 |
-| unvacancies · UNOPS | 2026-10-29 |
+| unvacancies · UNOPS | 2026-10-31 |
 | unvacancies · UN-Habitat | 2026-10-31 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-31 |
 | UNjobs · construction | 2026-10-31 |
-| UNjobs · infrastructure projects | 2026-10-29 |
+| UNjobs · infrastructure projects | 2026-10-31 |
 | UNOPS careers | 2026-10-31 |
 | UNICEF · construction | 2026-10-31 |
 

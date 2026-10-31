@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-29T1"
+    "muted": "2026-10-31T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-29T1"
+    "muted": "2026-10-31T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 296,
+   "rev": 300,
    "day": "2026-10-31",
    "used": {
-    "high": 6,
-    "low": 2
+    "high": 9,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-10-31T12",
+   "hour": "2026-10-31T17",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "d403928ae8202e5e1fb1e34b7fc1a37c4ae7ce11a61a69b730e06cc778b88cbd",
-  "site_time": "2026-10-31T12:52:55.963766+00:00"
+  "site_hash": "6b1d2c07be7183d618ce575988ca0486263b3f2c1ea4232b6e9f3d03a09b9588",
+  "site_time": "2026-10-31T17:24:01.156874+00:00"
  },
  "jobs": [
+  {
+   "title": "Construction Management Senior Associate Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793419279543",
+   "deadline": "2026-11-06",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
    "info": "via UNICEF · construction",
