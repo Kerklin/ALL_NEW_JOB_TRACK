@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 292,
+   "rev": 294,
    "day": "2026-10-31",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-10-31T00",
-   "hour_used": 4,
+   "hour": "2026-10-31T06",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "88b5666380bd8bdb90b06dbb4e6e946fd3c4e2f9f1ef0eb4c27008fbc422c863",
-  "site_time": "2026-10-31T00:55:05.627434+00:00"
+  "site_hash": "7a7812d96ba1be6596e28be7ef7a56d3ad955a83c4bf9cf8f88c7be315049547",
+  "site_time": "2026-10-31T06:25:56.178980+00:00"
  },
  "jobs": [
   {
