@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-29T2"
+    "muted": "2026-10-31T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-29T2"
+    "muted": "2026-10-31T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-31",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-31",
     "muted": ""
    }
   },
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 294,
+   "rev": 296,
    "day": "2026-10-31",
    "used": {
-    "high": 5,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-10-31T06",
+   "hour": "2026-10-31T12",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "7a7812d96ba1be6596e28be7ef7a56d3ad955a83c4bf9cf8f88c7be315049547",
-  "site_time": "2026-10-31T06:25:56.178980+00:00"
+  "site_hash": "d403928ae8202e5e1fb1e34b7fc1a37c4ae7ce11a61a69b730e06cc778b88cbd",
+  "site_time": "2026-10-31T12:52:55.963766+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, occupied Palestinian territory",
    "info": "via UNjobs · construction",
