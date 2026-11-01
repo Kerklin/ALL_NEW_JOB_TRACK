@@ -1,6 +1,6 @@
 {
  "v": 1,
- "rev": 311,
+ "rev": 312,
  "day": "2026-11-01",
  "used": {
   "high": 5,
@@ -10,15 +10,12 @@
  "hour": "2026-11-01T16",
  "hour_used": 2,
  "blocked": {},
- "last_call": 1793526190.4396384,
- "holder": "41325447166",
- "expires": 1793550739.3488872,
- "reserved": {
-  "high": 1,
-  "low": 1
- },
- "fail_streak": 2,
- "paused_until": 1793521848.6497135,
+ "last_call": 1793549791.0548089,
+ "holder": "",
+ "expires": 0,
+ "reserved": {},
+ "fail_streak": 0,
+ "paused_until": 1793571391.4127064,
  "done": {},
  "search_day": "2026-11-01",
  "search_today": 0,
