@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-31T0"
+    "muted": "2026-11-01T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-01T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,87 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 308,
+   "rev": 312,
    "day": "2026-11-01",
    "used": {
-    "high": 2,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-01T09",
+   "hour": "2026-11-01T16",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "eb613e969c6df968dfd9bab549416ff75bee156c23b57cff7c99c5c99fb5665a",
-  "site_time": "2026-11-01T09:33:33.303217+00:00"
+  "site_hash": "9fee85087134623028bdb2fc683ddcdd73a507e0644cd8ad9d0348fe58f6ac17",
+  "site_time": "2026-11-01T16:16:14.287694+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924",
+   "deadline": "2026-11-14",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422858335",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Technical Assistant, Misrata, Libya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422874630",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793419279266",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887438",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Construction Management Senior Associate Engineer",
    "info": "via UNjobs · infrastructure projects",
