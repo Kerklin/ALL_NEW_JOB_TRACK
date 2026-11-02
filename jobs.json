@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-01T2"
+    "muted": "2026-11-02T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-01T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 318,
+   "rev": 320,
    "day": "2026-11-02",
    "used": {
-    "high": 3,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-02T02",
-   "hour_used": 2,
+   "hour": "2026-11-02T10",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "b1d2ad1c80da9b3477d77cbed9d67341316afd213a08745c822bfe0b3e4e5448",
-  "site_time": "2026-11-02T02:46:05.003795+00:00"
+  "site_hash": "63085c47cd299e870c21effa1182915eb7b534885d07de26f43ba66a76205a2e",
+  "site_time": "2026-11-02T09:59:49.694197+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793534475645",
+   "deadline": "2026-11-14",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-02",
+   "status": "open",
+   "checked": "2026-11-02",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793577725467",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-02",
+   "status": "open",
+   "checked": "2026-11-02",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Specialist, Kakuma, Kenya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793577717715",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-02",
+   "status": "open",
+   "checked": "2026-11-02",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · engineering",
@@ -2290,7 +2329,7 @@
    "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692",
    "deadline": "2026-10-30",
    "fit": "High",
-   "note": "Posting removed (checked 2026-11-02)",
+   "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "removed",
    "checked": "2026-11-02",
