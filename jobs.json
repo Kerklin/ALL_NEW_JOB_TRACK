@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-02T3"
+    "muted": "2026-11-03T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-02T3"
+    "muted": "2026-11-03T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,28 +64,41 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-02",
-  "vcheck": "2026-10-27",
+  "maint": "2026-11-03",
+  "vcheck": "2026-11-03",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 324,
-   "day": "2026-11-02",
+   "rev": 326,
+   "day": "2026-11-03",
    "used": {
-    "high": 7,
-    "low": 3
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-02T20",
+   "hour": "2026-11-03T02",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "20683ceacec6e347160a9d6a8a997625558479ce3995b1b157c443b1e3db8e61",
-  "site_time": "2026-11-02T20:00:22.580881+00:00"
+  "site_hash": "ca1c306a9d8b094c6bb9183f82ab2ae35bb82e65df92932288caaec9242dfd32",
+  "site_time": "2026-11-03T02:04:23.102169+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793621020902",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via UNjobs · construction",
@@ -485,7 +498,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -498,7 +511,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -511,7 +524,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -524,7 +537,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -537,7 +550,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -550,7 +563,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -563,7 +576,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -576,7 +589,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2423,7 +2436,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2449,7 +2462,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2462,7 +2475,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2540,7 +2553,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2553,7 +2566,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2566,7 +2579,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "",
    "tries": 0
   },
@@ -2579,7 +2592,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-26",
+   "checked": "2026-11-03",
    "pack": "needs-link",
    "tries": 0
   },
