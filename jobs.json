@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-02T1"
+    "muted": "2026-11-03T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-03T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,126 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 333,
+   "rev": 337,
    "day": "2026-11-03",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 8,
+    "low": 4
    },
    "packs": 0,
-   "hour": "2026-11-03T17",
+   "hour": "2026-11-03T22",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4356e996ba23a0967c75d63e3c6c56d952253d5daf787ed562d3daf0b1d552a6",
-  "site_time": "2026-11-03T17:11:44.602011+00:00"
+  "site_hash": "3c7bf03a60c7c129e9c4072f11f39cea21b70dc512be425bc3e751b679e8d034",
+  "site_time": "2026-11-03T22:16:56.719743+00:00"
  },
  "jobs": [
+  {
+   "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "(Senior) Investment Officer, Infrastructure Europe",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273",
+   "deadline": "2026-11-17",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793728935490",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793728932248",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793725269609",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793714480168",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Mechanical Engineer, Homs, Syria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793714480525",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793714480909",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
    "info": "via UNICEF · construction",
