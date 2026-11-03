@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-01T3"
+    "muted": "2026-11-03T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-11-01T3"
+    "muted": "2026-11-03T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-02",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-03",
     "muted": ""
    }
   },
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 330,
+   "rev": 333,
    "day": "2026-11-03",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-03T09",
+   "hour": "2026-11-03T17",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "26350ce797e5903619bf988ee14b49ece644d15823ff8f55e11c2e8253b73ae0",
-  "site_time": "2026-11-03T09:26:00.263523+00:00"
+  "site_hash": "4356e996ba23a0967c75d63e3c6c56d952253d5daf787ed562d3daf0b1d552a6",
+  "site_time": "2026-11-03T17:11:44.602011+00:00"
  },
  "jobs": [
+  {
+   "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783",
+   "deadline": "2026-11-10",
+   "fit": "High",
+   "note": "Found automatically (21 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956",
+   "deadline": "2026-11-09",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
