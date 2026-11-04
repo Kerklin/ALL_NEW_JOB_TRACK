@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-03T0"
+    "muted": "2026-11-04T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-03T0"
+    "muted": "2026-11-04T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-04",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,28 +64,54 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-03",
+  "maint": "2026-11-04",
   "vcheck": "2026-11-03",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 337,
-   "day": "2026-11-03",
+   "day": "2026-11-04",
    "used": {
-    "high": 8,
-    "low": 4
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-11-03T22",
-   "hour_used": 2,
+   "hour": "2026-11-04T02",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "3c7bf03a60c7c129e9c4072f11f39cea21b70dc512be425bc3e751b679e8d034",
-  "site_time": "2026-11-03T22:16:56.719743+00:00"
+  "site_hash": "db083162003ef8898bb70c563a59ae58867be3faef0295b4e45103a23bcc8eb3",
+  "site_time": "2026-11-04T02:23:03.951901+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Consultant, Windhoek, Namibia (Office-based + Possible In-country Travel), 6 months, National Candidates Only, #596782",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793725260704",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
    "info": "via unvacancies · engineering",
@@ -537,7 +563,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -550,7 +576,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -563,7 +589,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -576,7 +602,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -589,7 +615,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -602,7 +628,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -615,7 +641,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -742,10 +768,10 @@
    "link": "https://unjobs.org/vacancies/1793049721853",
    "deadline": "2026-10-28",
    "fit": "High",
-   "note": "Found automatically (16 points)",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-10-27",
+   "status": "removed",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -1018,7 +1044,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -1041,10 +1067,10 @@
    "link": "https://unjobs.org/vacancies/1792670561009",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-27",
+   "status": "removed",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -1470,10 +1496,10 @@
    "link": "https://unjobs.org/vacancies/1792083758670",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-27",
+   "status": "removed",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -1483,10 +1509,10 @@
    "link": "https://unjobs.org/vacancies/1792144906524",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-27",
+   "status": "removed",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -1496,10 +1522,10 @@
    "link": "https://unjobs.org/vacancies/1792155785200",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-04)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-27",
+   "status": "removed",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -2254,7 +2280,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
@@ -2267,7 +2293,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-27",
+   "checked": "2026-11-04",
    "pack": "",
    "tries": 0
   },
