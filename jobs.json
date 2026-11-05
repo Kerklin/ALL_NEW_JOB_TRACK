@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-04T3"
+    "muted": "2026-11-05T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-04T3"
+    "muted": "2026-11-05T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,126 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 353,
+   "rev": 355,
    "day": "2026-11-05",
    "used": {
-    "high": 6,
+    "high": 8,
     "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-05T09",
-   "hour_used": 4,
+   "hour": "2026-11-05T17",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "53ee5701eea7bffbcedac6fdb36566230c076c291221553b56050a73932d12eb",
-  "site_time": "2026-11-05T09:52:38.246590+00:00"
+  "site_hash": "8e3f277a9aef5ece95be9b153e3e0a41621949126fd62e7b2096d1a1f1342755",
+  "site_time": "2026-11-05T17:41:38.118609+00:00"
  },
  "jobs": [
+  {
+   "title": "Salesforce Marketing Cloud Architect",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107",
+   "deadline": "2026-11-12",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793845782259",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer, Bishkek",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793887285422",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793858479927",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793793647139",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Capacity Building Specialist (Media and Communication), Home-based, Remote",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793721671195",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793721671577",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793768476651",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-05",
+   "status": "open",
+   "checked": "2026-11-05",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
    "info": "via UNjobs · Bosnia and Herzegovina",
