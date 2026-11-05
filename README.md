@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**101 open jobs** (🟢 38 · 🟡 53 · ⚪ 10) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 96 waiting · updated 2026-11-05 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**102 open jobs** (🟢 39 · 🟡 53 · ⚪ 10) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 97 waiting · updated 2026-11-05 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -24,6 +24,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 9 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) 🆕 | via UNICEF · construction | 2026-11-17 | 12 days | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 39 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1793854878525) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, occupied Palestinian territory](https://unjobs.org/vacancies/1793364911687) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (15 points) |
@@ -263,10 +264,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-11-03 |
 | unvacancies · UNOPS | 2026-11-04 |
 | unvacancies · UN-Habitat | 2026-11-05 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-03 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-05 |
 | UNjobs · construction | 2026-11-03 |
 | UNjobs · infrastructure projects | 2026-11-04 |
 | UNOPS careers | 2026-11-05 |
-| UNICEF · construction | 2026-11-03 |
+| UNICEF · construction | 2026-11-05 |
 
 </details>
