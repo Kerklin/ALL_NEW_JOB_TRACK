@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-03T3"
+    "muted": "2026-11-06T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-06T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 357,
+   "rev": 361,
    "day": "2026-11-06",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-06T02",
+   "hour": "2026-11-06T09",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "cf00fa02405d6e8581b5ebe21f200bc929185d36c4fc6cd4a34ecd6d2a3873d7",
-  "site_time": "2026-11-06T02:52:52.033423+00:00"
+  "site_hash": "367cdba6610a1e8849fad217b59c390ad0d1a54ef53d2422522d3332ab88a3ad",
+  "site_time": "2026-11-06T09:58:19.058580+00:00"
  },
  "jobs": [
+  {
+   "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793916122915",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Salesforce Marketing Cloud Architect",
    "info": "via unvacancies · UNOPS",
