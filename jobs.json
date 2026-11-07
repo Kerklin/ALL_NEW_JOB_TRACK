@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-06T3"
+    "muted": "2026-11-07T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-06T3"
+    "muted": "2026-11-07T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 369,
+   "rev": 373,
    "day": "2026-11-07",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-07T07",
+   "hour": "2026-11-07T14",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "9ec17ac32581cf320ae444032e64f9c2f0d428173e20834465491dddf870a729",
-  "site_time": "2026-11-07T07:49:29.646408+00:00"
+  "site_hash": "a6cef575fa0c93c42b9db0bf6933218e2977f59646228bef6fdb6ed4b29be136",
+  "site_time": "2026-11-07T14:23:27.628668+00:00"
  },
  "jobs": [
   {
