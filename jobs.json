@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-06T2"
+    "muted": "2026-11-07T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-06T2"
+    "muted": "2026-11-07T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-06",
+  "maint": "2026-11-07",
   "vcheck": "2026-11-03",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 367,
-   "day": "2026-11-06",
+   "day": "2026-11-07",
    "used": {
-    "high": 8,
-    "low": 4
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-11-06T22",
-   "hour_used": 2,
+   "hour": "2026-11-07T01",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "33db9303f3f98bd41345a18ac5f26984dacd40bc8bd0336de3ae3f22d74284db",
-  "site_time": "2026-11-06T22:03:41.466177+00:00"
+  "site_hash": "7510bcd2b0457b9d6a8dd340acaff00af41bef4c5adfae6ec04a069d9aa54b00",
+  "site_time": "2026-11-07T01:47:09.164700+00:00"
  },
  "jobs": [
   {
@@ -524,7 +524,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -537,7 +537,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -550,7 +550,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -563,7 +563,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -680,7 +680,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-10-30",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -1015,10 +1015,10 @@
    "link": "https://unjobs.org/vacancies/1792816249783",
    "deadline": "2026-10-28",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-30",
+   "status": "removed",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -1031,7 +1031,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-30",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -1041,10 +1041,10 @@
    "link": "https://unjobs.org/vacancies/1792808743799",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-30",
+   "status": "removed",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -1912,10 +1912,10 @@
    "link": "https://unjobs.org/vacancies/1791954093389",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-14",
-   "status": "open",
-   "checked": "2026-10-30",
+   "status": "removed",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -2185,10 +2185,10 @@
    "link": "https://unjobs.org/vacancies/1791565246881",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-10",
-   "status": "open",
-   "checked": "2026-10-30",
+   "status": "removed",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -2198,10 +2198,10 @@
    "link": "https://unjobs.org/vacancies/1791565246494",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-10",
-   "status": "open",
-   "checked": "2026-10-30",
+   "status": "removed",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -2305,7 +2305,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-30",
+   "checked": "2026-11-07",
    "pack": "retry",
    "tries": 1,
    "next": "2026-10-19"
@@ -2319,7 +2319,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-30",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -2527,7 +2527,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-30",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
@@ -2566,7 +2566,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-30",
+   "checked": "2026-11-07",
    "pack": "",
    "tries": 0
   },
