@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-07T3"
+    "muted": "2026-11-08T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-07T3"
+    "muted": "2026-11-08T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "UNOPS careers": {
@@ -77,15 +77,28 @@
     "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-08T14",
-   "hour_used": 2,
+   "hour": "2026-11-08T19",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "78965f7206ffd36cec48b84020d4832f9d6e848468eea4fdc05183d6cca0598d",
-  "site_time": "2026-11-08T14:34:23.233076+00:00"
+  "site_hash": "b2c42e12d56f3ea702c34c2f8a502fe877315bfcb83b2e27dfae5ce8a6cd1950",
+  "site_time": "2026-11-08T19:01:51.036163+00:00"
  },
  "jobs": [
+  {
+   "title": "ICT Senior Analyst - ICT Project Management (Data Architect), Brasilia",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793901685046",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-08",
+   "status": "open",
+   "checked": "2026-11-08",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Chief of Trust-Building Section, Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
