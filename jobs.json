@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-08T1"
+    "muted": "2026-11-08T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-11-08T1"
+    "muted": "2026-11-08T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-06",
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 381,
+   "rev": 385,
    "day": "2026-11-08",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-08T07",
+   "hour": "2026-11-08T14",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "98b3cbb2058b55db16745f02de11789b86d4e3e100d3dd69251aeebae6fdfda2",
-  "site_time": "2026-11-08T07:52:33.585108+00:00"
+  "site_hash": "78965f7206ffd36cec48b84020d4832f9d6e848468eea4fdc05183d6cca0598d",
+  "site_time": "2026-11-08T14:34:23.233076+00:00"
  },
  "jobs": [
+  {
+   "title": "Chief of Trust-Building Section, Sarajevo",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1794027671576",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-08",
+   "status": "open",
+   "checked": "2026-11-08",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels",
+   "deadline": "2026-11-15",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-11-08",
+   "status": "open",
+   "checked": "2026-11-08",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
    "info": "via unvacancies · engineering",
