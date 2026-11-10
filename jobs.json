@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-08T3"
+    "muted": "2026-11-10T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-08T3"
+    "muted": "2026-11-10T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-08",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-08",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 403,
+   "rev": 405,
    "day": "2026-11-10",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-10T10",
+   "hour": "2026-11-10T17",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "31c4f38727f02324f20ee3e780c931f939df004bbfd8c4e9cb6daa59bb303197",
-  "site_time": "2026-11-10T10:09:59.591063+00:00"
+  "site_hash": "892a5dd2fc3f1df8bc5eed65cf83e4dd6c391ef1e657d8b85403b473499458a0",
+  "site_time": "2026-11-10T17:44:53.018429+00:00"
  },
  "jobs": [
+  {
+   "title": "Construction Management Lead Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-10",
+   "status": "open",
+   "checked": "2026-11-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
    "info": "via UNjobs · Bosnia and Herzegovina",

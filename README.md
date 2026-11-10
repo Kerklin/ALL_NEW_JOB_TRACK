@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**79 open jobs** (🟢 32 · 🟡 37 · ⚪ 10) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 74 waiting · updated 2026-11-10 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**80 open jobs** (🟢 32 · 🟡 38 · ⚪ 10) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 75 waiting · updated 2026-11-10 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -45,6 +45,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)](https://unjobs.org/skills/infrastructure-projects) | Danish Refugee Council · Beirut | – | check | 🟢 High | 🔗 needs the job's own link | Check deadline |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 2 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 4 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
+| [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 6 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Mechanical Engineer](https://unjobs.org/vacancies/1793714480168) | via UNjobs · construction | 2026-11-17 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Mechanical Engineer, Homs, Syria](https://unjobs.org/vacancies/1793714480525) | via UNjobs · construction | 2026-11-17 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
@@ -277,11 +278,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-09 |
-| unvacancies · UNOPS | 2026-11-08 |
+| unvacancies · UNOPS | 2026-11-10 |
 | unvacancies · UN-Habitat | 2026-11-10 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-09 |
 | UNjobs · construction | 2026-11-09 |
-| UNjobs · infrastructure projects | 2026-11-08 |
+| UNjobs · infrastructure projects | 2026-11-10 |
 | UNOPS careers | 2026-11-10 |
 | UNICEF · construction | 2026-11-09 |
 
