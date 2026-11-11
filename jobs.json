@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-09T1"
+    "muted": "2026-11-11T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-10T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 409,
+   "rev": 411,
    "day": "2026-11-11",
    "used": {
-    "high": 0,
-    "low": 0
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-11T02",
-   "hour_used": 0,
+   "hour": "2026-11-11T09",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "f02a4d1d90c437265c18c16fc16e2708f4940b328171556fd1d345acb6979d4f",
-  "site_time": "2026-11-11T02:09:19.592419+00:00"
+  "site_hash": "367c8c3ebf9c449637cd19ed63a4fe397f345b0d4fd80ebb1be6a7a5c68e04a4",
+  "site_time": "2026-11-11T09:17:36.713902+00:00"
  },
  "jobs": [
+  {
+   "title": "Associate Director, Infrastructure and Biomedical Engineering",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794314671269",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-11",
+   "status": "open",
+   "checked": "2026-11-11",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Design Engineer, Yangon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794283274464",
+   "deadline": "2026-11-24",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-11",
+   "status": "open",
+   "checked": "2026-11-11",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Mechanical Engineer, Tashkent, Uzbekistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794232891034",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-11",
+   "status": "open",
+   "checked": "2026-11-11",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Construction Management Lead Engineer",
    "info": "via unvacancies · UNOPS",
