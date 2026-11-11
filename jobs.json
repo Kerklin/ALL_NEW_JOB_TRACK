@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-10T1"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-10T1"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-10",
+  "maint": "2026-11-11",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
    "rev": 409,
-   "day": "2026-11-10",
+   "day": "2026-11-11",
    "used": {
-    "high": 8,
-    "low": 4
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-11-10T22",
-   "hour_used": 2,
+   "hour": "2026-11-11T02",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "135a2b6d6986af58877889cb6fd951d40c10b255a0edb3313df6c5df5a93d5f5",
-  "site_time": "2026-11-10T22:32:12.328406+00:00"
+  "site_hash": "f02a4d1d90c437265c18c16fc16e2708f4940b328171556fd1d345acb6979d4f",
+  "site_time": "2026-11-11T02:09:19.592419+00:00"
  },
  "jobs": [
   {
@@ -420,7 +420,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -433,7 +433,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -446,7 +446,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -456,10 +456,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783",
    "deadline": "2026-11-10",
    "fit": "High",
-   "note": "Found automatically (21 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03",
+   "status": "removed",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -469,10 +469,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956",
    "deadline": "2026-11-09",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03",
+   "status": "removed",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -482,10 +482,10 @@
    "link": "https://unjobs.org/vacancies/1793621020902",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03",
+   "status": "removed",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -888,7 +888,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -901,7 +901,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -914,7 +914,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -927,7 +927,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -940,7 +940,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -953,7 +953,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -966,7 +966,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -979,7 +979,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
@@ -2826,7 +2826,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-11",
    "pack": "",
    "tries": 0
   },
