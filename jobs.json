@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-11T1"
+    "muted": "2026-11-12T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-11T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-11",
+    "last_ok": "2026-11-12",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-11",
+    "last_ok": "2026-11-12",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,41 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-11",
+  "maint": "2026-11-12",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 417,
-   "day": "2026-11-11",
+   "rev": 421,
+   "day": "2026-11-12",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-11T23",
-   "hour_used": 2,
+   "hour": "2026-11-12T04",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4b7d56416cb006a2cdae6c524485b09d01e9447c1b023780a148879a05a207eb",
-  "site_time": "2026-11-11T23:27:51.029839+00:00"
+  "site_hash": "c66ebf13a9198de10445f7e8c7e1618ab8cd12976fb5603ee3080286f96a5457",
+  "site_time": "2026-11-12T03:59:38.407667+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000",
+   "deadline": "2026-11-20",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-12",
+   "status": "open",
+   "checked": "2026-11-12",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Associate Director, Infrastructure and Biomedical Engineering",
    "info": "via UNjobs · construction",
@@ -355,7 +368,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -368,7 +381,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -820,10 +833,10 @@
    "link": "https://unjobs.org/vacancies/1793188852256",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-12)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-04",
+   "status": "removed",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -836,7 +849,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -846,10 +859,10 @@
    "link": "https://unjobs.org/vacancies/1793181721552",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (14 points)",
+   "note": "Posting removed (checked 2026-11-12)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-04",
+   "status": "removed",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -862,7 +875,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -875,7 +888,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -888,7 +901,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -901,7 +914,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-04",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -2891,7 +2904,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -2904,7 +2917,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -2982,7 +2995,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -2995,7 +3008,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -3008,7 +3021,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "pack": "",
    "tries": 0
   },
@@ -3021,7 +3034,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-12",
    "pack": "needs-link",
    "tries": 0
   },
