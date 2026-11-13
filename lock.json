@@ -1,14 +1,14 @@
 {
  "v": 1,
- "rev": 437,
+ "rev": 438,
  "day": "2026-11-13",
  "used": {
   "high": 8,
   "low": 2
  },
  "packs": 0,
- "hour": "2026-11-13T21",
- "hour_used": 2,
+ "hour": "2026-11-13T23",
+ "hour_used": 0,
  "blocked": {},
  "last_call": 1794605512.5944386,
  "holder": "",
@@ -20,6 +20,10 @@
   "deep:unjobs.org/vacancies/1793365860777|civilengineer1positionlibya": {
    "pack": "deep-skip",
    "day": "2026-11-03"
+  },
+  "deep:unjobs.org/vacancies/1793534475645|seniorprojectmanagerinfrastructure": {
+   "pack": "deep-skip",
+   "day": "2026-11-13"
   }
  },
  "search_day": "2026-11-13",
