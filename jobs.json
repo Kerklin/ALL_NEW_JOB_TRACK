@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-10T2"
+    "muted": "2026-11-13T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-10T2"
+    "muted": "2026-11-13T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": "2026-11-12T3"
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 427,
+   "rev": 431,
    "day": "2026-11-13",
    "used": {
-    "high": 0,
-    "low": 0
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-13T00",
-   "hour_used": 0,
+   "hour": "2026-11-13T07",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "8783cfa047e156ed4ea86974020d6120e127ccb26b3c8595c857ecdb92b0245c",
-  "site_time": "2026-11-13T00:53:48.401380+00:00"
+  "site_hash": "267450f396a4b393668f98174e72af37e20b23ba3b984cb433d0151ab31e9689",
+  "site_time": "2026-11-13T07:24:40.699600+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5162",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-13",
+   "status": "open",
+   "checked": "2026-11-13",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
    "info": "via unvacancies · engineering",
