@@ -4,14 +4,14 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**74 open jobs** (🟢 26 · 🟡 40 · ⚪ 8) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 69 waiting · updated 2026-11-14 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**74 open jobs** (🟢 26 · 🟡 40 · ⚪ 8) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 68 waiting · updated 2026-11-14 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
-| [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 🔴 0 days | 🟢 High | ⏳ retrying | Found automatically (11 points) |
+| [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 🔴 0 days | 🟢 High | – | Found automatically (11 points) |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) | via UNICEF · construction | 2026-11-15 | 🔴 1 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unjobs.org/vacancies/1794427295862) 🆕 | via UNjobs · construction | 2026-11-18 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
