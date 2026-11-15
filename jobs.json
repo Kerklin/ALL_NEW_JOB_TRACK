@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-15T2"
+    "muted": "2026-11-15T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -77,15 +77,28 @@
     "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-15T16",
-   "hour_used": 2,
+   "hour": "2026-11-15T21",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "d3c5f8958fcdd07a20d1ade96f49f470f40ff8cfd52e83dd68431b8b164b60e0",
-  "site_time": "2026-11-15T16:39:29.338818+00:00"
+  "site_hash": "d1b6610fe073f1f44eb2a3666c21746370ce23da4c990dfb2ecd7a4116f8b45f",
+  "site_time": "2026-11-15T21:15:22.116156+00:00"
  },
  "jobs": [
+  {
+   "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794762040764",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (21 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Field Project Assistant (Shelter/NFI), Chittagong",
    "info": "via UNjobs · construction",

@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**77 open jobs** (🟢 26 · 🟡 43 · ⚪ 8) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 72 waiting · updated 2026-11-15 · sources working today: 5 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**78 open jobs** (🟢 27 · 🟡 43 · ⚪ 8) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 73 waiting · updated 2026-11-15 · sources working today: 5 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -17,6 +17,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unjobs.org/vacancies/1794427295862) 🆕 | via UNjobs · construction | 2026-11-18 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [ICT Senior Analyst - ICT Project Management (Data Architect), Brasilia](https://unjobs.org/vacancies/1793901685046) | via UNjobs · infrastructure projects | 2026-11-19 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 29 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://unjobs.org/vacancies/1794762040764) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (21 points) |
 | [Senior Technical Officer -WASH, Maiduguri, Nigeria](https://unjobs.org/vacancies/1794718889633) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1793854878525) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
