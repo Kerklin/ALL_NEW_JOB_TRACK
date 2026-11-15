@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-14T3"
+    "muted": "2026-11-15T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-15T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-15",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-15",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,100 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 454,
+   "rev": 458,
    "day": "2026-11-15",
    "used": {
-    "high": 3,
-    "low": 1
+    "high": 6,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-15T09",
+   "hour": "2026-11-15T16",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "ea05ce3007f50f8d42332897684b0239952b2270a0439995732c800bbb107d8c",
-  "site_time": "2026-11-15T09:54:14.492889+00:00"
+  "site_hash": "d3c5f8958fcdd07a20d1ade96f49f470f40ff8cfd52e83dd68431b8b164b60e0",
+  "site_time": "2026-11-15T16:39:29.338818+00:00"
  },
  "jobs": [
+  {
+   "title": "Field Project Assistant (Shelter/NFI), Chittagong",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794736838489",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Field Engineer, Chaman, Pakistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794718910686",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Technical Officer -WASH, Maiduguri, Nigeria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794718889633",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "100000000784.Project Engineer, Doha",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794718864489",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer, Port Moresby",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794528078953",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Lead Biomedical Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794542481261",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-15",
+   "status": "open",
+   "checked": "2026-11-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Specialist",
    "info": "via UNjobs · construction",

@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**71 open jobs** (🟢 24 · 🟡 39 · ⚪ 8) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 66 waiting · updated 2026-11-15 · sources working today: 3 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**77 open jobs** (🟢 26 · 🟡 43 · ⚪ 8) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 72 waiting · updated 2026-11-15 · sources working today: 5 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -12,10 +12,12 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) | via UNICEF · construction | 2026-11-15 | 🔴 0 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
+| [Civil Engineer, Port Moresby](https://unjobs.org/vacancies/1794528078953) 🆕 | via UNjobs · construction | 2026-11-17 | 🔴 2 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 🔴 2 days | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unjobs.org/vacancies/1794427295862) 🆕 | via UNjobs · construction | 2026-11-18 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [ICT Senior Analyst - ICT Project Management (Data Architect), Brasilia](https://unjobs.org/vacancies/1793901685046) | via UNjobs · infrastructure projects | 2026-11-19 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 29 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Senior Technical Officer -WASH, Maiduguri, Nigeria](https://unjobs.org/vacancies/1794718889633) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (13 points) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1793854878525) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (15 points) |
@@ -54,6 +56,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) | via UNjobs · infrastructure projects | 2026-11-25 | 10 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 10 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 10 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [Field Project Assistant (Shelter/NFI), Chittagong](https://unjobs.org/vacancies/1794736838489) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [Field Engineer, Chaman, Pakistan](https://unjobs.org/vacancies/1794718910686) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [100000000784.Project Engineer, Doha](https://unjobs.org/vacancies/1794718864489) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Lead Biomedical Engineer](https://unjobs.org/vacancies/1794542481261) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1794607291384) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794502850841) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Associate Director, Infrastructure and Biomedical Engineering](https://unjobs.org/vacancies/1794314671269) | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -287,11 +293,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-11-14 |
+| unvacancies · engineering | 2026-11-15 |
 | unvacancies · UNOPS | 2026-11-15 |
 | unvacancies · UN-Habitat | 2026-11-14 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-15 |
-| UNjobs · construction | 2026-11-14 |
+| UNjobs · construction | 2026-11-15 |
 | UNjobs · infrastructure projects | 2026-11-15 |
 | UNOPS careers | 2026-11-14 |
 | UNICEF · construction | 2026-11-10 |
