@@ -1,24 +1,21 @@
 {
  "v": 1,
- "rev": 451,
+ "rev": 452,
  "day": "2026-11-15",
  "used": {
-  "high": 3,
-  "low": 1
+  "high": 2,
+  "low": 0
  },
  "packs": 0,
  "hour": "2026-11-15T02",
- "hour_used": 4,
+ "hour_used": 2,
  "blocked": {},
- "last_call": 1794698151.6872256,
- "holder": "deep-43668711252",
- "expires": 1794711259.667312,
- "reserved": {
-  "high": 3,
-  "low": 1
- },
- "fail_streak": 2,
- "paused_until": 1794689302.9317513,
+ "last_call": 1794710311.0729675,
+ "holder": "",
+ "expires": 0,
+ "reserved": {},
+ "fail_streak": 0,
+ "paused_until": 1794731911.4684978,
  "done": {
   "deep:unjobs.org/vacancies/1793365860777|civilengineer1positionlibya": {
    "pack": "deep-skip",
@@ -29,10 +26,10 @@
    "day": "2026-11-13"
   }
  },
- "search_day": "2026-11-14",
+ "search_day": "2026-11-15",
  "search_today": 0,
  "search_month": "2026-11",
  "search_month_used": 0,
- "deep_day": "2026-11-14",
+ "deep_day": "2026-11-15",
  "deep_today": 0
 }
