@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-13T1"
+    "muted": "2026-11-15T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-13T1"
+    "muted": "2026-11-15T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-13",
+    "last_ok": "2026-11-15",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-13",
+    "last_ok": "2026-11-15",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-14",
+  "maint": "2026-11-15",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 450,
-   "day": "2026-11-14",
+   "rev": 452,
+   "day": "2026-11-15",
    "used": {
-    "high": 8,
-    "low": 4
+    "high": 2,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-11-14T23",
+   "hour": "2026-11-15T02",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "f7e20a318d3b0e1f19f862c875245f80a7c029ce933c463112939161d31ce953",
-  "site_time": "2026-11-14T23:15:36.750955+00:00"
+  "site_hash": "c920ea6b6b5b565655bf219cc9a67347e8c0e5164b026b0484643d66d254f012",
+  "site_time": "2026-11-15T02:41:09.157186+00:00"
  },
  "jobs": [
   {
@@ -731,10 +731,10 @@
    "link": "https://unjobs.org/vacancies/1793419279543",
    "deadline": "2026-11-06",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-07",
+   "status": "removed",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -744,10 +744,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705",
    "deadline": "2026-11-12",
    "fit": "High",
-   "note": "Found automatically (16 points)",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-07",
+   "status": "removed",
+   "checked": "2026-11-15",
    "pack": "retry",
    "tries": 1,
    "next": "2026-11-13"
@@ -758,10 +758,10 @@
    "link": "https://unjobs.org/vacancies/1793364911687",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (15 points)",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-07",
+   "status": "removed",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -774,7 +774,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-11-07",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -891,7 +891,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-07",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -1242,7 +1242,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-11-07",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -2513,10 +2513,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa",
    "deadline": "2026-10-18",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-11-15)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-11-07",
+   "status": "removed",
+   "checked": "2026-11-15",
    "pack": "retry",
    "tries": 1,
    "next": "2026-10-19"
@@ -2530,7 +2530,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-11-07",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -2686,7 +2686,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-06",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -2699,7 +2699,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-06",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -2738,7 +2738,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-07",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -3167,7 +3167,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06",
+   "checked": "2026-11-15",
    "pack": "",
    "tries": 0
   },
@@ -3180,7 +3180,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06",
+   "checked": "2026-11-15",
    "pack": "needs-link",
    "tries": 0
   },
@@ -3219,7 +3219,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06",
+   "checked": "2026-11-15",
    "pack": "needs-link",
    "tries": 0
   },
@@ -3232,7 +3232,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06",
+   "checked": "2026-11-15",
    "pack": "needs-link",
    "tries": 0
   },
