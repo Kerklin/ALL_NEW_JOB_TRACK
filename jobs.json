@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-15T0"
+    "muted": "2026-11-16T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-15T0"
+    "muted": "2026-11-16T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-16",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,28 +64,93 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-15",
+  "maint": "2026-11-16",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 458,
-   "day": "2026-11-15",
+   "rev": 460,
+   "day": "2026-11-16",
    "used": {
-    "high": 6,
-    "low": 2
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-15T21",
-   "hour_used": 0,
+   "hour": "2026-11-16T01",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "d1b6610fe073f1f44eb2a3666c21746370ce23da4c990dfb2ecd7a4116f8b45f",
-  "site_time": "2026-11-15T21:15:22.116156+00:00"
+  "site_hash": "813bbddfaec15066b2a76fa539780944d878c33dd30255983b5e49b7a871d3ad",
+  "site_time": "2026-11-16T01:03:51.904661+00:00"
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794735462576",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-16",
+   "status": "open",
+   "checked": "2026-11-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Emergency Program Manager II -JWBG, Gaza",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794632743265",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-16",
+   "status": "open",
+   "checked": "2026-11-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Biomedical Engineer, Tashkent, Uzbekistan",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225678460",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-16",
+   "status": "open",
+   "checked": "2026-11-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Management Lead Engineer, Tashkent",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225678882",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-16",
+   "status": "open",
+   "checked": "2026-11-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Management Senior Associate Engineer, Tashkent",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794225679083",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-16",
+   "status": "open",
+   "checked": "2026-11-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
    "info": "via UNjobs · construction",
@@ -329,7 +394,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-09",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -342,7 +407,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-09",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -355,7 +420,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-08",
    "status": "open",
-   "checked": "2026-11-08",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -368,7 +433,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-08",
    "status": "open",
-   "checked": "2026-11-08",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -378,10 +443,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels",
    "deadline": "2026-11-15",
    "fit": "High",
-   "note": "Found automatically (16 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-11-08",
-   "status": "open",
-   "checked": "2026-11-08",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -716,10 +781,10 @@
    "link": "https://unjobs.org/vacancies/1793534475645",
    "deadline": "2026-11-14",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-11-02",
-   "status": "open",
-   "checked": "2026-11-09",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "retry",
    "tries": 2,
    "next": "2026-11-15"
@@ -759,7 +824,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-08",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -769,10 +834,10 @@
    "link": "https://unjobs.org/vacancies/1793422858335",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (15 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-11-01",
-   "status": "open",
-   "checked": "2026-11-08",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -782,10 +847,10 @@
    "link": "https://unjobs.org/vacancies/1793422874630",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-11-01",
-   "status": "open",
-   "checked": "2026-11-08",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -795,10 +860,10 @@
    "link": "https://unjobs.org/vacancies/1793419279266",
    "deadline": "2026-11-12",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-11-01",
-   "status": "open",
-   "checked": "2026-11-08",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "retry",
    "tries": 1,
    "next": "2026-11-13"
@@ -888,10 +953,10 @@
    "link": "https://unjobs.org/vacancies/1793379654367",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-08",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -1359,7 +1424,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-11-08",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -1395,10 +1460,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months",
    "deadline": "2026-11-05",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-11-08",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -2022,7 +2087,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-08",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
@@ -2865,10 +2930,10 @@
    "link": "https://unjobs.org/vacancies/1791262902457",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (19 points)",
+   "note": "Posting removed (checked 2026-11-16)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-07",
+   "status": "removed",
+   "checked": "2026-11-16",
    "pack": "",
    "tries": 0
   },
