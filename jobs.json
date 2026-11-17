@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-15T3"
+    "muted": "2026-11-17T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-16T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,80 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-16",
-  "vcheck": "2026-11-10",
+  "maint": "2026-11-17",
+  "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 466,
-   "day": "2026-11-16",
+   "rev": 470,
+   "day": "2026-11-17",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-16T17",
+   "hour": "2026-11-17T00",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "fd88e052f801b88fa7bd8468453e53c679b98194c99ce620a5aae652c182afeb",
-  "site_time": "2026-11-16T17:30:08.432444+00:00"
+  "site_hash": "39beaeba46b2de8c8bcf1f22bb2618ef056e7cc44e0e12c142d35e91431d3982",
+  "site_time": "2026-11-17T00:58:39.016539+00:00"
  },
  "jobs": [
+  {
+   "title": "Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794839191439",
+   "deadline": "2026-11-30",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Administration Officer (Lao national), Luang Namtha, Lao PDR",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794839756889",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Information Management Officer (WASH)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794859326088",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WaSH and Shelter Technician",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794459680118",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
@@ -381,7 +433,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -628,7 +680,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -641,7 +693,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -680,7 +732,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -693,7 +745,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -874,10 +926,10 @@
    "link": "https://unjobs.org/vacancies/1793422887438",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-11-01",
-   "status": "open",
-   "checked": "2026-11-09",
+   "status": "removed",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1291,10 +1343,10 @@
    "link": "https://unjobs.org/vacancies/1793030445542",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (17 points)",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-09",
+   "status": "removed",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1304,10 +1356,10 @@
    "link": "https://unjobs.org/vacancies/1793030444841",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (17 points)",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-09",
+   "status": "removed",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1330,10 +1382,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563",
    "deadline": "2026-11-08",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-11-17)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-11-10",
+   "status": "removed",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1671,7 +1723,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1697,7 +1749,7 @@
    "note": "Found automatically (18 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1944,7 +1996,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-09",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1957,7 +2009,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-09",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -1970,7 +2022,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-10",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
@@ -2191,7 +2243,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-09",
+   "checked": "2026-11-17",
    "pack": "",
    "tries": 0
   },
