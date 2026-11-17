@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-17T0"
+    "muted": "2026-11-17T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 472,
+   "rev": 476,
    "day": "2026-11-17",
    "used": {
-    "high": 2,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-17T08",
+   "hour": "2026-11-17T17",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "83e304d64f2ed13ff9bd540527665df9c1d1fbc7996e7c00a5ff27d388a1ec96",
-  "site_time": "2026-11-17T08:48:44.213765+00:00"
+  "site_hash": "4508a5ae6b05ff61ef516893cffadc0ac7accdfdaa3adab50e1017de79858228",
+  "site_time": "2026-11-17T17:55:14.660204+00:00"
  },
  "jobs": [
+  {
+   "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794934859224",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH and Sanitation Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794931294612",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer), Dushanbe",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794916848324",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-17",
+   "status": "open",
+   "checked": "2026-11-17",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia",
    "info": "via UNjobs · construction",
@@ -786,8 +825,9 @@
    "found": "2026-11-03",
    "status": "open",
    "checked": "2026-11-11",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1,
+   "next": "2026-11-18"
   },
   {
    "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783",
