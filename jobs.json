@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-14T2"
+    "muted": "2026-11-17T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-14T2"
+    "muted": "2026-11-17T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 470,
+   "rev": 472,
    "day": "2026-11-17",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 2,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-17T00",
+   "hour": "2026-11-17T08",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "39beaeba46b2de8c8bcf1f22bb2618ef056e7cc44e0e12c142d35e91431d3982",
-  "site_time": "2026-11-17T00:58:39.016539+00:00"
+  "site_hash": "83e304d64f2ed13ff9bd540527665df9c1d1fbc7996e7c00a5ff27d388a1ec96",
+  "site_time": "2026-11-17T08:48:44.213765+00:00"
  },
  "jobs": [
   {
@@ -278,8 +278,9 @@
    "found": "2026-11-15",
    "status": "open",
    "checked": "2026-11-15",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1,
+   "next": "2026-11-18"
   },
   {
    "title": "Lead Biomedical Engineer",
