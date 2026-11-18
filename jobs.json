@@ -6,8 +6,8 @@
     "muted": "2026-11-16T0"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "",
-    "muted": "2026-11-18T0"
+    "last_ok": "2026-11-18",
+    "muted": ""
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -22,8 +22,8 @@
     "muted": "2026-11-16T0"
    },
    "ReliefWeb · engineer": {
-    "last_ok": "",
-    "muted": "2026-11-18T0"
+    "last_ok": "2026-11-18",
+    "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -70,22 +70,178 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 481,
+   "rev": 483,
    "day": "2026-11-18",
    "used": {
-    "high": 2,
+    "high": 4,
     "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-18T07",
-   "hour_used": 2,
+   "hour": "2026-11-18T16",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "e75f3a5b70efc7f39a6ee8b8bab40cff09627de2ba0bc180f8a7627b7c80615f",
-  "site_time": "2026-11-18T07:16:08.678443+00:00"
+  "site_hash": "aac9e5dfb426d0e77957e6b1558e7a088e4a35fbf11a6dcb10927402543f9617",
+  "site_time": "2026-11-18T16:28:48.715809+00:00"
  },
  "jobs": [
+  {
+   "title": "Humanitarian Mine Action Project Manager (Programme Manager)",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "note": "Found automatically (18 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Director, Infrastructure",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238587/senior-director-infrastructure",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "note": "Found automatically (28 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Release Train Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238504/release-train-engineer",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Engineer – School Rehabilitation",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238413/engineer-school-rehabilitation",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Roads Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4237601/roads-engineer",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "note": "Found automatically (20 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "AI Platform Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4233231/ai-platform-engineer",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "note": "Found automatically (21 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Tupande Electrical Maintenance Engineer / Specialist (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4226604/tupande-electrical-maintenance-engineer-specialist-fixed-term",
+   "deadline": "2026-11-20",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Tupande Mechanical Maintenance Engineer / Specialist (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4226603/tupande-mechanical-maintenance-engineer-specialist-fixed-term",
+   "deadline": "2026-11-20",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Field Monitoring Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4219684/field-monitoring-engineer",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "note": "Found automatically (19 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Engineer - Mindanao (Filipino Nationals Only)",
    "info": "via ReliefWeb · architect",
