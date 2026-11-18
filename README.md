@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**79 open jobs** (🟢 31 · 🟡 35 · ⚪ 13) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 74 waiting · updated 2026-11-18 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**80 open jobs** (🟢 32 · 🟡 35 · ⚪ 13) · AI today: 10 of 130 requests (max 16/hour) · 0 packs · 75 waiting · updated 2026-11-18 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -25,6 +25,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · architect | 2026-12-10 | 22 days | 🟢 High | ⏳ queued | Found automatically (30 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 26 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-31 | 43 days | 🟢 High | ⏳ queued | Found automatically (19 points) |
+| [Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR](https://unjobs.org/vacancies/1795021255741) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794934859224) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [WASH and Sanitation Specialist](https://unjobs.org/vacancies/1794931294612) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Emergency Program Manager II -JWBG, Gaza](https://unjobs.org/vacancies/1794632743265) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
