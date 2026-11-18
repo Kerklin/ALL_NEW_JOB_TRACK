@@ -14,8 +14,8 @@
     "muted": "2026-11-16T2"
    },
    "ReliefWeb · architect": {
-    "last_ok": "",
-    "muted": "2026-11-17T2"
+    "last_ok": "2026-11-18",
+    "muted": ""
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-16T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 478,
+   "rev": 481,
    "day": "2026-11-18",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 2,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-18T00",
+   "hour": "2026-11-18T07",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "1d366e4859618474e08967748e5d126fa8b95afa67fe41b7a70efbf6aa7db9d5",
-  "site_time": "2026-11-18T00:08:48.175371+00:00"
+  "site_hash": "e75f3a5b70efc7f39a6ee8b8bab40cff09627de2ba0bc180f8a7627b7c80615f",
+  "site_time": "2026-11-18T07:16:08.678443+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH Engineer - Mindanao (Filipino Nationals Only)",
+   "info": "via ReliefWeb · architect",
+   "link": "https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "Found automatically (30 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Management Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794974487378",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer QA/QC (3 positions), Haiti",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794944927916",
+   "deadline": "2026-11-24",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
    "info": "via UNjobs · construction",

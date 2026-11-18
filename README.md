@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**64 open jobs** (🟢 20 · 🟡 34 · ⚪ 10) · AI today: 2 of 130 requests (max 16/hour) · 0 packs · 59 waiting · updated 2026-11-18 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**67 open jobs** (🟢 22 · 🟡 34 · ⚪ 11) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 62 waiting · updated 2026-11-18 · sources working today: 5 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -13,6 +13,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|---|---|---|---|---|
 | [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unjobs.org/vacancies/1794427295862) | via UNjobs · construction | 2026-11-18 | 🔴 0 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [ICT Senior Analyst - ICT Project Management (Data Architect), Brasilia](https://unjobs.org/vacancies/1793901685046) | via UNjobs · infrastructure projects | 2026-11-19 | 🔴 1 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Construction Management Engineer](https://unjobs.org/vacancies/1794974487378) 🆕 | via UNjobs · construction | 2026-11-23 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
+| [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · architect | 2026-12-10 | 22 days | 🟢 High | ⏳ queued | Found automatically (30 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 26 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794934859224) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [WASH and Sanitation Specialist](https://unjobs.org/vacancies/1794931294612) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
@@ -65,6 +67,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | ⏳ queued | Stretch role |
 | [Consultant – Field Engineer (STRONG)](https://unjobs.org/skills/infrastructure-projects) | IOM · Banjul, The Gambia | – | check | 🟡 Medium | 🔗 needs the job's own link | Check deadline |
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | 🔗 needs the job's own link | Verify it's still open |
+| [Civil Engineer QA/QC (3 positions), Haiti](https://unjobs.org/vacancies/1794944927916) 🆕 | via UNjobs · construction | 2026-11-24 | 🔴 6 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) 🆕 | via UNjobs · construction | 2026-11-30 | 12 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Local Individual Contractor (Civil Work Engineer), Dushanbe](https://unjobs.org/vacancies/1794916848324) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
@@ -302,15 +305,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | not yet |
 | ReliefWeb · infrastructure | not yet |
 | ReliefWeb · shelter | not yet |
-| ReliefWeb · architect | not yet |
+| ReliefWeb · architect | 2026-11-18 |
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-11-17 |
+| unvacancies · engineering | 2026-11-18 |
 | unvacancies · UNOPS | 2026-11-16 |
 | unvacancies · UN-Habitat | 2026-11-18 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-16 |
-| UNjobs · construction | 2026-11-17 |
+| UNjobs · construction | 2026-11-18 |
 | UNjobs · infrastructure projects | 2026-11-16 |
 | UNOPS careers | 2026-11-18 |
 | UNICEF · construction | 2026-11-10 |
