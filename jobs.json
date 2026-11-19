@@ -70,22 +70,87 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 493,
+   "rev": 495,
    "day": "2026-11-19",
    "used": {
-    "high": 5,
+    "high": 7,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-19T12",
-   "hour_used": 2,
+   "hour": "2026-11-19T20",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "53fa2beb48b24bb0b8314c2666bb689bcef42d3edc6b16cee11be1f827c074ed",
-  "site_time": "2026-11-19T12:34:51.279013+00:00"
+  "site_hash": "db26f91e1f951131344dab1f5e3a3e3ea82c62c2710189c8ad949fbcca5244b3",
+  "site_time": "2026-11-19T20:55:35.601872+00:00"
  },
  "jobs": [
+  {
+   "title": "Irrigation And Rural Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357",
+   "deadline": "2026-12-17",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795089717459",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Specialist, Kasulu, Tanzania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795082503084",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794996082781",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Lead Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795075281189",
+   "deadline": "2026-12-03",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-19",
+   "status": "open",
+   "checked": "2026-11-19",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR",
    "info": "via UNjobs · construction",
