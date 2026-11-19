@@ -14,7 +14,7 @@
     "muted": "2026-11-16T2"
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": "2026-11-16T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-18",
+  "maint": "2026-11-19",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 487,
-   "day": "2026-11-18",
+   "rev": 489,
+   "day": "2026-11-19",
    "used": {
-    "high": 7,
-    "low": 3
+    "high": 2,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-11-18T23",
-   "hour_used": 2,
+   "hour": "2026-11-19T03",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "42f6db173e0916d39238775ad2d67e971500bb32512214dcd2ba93f9a7ae798d",
-  "site_time": "2026-11-18T22:59:59.494382+00:00"
+  "site_hash": "195f21953a03165b66e29979c1627c87b6e821de6c995bf1021e7203dd42fbcd",
+  "site_time": "2026-11-19T03:59:48.727903+00:00"
  },
  "jobs": [
   {
@@ -629,7 +629,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-12",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -902,7 +902,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -912,10 +912,10 @@
    "link": "https://unjobs.org/vacancies/1793725260704",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-11-04",
-   "status": "open",
-   "checked": "2026-11-12",
+   "status": "removed",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -1387,7 +1387,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -1413,7 +1413,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -1423,10 +1423,10 @@
    "link": "https://unjobs.org/vacancies/1793163739608",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-12",
+   "status": "removed",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -1439,7 +1439,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -1452,7 +1452,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -1569,7 +1569,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-11",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -3416,7 +3416,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-11",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -3442,7 +3442,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -3455,7 +3455,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -3533,7 +3533,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -3546,7 +3546,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
@@ -3559,7 +3559,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-12",
+   "checked": "2026-11-19",
    "pack": "",
    "tries": 0
   },
