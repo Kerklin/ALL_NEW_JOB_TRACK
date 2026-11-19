@@ -1,14 +1,14 @@
 {
  "v": 1,
- "rev": 495,
+ "rev": 496,
  "day": "2026-11-19",
  "used": {
   "high": 7,
   "low": 1
  },
  "packs": 0,
- "hour": "2026-11-19T17",
- "hour_used": 2,
+ "hour": "2026-11-19T23",
+ "hour_used": 0,
  "blocked": {},
  "last_call": 1795110070.3763,
  "holder": "",
@@ -28,6 +28,10 @@
   "deep:unjobs.org/vacancies/1794427295862|civilengineerquantitysurveyingcostestimation": {
    "pack": "deep-skip",
    "day": "2026-11-18"
+  },
+  "deep:reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur|sudanwashprogrammanagermfwestandcentraldarfur": {
+   "pack": "deep-skip",
+   "day": "2026-11-19"
   }
  },
  "search_day": "2026-11-19",
