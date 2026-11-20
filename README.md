@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**84 open jobs** (🟢 40 · 🟡 32 · ⚪ 12) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 79 waiting · updated 2026-11-20 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**90 open jobs** (🟢 41 · 🟡 36 · ⚪ 13) · AI today: 10 of 130 requests (max 16/hour) · 0 packs · 85 waiting · updated 2026-11-20 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -32,6 +32,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 24 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) 🆕 | via ReliefWeb · shelter | 2026-12-15 | 25 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-31 | 41 days | 🟢 High | ⏳ queued | Found automatically (19 points) |
+| [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Shelter Specialist, Kasulu, Tanzania](https://unjobs.org/vacancies/1795082503084) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR](https://unjobs.org/vacancies/1795021255741) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
@@ -62,6 +63,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | 2026-11-25 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 27 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Nuclear Engineer (PRIS), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
+| [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1795089717459) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794735462576) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -87,6 +92,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Tupande Mechanical Maintenance Engineer / Specialist (Fixed-Term)](https://reliefweb.int/job/4226603/tupande-mechanical-maintenance-engineer-specialist-fixed-term) 🆕 | via ReliefWeb · engineer | 2026-11-20 | 🔴 0 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Civil Engineer QA/QC (3 positions), Haiti](https://unjobs.org/vacancies/1794944927916) 🆕 | via UNjobs · construction | 2026-11-24 | 🔴 4 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | 2026-11-30 | 10 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer--2602361) 🆕 | via unvacancies · engineering | 2026-12-04 | 14 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Local Individual Contractor (Civil Work Engineer), Dushanbe](https://unjobs.org/vacancies/1794916848324) | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
