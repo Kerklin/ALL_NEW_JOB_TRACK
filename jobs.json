@@ -59,7 +59,7 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-10",
-    "muted": "2026-11-20T1"
+    "muted": "2026-11-20T3"
    }
   },
   "since": "2026-10-06",
@@ -70,22 +70,74 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 506,
+   "rev": 508,
    "day": "2026-11-20",
    "used": {
-    "high": 7,
+    "high": 9,
     "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-20T17",
-   "hour_used": 2,
+   "hour": "2026-11-20T23",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "652ed65f8cc69ac5efb3167caa19f7caefdc36ef114d750ff788124de400eba8",
-  "site_time": "2026-11-20T17:56:32.931881+00:00"
+  "site_hash": "dcf79ad4155b105e92afe40cfba5f4efb14c9ce2874daae53a89ca2f0978abd7",
+  "site_time": "2026-11-20T23:32:06.008649+00:00"
  },
  "jobs": [
+  {
+   "title": "Oficial WASH Shelter & Infrastructure - Maracaibo",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Regional Housing Ecosystem & Partnership Associate Director",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "note": "Found automatically (33 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "ERL Site Engineer - AL Mayadin",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "Found automatically (19 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal",
+   "deadline": "2026-11-27",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer",
    "info": "via unvacancies · engineering",
