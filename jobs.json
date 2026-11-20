@@ -10,8 +10,8 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "",
-    "muted": "2026-11-19T2"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "ReliefWeb · architect": {
     "last_ok": "2026-11-20",
@@ -26,8 +26,8 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "",
-    "muted": "2026-11-19T2"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-20",
@@ -42,8 +42,8 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-16",
-    "muted": "2026-11-19T2"
+    "last_ok": "2026-11-20",
+    "muted": ""
    },
    "UNjobs · construction": {
     "last_ok": "2026-11-20",
@@ -59,7 +59,7 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-10",
-    "muted": "2026-11-19T2"
+    "muted": "2026-11-20T1"
    }
   },
   "since": "2026-10-06",
@@ -70,22 +70,152 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 498,
+   "rev": 502,
    "day": "2026-11-20",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-20T01",
+   "hour": "2026-11-20T09",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "660d04ff71a931685fe03c9d1811a4cd587c0866960157f4f889e57cd607b415",
-  "site_time": "2026-11-20T01:56:43.738317+00:00"
+  "site_hash": "82a312205840d4185846ba4bad699c03b55a333de2fff64212982e10cbd39120",
+  "site_time": "2026-11-20T09:30:25.307865+00:00"
  },
  "jobs": [
+  {
+   "title": "WASH & Shelter Data entry - Deir ez-Zor",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Site Engineer - AL Mayadin - AL-Bukamal",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "Found automatically (20 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH site engineer - AL Mayadin - AL-Bukamal - Tabni",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "Found automatically (22 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Shelter Project Manager - Deir ez-Zor",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager ATLAS - Sudan",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239070/project-manager-atlas-sudan",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Civil Engineer, LICA-9, Tarawa - Kiribati",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "note": "Found automatically (26 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH Program Manager- Re-advertised - Syria Aleppo & Idleb",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb",
+   "deadline": "2026-12-03",
+   "fit": "High",
+   "note": "Found automatically (32 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Programme Manager Ukraine",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4238714/programme-manager-ukraine",
+   "deadline": "2026-12-15",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1795107655532",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Irrigation And Rural Infrastructure Engineer",
    "info": "via unvacancies · engineering",
