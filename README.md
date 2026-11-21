@@ -4,14 +4,14 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**88 open jobs** (🟢 40 · 🟡 37 · ⚪ 11) · AI today: 0 of 130 requests (max 16/hour) · 0 packs · 83 waiting · updated 2026-11-21 · sources working today: 3 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**89 open jobs** (🟢 40 · 🟡 38 · ⚪ 11) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 83 waiting · updated 2026-11-21 · sources working today: 5 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
-| [Release Train Engineer](https://reliefweb.int/job/4238504/release-train-engineer) | via ReliefWeb · engineer | 2026-11-23 | 🔴 2 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Release Train Engineer](https://reliefweb.int/job/4238504/release-train-engineer) | via ReliefWeb · engineer | 2026-11-23 | 🔴 2 days | 🟢 High | 🔗 needs the job's own link | Found automatically (11 points) |
 | [Construction Management Engineer](https://unjobs.org/vacancies/1794974487378) | via UNjobs · construction | 2026-11-23 | 🔴 2 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) | via ReliefWeb · engineer | 2026-11-25 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (28 points) |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) 🆕 | via ReliefWeb · shelter | 2026-11-26 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (33 points) |
@@ -63,6 +63,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [WASH Specialist](https://unjobs.org/vacancies/1795264050944) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Nuclear Engineer (PRIS), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -347,11 +348,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | 2026-11-18 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
-| unvacancies · engineering | 2026-11-20 |
+| unvacancies · engineering | 2026-11-21 |
 | unvacancies · UNOPS | 2026-11-16 |
 | unvacancies · UN-Habitat | 2026-11-18 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-21 |
-| UNjobs · construction | 2026-11-20 |
+| UNjobs · construction | 2026-11-21 |
 | UNjobs · infrastructure projects | 2026-11-16 |
 | UNOPS careers | 2026-11-18 |
 | UNICEF · construction | 2026-11-10 |
