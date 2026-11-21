@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**93 open jobs** (🟢 43 · 🟡 39 · ⚪ 11) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 87 waiting · updated 2026-11-21 · sources working today: 9 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**95 open jobs** (🟢 43 · 🟡 41 · ⚪ 11) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 89 waiting · updated 2026-11-21 · sources working today: 10 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -67,6 +67,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Program Manager CRCSU](https://reliefweb.int/job/4239189/program-manager-crcsu) 🆕 | via ReliefWeb · infrastructure | 2026-12-06 | 15 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States](https://unjobs.org/vacancies/1795253353250) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [EHS Design and Engineering Integration Lead, San Jose, California, United States](https://unjobs.org/vacancies/1795253365759) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1795264050944) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Nuclear Engineer (PRIS), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
@@ -348,7 +350,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | not yet |
 | ReliefWeb · infrastructure | 2026-11-21 |
 | ReliefWeb · shelter | 2026-11-21 |
-| ReliefWeb · architect | 2026-11-20 |
+| ReliefWeb · architect | 2026-11-21 |
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | 2026-11-21 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |

@@ -14,8 +14,8 @@
     "muted": ""
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-20",
-    "muted": "2026-11-21T2"
+    "last_ok": "2026-11-21",
+    "muted": ""
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -77,15 +77,41 @@
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-21T19",
+   "hour": "2026-11-21T23",
    "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "9ba8a7763df7c9dcc7a3aecea89d641704fe59d22e75ae2543b1419f96c2aecd",
-  "site_time": "2026-11-21T19:45:21.844667+00:00"
+  "site_hash": "02d823231127ad9ff092774cf66c36fed8ef58751594914a107d710d59dacf3f",
+  "site_time": "2026-11-21T23:56:27.967563+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795253353250",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "EHS Design and Engineering Integration Lead, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795253365759",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Program Manager - International Hire",
    "info": "via ReliefWeb · infrastructure",
