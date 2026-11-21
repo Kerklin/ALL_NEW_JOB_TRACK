@@ -6,7 +6,7 @@
     "muted": "2026-11-16T0"
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": "2026-11-16T0"
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -70,22 +70,74 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 512,
+   "rev": 514,
    "day": "2026-11-21",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-21T12",
-   "hour_used": 2,
+   "hour": "2026-11-21T19",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "f3a80e766c1c4b81e952e1480de8b86553a1c93fffe6fe0de75d3c3ea1114198",
-  "site_time": "2026-11-21T12:38:36.409743+00:00"
+  "site_hash": "9ba8a7763df7c9dcc7a3aecea89d641704fe59d22e75ae2543b1419f96c2aecd",
+  "site_time": "2026-11-21T19:45:21.844667+00:00"
  },
  "jobs": [
+  {
+   "title": "Program Manager - International Hire",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239325/program-manager-international-hire",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Program Manager CRCSU",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239189/program-manager-crcsu",
+   "deadline": "2026-12-06",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "ERL Project Manager - Deir ez-Zor",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "note": "Found automatically (20 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd",
+   "deadline": "2026-12-17",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Specialist",
    "info": "via UNjobs · construction",

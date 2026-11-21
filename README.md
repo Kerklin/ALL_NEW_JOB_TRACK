@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**89 open jobs** (🟢 40 · 🟡 38 · ⚪ 11) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 83 waiting · updated 2026-11-21 · sources working today: 5 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**93 open jobs** (🟢 43 · 🟡 39 · ⚪ 11) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 87 waiting · updated 2026-11-21 · sources working today: 9 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -15,6 +15,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Management Engineer](https://unjobs.org/vacancies/1794974487378) | via UNjobs · construction | 2026-11-23 | 🔴 2 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) | via ReliefWeb · engineer | 2026-11-25 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (28 points) |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) 🆕 | via ReliefWeb · shelter | 2026-11-26 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (33 points) |
+| [ERL Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (20 points) |
 | [ERL Site Engineer - AL Mayadin](https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (19 points) |
 | [WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Shelter Site Engineer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (20 points) |
@@ -32,6 +33,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · architect | 2026-12-10 | 19 days | 🟢 High | ⏳ queued | Found automatically (30 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 23 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) 🆕 | via ReliefWeb · shelter | 2026-12-15 | 24 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
+| [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · infrastructure | 2026-12-17 | 26 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
+| [Program Manager - International Hire](https://reliefweb.int/job/4239325/program-manager-international-hire) 🆕 | via ReliefWeb · infrastructure | 2026-12-31 | 40 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 40 days | 🟢 High | ⏳ queued | Found automatically (19 points) |
 | [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
@@ -62,6 +65,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 6 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [Program Manager CRCSU](https://reliefweb.int/job/4239189/program-manager-crcsu) 🆕 | via ReliefWeb · infrastructure | 2026-12-06 | 15 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1795264050944) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -342,19 +346,19 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Source | Last worked |
 |---|---|
 | ReliefWeb · construction | not yet |
-| ReliefWeb · infrastructure | 2026-11-18 |
+| ReliefWeb · infrastructure | 2026-11-21 |
 | ReliefWeb · shelter | 2026-11-21 |
 | ReliefWeb · architect | 2026-11-20 |
 | ReliefWeb · housing | not yet |
-| ReliefWeb · engineer | 2026-11-18 |
+| ReliefWeb · engineer | 2026-11-21 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
 | unvacancies · engineering | 2026-11-21 |
 | unvacancies · UNOPS | 2026-11-16 |
-| unvacancies · UN-Habitat | 2026-11-18 |
+| unvacancies · UN-Habitat | 2026-11-21 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-21 |
 | UNjobs · construction | 2026-11-21 |
 | UNjobs · infrastructure projects | 2026-11-16 |
-| UNOPS careers | 2026-11-18 |
+| UNOPS careers | 2026-11-21 |
 | UNICEF · construction | 2026-11-10 |
 
 </details>
