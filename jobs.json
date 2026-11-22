@@ -51,7 +51,7 @@
    },
    "UNjobs · infrastructure projects": {
     "last_ok": "2026-11-22",
-    "muted": ""
+    "muted": "2026-11-22T2"
    },
    "UNOPS careers": {
     "last_ok": "2026-11-21",
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 518,
+   "rev": 520,
    "day": "2026-11-22",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-22T04",
-   "hour_used": 2,
+   "hour": "2026-11-22T12",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "6556bdec28bb2caf7a989535014127b8d71aa0b68af7fb0d6ad176f7eb284813",
-  "site_time": "2026-11-22T04:23:09.889126+00:00"
+  "site_hash": "84c9bfa57935675efd28d63da1f9beecd7c1a48b159332dc5af88d73ff8c1c57",
+  "site_time": "2026-11-22T12:43:01.301550+00:00"
  },
  "jobs": [
   {
@@ -733,8 +733,9 @@
    "found": "2026-11-18",
    "status": "open",
    "checked": "2026-11-18",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1,
+   "next": "2026-11-23"
   },
   {
    "title": "Civil Engineer QA/QC (3 positions), Haiti",

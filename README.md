@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**95 open jobs** (🟢 42 · 🟡 42 · ⚪ 11) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 89 waiting · updated 2026-11-22 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**95 open jobs** (🟢 42 · 🟡 42 · ⚪ 11) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 88 waiting · updated 2026-11-22 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -12,7 +12,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
 | [Release Train Engineer](https://reliefweb.int/job/4238504/release-train-engineer) | via ReliefWeb · engineer | 2026-11-23 | 🔴 1 days | 🟢 High | 🔗 needs the job's own link | Found automatically (11 points) |
-| [Construction Management Engineer](https://unjobs.org/vacancies/1794974487378) | via UNjobs · construction | 2026-11-23 | 🔴 1 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
+| [Construction Management Engineer](https://unjobs.org/vacancies/1794974487378) | via UNjobs · construction | 2026-11-23 | 🔴 1 days | 🟢 High | – | Found automatically (15 points) |
 | [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) | via ReliefWeb · engineer | 2026-11-25 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (28 points) |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) 🆕 | via ReliefWeb · shelter | 2026-11-26 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (33 points) |
 | [ERL Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (20 points) |
