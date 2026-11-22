@@ -2,8 +2,8 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "",
-    "muted": "2026-11-16T0"
+    "last_ok": "2026-11-22",
+    "muted": ""
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-21",
@@ -18,8 +18,8 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "",
-    "muted": "2026-11-16T0"
+    "last_ok": "2026-11-22",
+    "muted": ""
    },
    "ReliefWeb · engineer": {
     "last_ok": "2026-11-21",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,28 +64,67 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-21",
+  "maint": "2026-11-22",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 514,
-   "day": "2026-11-21",
+   "rev": 518,
+   "day": "2026-11-22",
    "used": {
-    "high": 5,
+    "high": 3,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-21T23",
-   "hour_used": 0,
+   "hour": "2026-11-22T04",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "02d823231127ad9ff092774cf66c36fed8ef58751594914a107d710d59dacf3f",
-  "site_time": "2026-11-21T23:56:27.967563+00:00"
+  "site_hash": "6556bdec28bb2caf7a989535014127b8d71aa0b68af7fb0d6ad176f7eb284813",
+  "site_time": "2026-11-22T04:23:09.889126+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795253577638",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1794459646064",
+   "deadline": "2028-03-31",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States",
    "info": "via UNjobs · construction",
@@ -807,10 +846,10 @@
    "link": "https://unjobs.org/vacancies/1794735462576",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-22)",
    "found": "2026-11-16",
-   "status": "open",
-   "checked": "2026-11-16",
+   "status": "removed",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -927,7 +966,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -940,7 +979,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "retry",
    "tries": 1,
    "next": "2026-11-18"
@@ -949,12 +988,12 @@
    "title": "Lead Biomedical Engineer",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1794542481261",
-   "deadline": "",
+   "deadline": "2026-11-17",
    "fit": "Medium",
    "note": "Found automatically (8 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -1644,10 +1683,10 @@
    "link": "https://unjobs.org/vacancies/1793365709954",
    "deadline": "2026-11-17",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-22)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-15",
+   "status": "removed",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -1761,10 +1800,10 @@
    "link": "https://unjobs.org/vacancies/1793282444060",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (14 points)",
+   "note": "Posting removed (checked 2026-11-22)",
    "found": "2026-10-30",
-   "status": "open",
-   "checked": "2026-11-15",
+   "status": "removed",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -2115,7 +2154,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -3403,7 +3442,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -3559,7 +3598,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -3572,7 +3611,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -3611,7 +3650,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -4040,7 +4079,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "",
    "tries": 0
   },
@@ -4053,7 +4092,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "needs-link",
    "tries": 0
   },
@@ -4092,7 +4131,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "needs-link",
    "tries": 0
   },
@@ -4105,7 +4144,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-15",
+   "checked": "2026-11-22",
    "pack": "needs-link",
    "tries": 0
   },
