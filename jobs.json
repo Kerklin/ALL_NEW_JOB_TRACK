@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": "2026-11-22T2"
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -70,20 +70,20 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 526,
+   "rev": 530,
    "day": "2026-11-23",
    "used": {
-    "high": 0,
-    "low": 0
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-23T00",
-   "hour_used": 0,
+   "hour": "2026-11-23T08",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "e021b7e4d869b8061e32569f231fd7d89f735cf76abc875838f9eaa8c8502c37",
-  "site_time": "2026-11-23T00:35:56.314917+00:00"
+  "site_hash": "9861f9f1ed20311f0b1532bfd5123b225a7018a76730a2cc027434d0e6c374dd",
+  "site_time": "2026-11-23T08:07:25.854548+00:00"
  },
  "jobs": [
   {
@@ -4212,6 +4212,32 @@
    "status": "open",
    "checked": "",
    "pack": "needs-link",
+   "tries": 0
+  },
+  {
+   "title": "Project Officer (Displacement Management)",
+   "info": "IOM · Antananarivo · P",
+   "link": "https://www.iom.int/Zc8",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Displacement/CCCM focus. French likely",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "UN-Habitat · Niterói, Brazil",
+   "link": "https://unvacancies.org/jobs/function/engineering",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
    "tries": 0
   }
  ]

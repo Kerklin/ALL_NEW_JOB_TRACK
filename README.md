@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**100 open jobs** (🟢 41 · 🟡 47 · ⚪ 12) · AI today: 0 of 130 requests (max 16/hour) · 0 packs · 94 waiting · updated 2026-11-23 · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**100 open jobs** (🟢 41 · 🟡 47 · ⚪ 12) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 94 waiting · updated 2026-11-23 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -112,7 +112,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | ⏳ queued | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | 🔗 needs the job's own link | Very senior banking role |
 
-<details><summary>Closed or removed (217)</summary>
+<details><summary>Closed or removed (219)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
@@ -333,6 +333,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -40 days | 🟡 Medium | 🔗 needs the job's own link | National consultancy in BiH – eligible. Links to your CSW work |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -40 days | ⚪ Low | 🔗 needs the job's own link | Social protection, not construction |
 | [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -44 days | ⚪ Low | 🔗 needs the job's own link | Portuguese likely required |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -46 days | ⚪ Low | – | Displacement/CCCM focus. French likely |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -46 days | ⚪ Low | – | Portuguese likely required |
 
 </details>
 
@@ -355,19 +357,19 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Source | Last worked |
 |---|---|
 | ReliefWeb · construction | 2026-11-22 |
-| ReliefWeb · infrastructure | 2026-11-21 |
+| ReliefWeb · infrastructure | 2026-11-23 |
 | ReliefWeb · shelter | 2026-11-21 |
 | ReliefWeb · architect | 2026-11-22 |
 | ReliefWeb · housing | 2026-11-22 |
-| ReliefWeb · engineer | 2026-11-21 |
+| ReliefWeb · engineer | 2026-11-23 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
 | unvacancies · engineering | 2026-11-23 |
 | unvacancies · UNOPS | 2026-11-22 |
-| unvacancies · UN-Habitat | 2026-11-21 |
+| unvacancies · UN-Habitat | 2026-11-23 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-21 |
 | UNjobs · construction | 2026-11-23 |
 | UNjobs · infrastructure projects | 2026-11-22 |
-| UNOPS careers | 2026-11-21 |
+| UNOPS careers | 2026-11-23 |
 | UNICEF · construction | 2026-11-10 |
 
 </details>
