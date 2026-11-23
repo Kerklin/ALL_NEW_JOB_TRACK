@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**100 open jobs** (🟢 41 · 🟡 47 · ⚪ 12) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 94 waiting · updated 2026-11-23 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**101 open jobs** (🟢 42 · 🟡 47 · ⚪ 12) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 95 waiting · updated 2026-11-23 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -32,6 +32,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 15 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 17 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · architect | 2026-12-10 | 17 days | 🟢 High | ⏳ queued | Found automatically (30 points) |
+| [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) 🆕 | via ReliefWeb · infrastructure | 2026-12-14 | 21 days | 🟢 High | ⏳ queued | Found automatically (17 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 21 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) | via ReliefWeb · shelter | 2026-12-15 | 22 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · infrastructure | 2026-12-17 | 24 days | 🟢 High | ⏳ queued | Found automatically (12 points) |

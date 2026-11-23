@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 530,
+   "rev": 532,
    "day": "2026-11-23",
    "used": {
-    "high": 3,
+    "high": 5,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-23T08",
-   "hour_used": 2,
+   "hour": "2026-11-23T20",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "9861f9f1ed20311f0b1532bfd5123b225a7018a76730a2cc027434d0e6c374dd",
-  "site_time": "2026-11-23T08:07:25.854548+00:00"
+  "site_hash": "cdabdd388a54ce7c36c9ee4b1d14a54facd28755878f4e3796326045fd1b4bfa",
+  "site_time": "2026-11-23T20:05:52.169026+00:00"
  },
  "jobs": [
+  {
+   "title": "Shelter and WASH Specialist Lebanon",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon",
+   "deadline": "2026-12-14",
+   "fit": "High",
+   "note": "Found automatically (17 points)",
+   "found": "2026-11-23",
+   "status": "open",
+   "checked": "2026-11-23",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer, Port Moresby",
    "info": "via UNjobs · construction",
