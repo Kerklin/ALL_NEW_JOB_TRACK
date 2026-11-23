@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "2026-11-22",
-    "muted": ""
+    "muted": "2026-11-23T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "2026-11-22",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,26 +64,26 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-22",
+  "maint": "2026-11-23",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 524,
-   "day": "2026-11-22",
+   "rev": 526,
+   "day": "2026-11-23",
    "used": {
-    "high": 8,
-    "low": 2
+    "high": 0,
+    "low": 0
    },
    "packs": 0,
-   "hour": "2026-11-22T19",
-   "hour_used": 2,
+   "hour": "2026-11-23T00",
+   "hour_used": 0,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "370b0ada9e9f5757d6907c76634784bf4e1c9ae57f0c5e9f4b8bda1bc9d081cc",
-  "site_time": "2026-11-22T19:58:27.336354+00:00"
+  "site_hash": "e021b7e4d869b8061e32569f231fd7d89f735cf76abc875838f9eaa8c8502c37",
+  "site_time": "2026-11-23T00:35:56.314917+00:00"
  },
  "jobs": [
   {
@@ -847,10 +847,10 @@
    "link": "https://unjobs.org/vacancies/1794934859224",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-11-17",
-   "status": "open",
-   "checked": "2026-11-17",
+   "status": "removed",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -863,7 +863,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -876,7 +876,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -889,7 +889,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -954,7 +954,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-16",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -967,7 +967,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-16",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -980,7 +980,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-16",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -993,7 +993,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-16",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -1238,10 +1238,10 @@
    "link": "https://unjobs.org/vacancies/1794157239920",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-11-09",
-   "status": "open",
-   "checked": "2026-11-16",
+   "status": "removed",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -1254,7 +1254,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -1267,7 +1267,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-08",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -1280,7 +1280,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-08",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -1672,7 +1672,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -2272,7 +2272,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -2935,7 +2935,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "pack": "",
    "tries": 0
   },
@@ -3695,19 +3695,6 @@
    "tries": 0
   },
   {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593",
-   "deadline": "2026-10-08",
-   "fit": "Medium",
-   "note": "Found automatically (8 points)",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-22",
-   "pack": "",
-   "tries": 0
-  },
-  {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
    "info": "via UNjobs · Bosnia and Herzegovina",
    "link": "https://unjobs.org/vacancies/1790801308669",
@@ -4176,19 +4163,6 @@
    "tries": 0
   },
   {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-22",
-   "pack": "needs-link",
-   "tries": 0
-  },
-  {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
    "info": "UNICEF · BiH, remote with travel",
    "link": "https://unjobs.org/duty_stations/bosnia-and-herzegovina",
@@ -4211,19 +4185,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "",
-   "pack": "needs-link",
-   "tries": 0
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-22",
    "pack": "needs-link",
    "tries": 0
   },
