@@ -2,7 +2,7 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
@@ -18,7 +18,7 @@
     "muted": "2026-11-23T0"
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "ReliefWeb · engineer": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,8 +50,8 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-22",
-    "muted": "2026-11-22T2"
+    "last_ok": "2026-11-24",
+    "muted": ""
    },
    "UNOPS careers": {
     "last_ok": "2026-11-23",
@@ -64,28 +64,80 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-23",
-  "vcheck": "2026-11-17",
+  "maint": "2026-11-24",
+  "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 532,
-   "day": "2026-11-23",
+   "rev": 536,
+   "day": "2026-11-24",
    "used": {
-    "high": 5,
+    "high": 3,
     "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-23T20",
-   "hour_used": 0,
+   "hour": "2026-11-24T04",
+   "hour_used": 4,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "cdabdd388a54ce7c36c9ee4b1d14a54facd28755878f4e3796326045fd1b4bfa",
-  "site_time": "2026-11-23T20:05:52.169026+00:00"
+  "site_hash": "6c6aee82a6d3773a46a92b255b5448903da4709d4b27d89cfdd5337f1f75da07",
+  "site_time": "2026-11-24T04:42:20.111340+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager, Health Infrastructure (Surkhet, Nepal)",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "note": "Found automatically (22 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795410065168",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure), Damascus, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795089687646",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Market Infrastructure Specialist - Financials team",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795323642042",
+   "deadline": "2026-12-11",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter and WASH Specialist Lebanon",
    "info": "via ReliefWeb · infrastructure",
@@ -915,7 +967,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -928,7 +980,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -941,7 +993,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -1241,7 +1293,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -1488,7 +1540,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -1501,7 +1553,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -1537,10 +1589,10 @@
    "link": "https://unjobs.org/vacancies/1793725269609",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-24)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-17",
+   "status": "removed",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -1550,10 +1602,10 @@
    "link": "https://unjobs.org/vacancies/1793714480168",
    "deadline": "2026-11-17",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-24)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-17",
+   "status": "removed",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -2532,7 +2584,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -2558,7 +2610,7 @@
    "note": "Found automatically (18 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -2805,7 +2857,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -2818,7 +2870,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -2831,7 +2883,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-24",
    "pack": "",
    "tries": 0
   },
@@ -3604,32 +3656,6 @@
    "tries": 0
   },
   {
-   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791396181599",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-09",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Vodokanal Cell Lead (WASH), Kyiv",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791396181477",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-09",
-   "pack": "",
-   "tries": 0
-  },
-  {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
    "info": "via UNjobs · infrastructure projects",
    "link": "https://unjobs.org/vacancies/1791352893661",
@@ -3682,19 +3708,6 @@
    "tries": 0
   },
   {
-   "title": "Senior Drupal Infrastructure Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157",
-   "deadline": "2026-10-09",
-   "fit": "Medium",
-   "note": "Found automatically (7 points)",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-21",
-   "pack": "",
-   "tries": 0
-  },
-  {
    "title": "International Urban Design Lead Expert",
    "info": "via unvacancies · UN-Habitat",
    "link": "https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835",
@@ -3704,19 +3717,6 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-11-22",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
-   "info": "via UNjobs · Bosnia and Herzegovina",
-   "link": "https://unjobs.org/vacancies/1790801308669",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -4225,32 +4225,6 @@
    "status": "open",
    "checked": "",
    "pack": "needs-link",
-   "tries": 0
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
    "tries": 0
   }
  ]
