@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 539,
+   "rev": 541,
    "day": "2026-11-24",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-24T15",
+   "hour": "2026-11-24T23",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "f917817e0de862e12aec847bba8cf2b5bb0cfdbf723c9b6016cd3b4ade67affa",
-  "site_time": "2026-11-24T15:17:24.624538+00:00"
+  "site_hash": "95c0a64bfd42aeeedf43b3e0090229271b055f0f997998bc77bda76f00b87738",
+  "site_time": "2026-11-24T23:55:33.574262+00:00"
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Architectural Engineer, Aleppo, Syria",
    "info": "via UNjobs · construction",

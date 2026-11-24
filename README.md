@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**108 open jobs** (🟢 42 · 🟡 53 · ⚪ 13) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 103 waiting · updated 2026-11-24 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**109 open jobs** (🟢 42 · 🟡 54 · ⚪ 13) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 104 waiting · updated 2026-11-24 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -74,6 +74,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) | via ReliefWeb · shelter | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Program Manager CRCSU](https://reliefweb.int/job/4239189/program-manager-crcsu) | via ReliefWeb · infrastructure | 2026-12-06 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 15 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure), N'Djamena, Chad](https://unjobs.org/vacancies/1795514494559) 🆕 | via UNjobs · construction | 2026-12-09 | 15 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Market Infrastructure Specialist - Financials team](https://unjobs.org/vacancies/1795323642042) 🆕 | via UNjobs · infrastructure projects | 2026-12-11 | 17 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 23 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
