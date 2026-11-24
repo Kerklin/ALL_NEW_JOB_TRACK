@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**101 open jobs** (🟢 41 · 🟡 48 · ⚪ 12) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 96 waiting · updated 2026-11-24 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**108 open jobs** (🟢 42 · 🟡 53 · ⚪ 13) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 103 waiting · updated 2026-11-24 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -19,6 +19,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Shelter Site Engineer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal) | via ReliefWeb · shelter | 2026-11-27 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (20 points) |
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) | via ReliefWeb · shelter | 2026-11-27 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (22 points) |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 3 days | 🟢 High | ⏳ queued | Found automatically (12 points) |
+| [Civil Engineer, Aleppo, Syria](https://unjobs.org/vacancies/1795521704891) 🆕 | via UNjobs · construction | 2026-11-29 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) | via ReliefWeb · engineer | 2026-11-29 | 🔴 5 days | 🟢 High | ⏳ queued | Found automatically (20 points) |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (18 points) |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) | via ReliefWeb · shelter | 2026-12-02 | 8 days | 🟢 High | ⏳ queued | Found automatically (26 points) |
@@ -66,13 +67,18 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer](https://unjobs.org/vacancies/1795190488255) 🆕 | via UNjobs · construction | 2026-11-26 | 🔴 2 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal) | via ReliefWeb · shelter | 2026-11-27 | 🔴 3 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 3 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
+| [Architectural Engineer, Aleppo, Syria](https://unjobs.org/vacancies/1795521704392) 🆕 | via UNjobs · construction | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Biomedical Engineer, Aleppo, Damascus, Deir-ez-Zor, Homs, Lattakia, Tartus, Syria](https://unjobs.org/vacancies/1795521704677) 🆕 | via UNjobs · construction | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Construction Management Associate Engineer, Tshikapa, Democratic Republic of Congo](https://unjobs.org/vacancies/1795514494018) 🆕 | via UNjobs · construction | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Senior Project Manager (Infrastructure), Damascus, Syria](https://unjobs.org/vacancies/1795089687646) 🆕 | via UNjobs · infrastructure projects | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) | via ReliefWeb · shelter | 2026-11-29 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Program Manager CRCSU](https://reliefweb.int/job/4239189/program-manager-crcsu) | via ReliefWeb · infrastructure | 2026-12-06 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [Senior Project Manager (Infrastructure), N'Djamena, Chad](https://unjobs.org/vacancies/1795514494559) 🆕 | via UNjobs · construction | 2026-12-09 | 15 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Market Infrastructure Specialist - Financials team](https://unjobs.org/vacancies/1795323642042) 🆕 | via UNjobs · infrastructure projects | 2026-12-11 | 17 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 23 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) 🆕 | via UNjobs · infrastructure projects | 2028-03-31 | 493 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
+| [Construction Manager - Mauritania, Carronbridge, United Kingdom](https://unjobs.org/vacancies/1795484378499) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Field Engineer, Malakal, Rumbek, Rubkona & Twic, Juba](https://unjobs.org/vacancies/1795323684768) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1795253577638) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States](https://unjobs.org/vacancies/1795253353250) | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -102,6 +108,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | 🔗 needs the job's own link | Verify it's still open |
 | [Civil Engineer QA/QC (3 positions), Haiti](https://unjobs.org/vacancies/1794944927916) | via UNjobs · construction | 2026-11-24 | 🔴 0 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | 2026-11-30 | 🔴 6 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
+| [Shelter Project Engineer (five positions), Afghanistan](https://unjobs.org/vacancies/1795469508594) 🆕 | via UNjobs · construction | 2026-12-01 | 🔴 7 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer--2602361) | via unvacancies · engineering | 2026-12-04 | 10 days | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Civil Engineer, Harare](https://unjobs.org/vacancies/1795323709396) 🆕 | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
 | [Local Individual Contractor (Civil Work Engineer), Dushanbe](https://unjobs.org/vacancies/1794916848324) | via UNjobs · construction | – | check | ⚪ Low | ⏳ queued | Found automatically (5 points) |
@@ -113,7 +120,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | ⏳ queued | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | 🔗 needs the job's own link | Very senior banking role |
 
-<details><summary>Closed or removed (217)</summary>
+<details><summary>Closed or removed (219)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
@@ -334,6 +341,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -41 days | 🟡 Medium | 🔗 needs the job's own link | National consultancy in BiH – eligible. Links to your CSW work |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -41 days | ⚪ Low | 🔗 needs the job's own link | Social protection, not construction |
 | [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -45 days | ⚪ Low | 🔗 needs the job's own link | Portuguese likely required |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -47 days | ⚪ Low | – | Displacement/CCCM focus. French likely |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -47 days | ⚪ Low | – | Portuguese likely required |
 
 </details>
 
@@ -358,15 +367,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-24 |
 | ReliefWeb · infrastructure | 2026-11-23 |
 | ReliefWeb · shelter | 2026-11-21 |
-| ReliefWeb · architect | 2026-11-22 |
+| ReliefWeb · architect | 2026-11-24 |
 | ReliefWeb · housing | 2026-11-24 |
 | ReliefWeb · engineer | 2026-11-23 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
-| unvacancies · engineering | 2026-11-23 |
+| unvacancies · engineering | 2026-11-24 |
 | unvacancies · UNOPS | 2026-11-24 |
 | unvacancies · UN-Habitat | 2026-11-23 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-21 |
-| UNjobs · construction | 2026-11-23 |
+| UNjobs · construction | 2026-11-24 |
 | UNjobs · infrastructure projects | 2026-11-24 |
 | UNOPS careers | 2026-11-23 |
 | UNICEF · construction | 2026-11-10 |
