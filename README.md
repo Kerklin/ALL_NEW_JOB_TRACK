@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**107 open jobs** (🟢 43 · 🟡 52 · ⚪ 12) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 102 waiting · updated 2026-11-25 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**108 open jobs** (🟢 43 · 🟡 53 · ⚪ 12) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 103 waiting · updated 2026-11-25 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -71,6 +71,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) | via unvacancies · UNOPS | 2026-11-29 | 🔴 4 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) | via ReliefWeb · shelter | 2026-11-29 | 🔴 4 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Program Manager CRCSU](https://reliefweb.int/job/4239189/program-manager-crcsu) | via ReliefWeb · infrastructure | 2026-12-06 | 11 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
+| [Purchaser Engineer, Beirut](https://unjobs.org/vacancies/1795582887512) 🆕 | via UNjobs · construction | 2026-12-07 | 12 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 14 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure), N'Djamena, Chad](https://unjobs.org/vacancies/1795514494559) 🆕 | via UNjobs · construction | 2026-12-09 | 14 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Market Infrastructure Specialist - Financials team](https://unjobs.org/vacancies/1795323642042) 🆕 | via UNjobs · infrastructure projects | 2026-12-11 | 16 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
@@ -119,7 +120,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | ⏳ queued | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | 🔗 needs the job's own link | Very senior banking role |
 
-<details><summary>Closed or removed (220)</summary>
+<details><summary>Closed or removed (224)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
@@ -343,6 +344,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -43 days | ⚪ Low | – | Junior UNV, French. Listings disagree on national vs international |
 | [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -42 days | 🟡 Medium | 🔗 needs the job's own link | National consultancy in BiH – eligible. Links to your CSW work |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -42 days | ⚪ Low | 🔗 needs the job's own link | Social protection, not construction |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -46 days | 🟢 High | – | Check French + nationality rules |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -48 days | ⚪ Low | – | Displacement/CCCM focus. French likely |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -48 days | ⚪ Low | – | Portuguese likely required |
+| [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -46 days | ⚪ Low | – | Portuguese likely required |
 
 </details>
 
@@ -367,15 +372,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-25 |
 | ReliefWeb · infrastructure | 2026-11-23 |
 | ReliefWeb · shelter | 2026-11-21 |
-| ReliefWeb · architect | 2026-11-24 |
+| ReliefWeb · architect | 2026-11-25 |
 | ReliefWeb · housing | 2026-11-25 |
 | ReliefWeb · engineer | 2026-11-23 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-21 |
-| unvacancies · engineering | 2026-11-24 |
+| unvacancies · engineering | 2026-11-25 |
 | unvacancies · UNOPS | 2026-11-25 |
 | unvacancies · UN-Habitat | 2026-11-23 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-21 |
-| UNjobs · construction | 2026-11-24 |
+| UNjobs · construction | 2026-11-25 |
 | UNjobs · infrastructure projects | 2026-11-25 |
 | UNOPS careers | 2026-11-23 |
 | UNICEF · construction | 2026-11-10 |
