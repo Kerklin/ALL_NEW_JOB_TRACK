@@ -2,7 +2,7 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "ReliefWeb · engineer": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,28 +64,67 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-24",
+  "maint": "2026-11-25",
   "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 541,
-   "day": "2026-11-24",
+   "rev": 545,
+   "day": "2026-11-25",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 3,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-24T23",
+   "hour": "2026-11-25T06",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "95c0a64bfd42aeeedf43b3e0090229271b055f0f997998bc77bda76f00b87738",
-  "site_time": "2026-11-24T23:55:33.574262+00:00"
+  "site_hash": "85c097dca43644f199b482446fe9010d540d1c988fdd9ab583078fa30955cb23",
+  "site_time": "2026-11-25T06:01:21.656112+00:00"
  },
  "jobs": [
+  {
+   "title": "Independent Infrastructure and Service Delivery Specialist Consultancy Services",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4239687/independent-infrastructure-and-service-delivery-specialist-consultancy-services",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "note": "Found automatically (28 points)",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Water Infrastructure Specialist, Nairobi",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795582892400",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795582870177",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · engineering",
@@ -810,7 +849,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -823,7 +862,7 @@
    "note": "Found automatically (18 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -836,7 +875,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -849,7 +888,7 @@
    "note": "Found automatically (28 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -862,7 +901,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "needs-link",
    "tries": 0
   },
@@ -872,10 +911,10 @@
    "link": "https://reliefweb.int/job/4238413/engineer-school-rehabilitation",
    "deadline": "2026-11-20",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-11-25)",
    "found": "2026-11-18",
-   "status": "open",
-   "checked": "2026-11-18",
+   "status": "removed",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -888,7 +927,7 @@
    "note": "Found automatically (20 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -901,7 +940,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -911,10 +950,10 @@
    "link": "https://reliefweb.int/job/4232579/sudan-wash-program-manager-mf-west-and-central-darfur",
    "deadline": "2026-11-19",
    "fit": "High",
-   "note": "Found automatically (21 points)",
+   "note": "Posting removed (checked 2026-11-25)",
    "found": "2026-11-18",
-   "status": "open",
-   "checked": "2026-11-18",
+   "status": "removed",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -927,7 +966,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -937,10 +976,10 @@
    "link": "https://reliefweb.int/job/4226604/tupande-electrical-maintenance-engineer-specialist-fixed-term",
    "deadline": "2026-11-20",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-25)",
    "found": "2026-11-18",
-   "status": "open",
-   "checked": "2026-11-18",
+   "status": "removed",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -950,10 +989,10 @@
    "link": "https://reliefweb.int/job/4226603/tupande-mechanical-maintenance-engineer-specialist-fixed-term",
    "deadline": "2026-11-20",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-25)",
    "found": "2026-11-18",
-   "status": "open",
-   "checked": "2026-11-18",
+   "status": "removed",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -3208,7 +3247,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-17",
+   "checked": "2026-11-25",
    "pack": "",
    "tries": 0
   },
@@ -4020,19 +4059,6 @@
    "tries": 0
   },
   {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-18",
-   "pack": "needs-link",
-   "tries": 0
-  },
-  {
    "title": "International Urban Design Lead Expert",
    "info": "UN-Habitat · Remote / Baku · consultancy",
    "link": "https://unvacancies.org/jobs/organization/un-habitat",
@@ -4316,45 +4342,6 @@
    "status": "open",
    "checked": "2026-11-22",
    "pack": "needs-link",
-   "tries": 0
-  },
-  {
-   "title": "Procurement Advisor",
-   "info": "UN-Habitat · Rio de Janeiro",
-   "link": "https://unvacancies.org/jobs/organization/un-habitat",
-   "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "needs-link",
-   "tries": 0
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
    "tries": 0
   }
  ]
