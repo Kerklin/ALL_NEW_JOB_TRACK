@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -26,7 +26,7 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "unvacancies · engineering": {
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,33 +59,46 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-10",
-    "muted": "2026-11-21T0"
+    "muted": "2026-11-26T0"
    }
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-25",
+  "maint": "2026-11-26",
   "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 547,
-   "day": "2026-11-25",
+   "rev": 551,
+   "day": "2026-11-26",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-25T17",
-   "hour_used": 0,
+   "hour": "2026-11-26T00",
+   "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "560701a270c7deeac3619fec6b9413b6dcb1a1eadf9c35adb06d3290a431535a",
-  "site_time": "2026-11-25T16:59:54.107863+00:00"
+  "site_hash": "0b09d2b5efcb72f0955968edb5af6a0b076d671ecd31e2070aa67a2a1160d641",
+  "site_time": "2026-11-26T00:51:10.950761+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Coordinator",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240013/project-coordinator",
+   "deadline": "2026-12-16",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Purchaser Engineer, Beirut",
    "info": "via UNjobs · construction",
@@ -1018,7 +1031,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -1031,7 +1044,7 @@
    "note": "Found automatically (30 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -1044,7 +1057,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "retry",
    "tries": 1,
    "next": "2026-11-23"
@@ -1055,10 +1068,10 @@
    "link": "https://unjobs.org/vacancies/1794944927916",
    "deadline": "2026-11-24",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-18",
-   "status": "open",
-   "checked": "2026-11-18",
+   "status": "removed",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -1423,7 +1436,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-11",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -1436,7 +1449,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-11",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -1771,10 +1784,10 @@
    "link": "https://unjobs.org/vacancies/1793714480525",
    "deadline": "2026-11-17",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-18",
+   "status": "removed",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -1787,7 +1800,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -2285,7 +2298,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -2311,7 +2324,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -2324,7 +2337,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "",
    "tries": 0
   },
@@ -3786,19 +3799,6 @@
    "tries": 0
   },
   {
-   "title": "Construction Engineer",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791345738022",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-11)",
-   "found": "2026-10-08",
-   "status": "removed",
-   "checked": "2026-10-11",
-   "pack": "",
-   "tries": 0
-  },
-  {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · infrastructure projects",
    "link": "https://unjobs.org/vacancies/1791394751777",
@@ -3981,19 +3981,6 @@
    "tries": 0
   },
   {
-   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791190732675",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-11)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-11",
-   "pack": "",
-   "tries": 0
-  },
-  {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon",
    "info": "via UNjobs · infrastructure projects",
    "link": "https://unjobs.org/vacancies/1790951875279",
@@ -4067,7 +4054,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-18",
+   "checked": "2026-11-26",
    "pack": "needs-link",
    "tries": 0
   },
@@ -4355,58 +4342,6 @@
    "status": "open",
    "checked": "2026-11-22",
    "pack": "needs-link",
-   "tries": 0
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Procurement Advisor",
-   "info": "UN-Habitat · Rio de Janeiro",
-   "link": "https://unvacancies.org/jobs/organization/un-habitat",
-   "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
    "tries": 0
   }
  ]
