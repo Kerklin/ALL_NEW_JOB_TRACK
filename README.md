@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**103 open jobs** (🟢 42 · 🟡 48 · ⚪ 13) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 98 waiting · updated 2026-11-26 · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**105 open jobs** (🟢 43 · 🟡 49 · ⚪ 13) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 100 waiting · updated 2026-11-26 · sources working today: 10 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -28,6 +28,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Lead Civil Engineer](https://unjobs.org/vacancies/1795075281189) | via UNjobs · construction | 2026-12-03 | 🔴 7 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
+| [Specialiste Wash - RCA](https://reliefweb.int/job/4240008/specialiste-wash-rca) 🆕 | via ReliefWeb · infrastructure | 2026-12-09 | 13 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · architect | 2026-12-10 | 14 days | 🟢 High | ⏳ queued | Found automatically (30 points) |
 | [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) | via ReliefWeb · infrastructure | 2026-12-14 | 18 days | 🟢 High | ⏳ queued | Found automatically (17 points) |
@@ -68,6 +69,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure), N'Djamena, Chad](https://unjobs.org/vacancies/1795514494559) 🆕 | via UNjobs · construction | 2026-12-09 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Market Infrastructure Specialist - Financials team](https://unjobs.org/vacancies/1795323642042) 🆕 | via UNjobs · infrastructure projects | 2026-12-11 | 15 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
+| [Project Manager - Ukraine](https://reliefweb.int/job/4240143/project-manager-ukraine) 🆕 | via ReliefWeb · infrastructure | 2026-12-16 | 20 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 21 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) | via UNjobs · infrastructure projects | 2028-03-31 | 491 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [WASH ADVISOR, ADEN, Yemen](https://unjobs.org/vacancies/1795669329813) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
@@ -371,19 +373,19 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | Source | Last worked |
 |---|---|
 | ReliefWeb · construction | 2026-11-25 |
-| ReliefWeb · infrastructure | 2026-11-23 |
+| ReliefWeb · infrastructure | 2026-11-26 |
 | ReliefWeb · shelter | 2026-11-26 |
 | ReliefWeb · architect | 2026-11-26 |
 | ReliefWeb · housing | 2026-11-25 |
-| ReliefWeb · engineer | 2026-11-23 |
+| ReliefWeb · engineer | 2026-11-26 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-26 |
 | unvacancies · engineering | 2026-11-26 |
 | unvacancies · UNOPS | 2026-11-25 |
-| unvacancies · UN-Habitat | 2026-11-23 |
+| unvacancies · UN-Habitat | 2026-11-26 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-26 |
 | UNjobs · construction | 2026-11-26 |
 | UNjobs · infrastructure projects | 2026-11-25 |
-| UNOPS careers | 2026-11-23 |
+| UNOPS careers | 2026-11-26 |
 | UNICEF · construction | 2026-11-10 |
 
 </details>

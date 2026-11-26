@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -22,7 +22,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -70,22 +70,48 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 553,
+   "rev": 557,
    "day": "2026-11-26",
    "used": {
-    "high": 2,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-26T08",
+   "hour": "2026-11-26T18",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "4fb67f44013fe608048a293bd20894c35ba2c39457866c96e39c07a4125d117b",
-  "site_time": "2026-11-26T08:56:45.670479+00:00"
+  "site_hash": "fd4fb0cfd1a32d0ba71369da1b57c0309b9e94da60208aaf6f6bec1f909a8c54",
+  "site_time": "2026-11-26T18:45:07.733488+00:00"
  },
  "jobs": [
+  {
+   "title": "Project Manager - Ukraine",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240143/project-manager-ukraine",
+   "deadline": "2026-12-16",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Specialiste Wash - RCA",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4240008/specialiste-wash-rca",
+   "deadline": "2026-12-09",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH ADVISOR, ADEN, Yemen",
    "info": "via UNjobs · construction",
