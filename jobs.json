@@ -2,7 +2,7 @@
  "meta": {
   "sources": {
    "ReliefWeb · construction": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · housing": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "ReliefWeb · engineer": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "UNOPS careers": {
@@ -70,22 +70,100 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 559,
+   "rev": 563,
    "day": "2026-11-27",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 4,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-27T01",
+   "hour": "2026-11-27T10",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "f3a69f98d14e4275bc3809da71c8c44acbbfbb77e485018ef794c32ddfc53f7e",
-  "site_time": "2026-11-27T01:56:54.689739+00:00"
+  "site_hash": "c47704876b3f2ac6db854bea50cb05940763edd7d0d6a750e8c2dd33acd674ba",
+  "site_time": "2026-11-27T10:24:32.658971+00:00"
  },
  "jobs": [
+  {
+   "title": "Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)",
+   "info": "via ReliefWeb · construction",
+   "link": "https://reliefweb.int/job/4240135/consultance-gestionnaire-technique-de-projets-dabri-shelter-research-unit-sru-afrique-de-lest-ae",
+   "deadline": "2026-12-15",
+   "fit": "High",
+   "note": "Found automatically (14 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager",
+   "info": "via ReliefWeb · housing",
+   "link": "https://reliefweb.int/job/4240232/project-manager",
+   "deadline": "2027-01-10",
+   "fit": "High",
+   "note": "Found automatically (17 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "ICLA Project Manager Tripoli Libya",
+   "info": "via ReliefWeb · housing",
+   "link": "https://reliefweb.int/job/4240166/icla-project-manager-tripoli-libya",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Manager Burundi",
+   "info": "via ReliefWeb · housing",
+   "link": "https://reliefweb.int/job/4240150/project-manager-burundi",
+   "deadline": "2026-12-14",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "E T Consultant – Infrastructure Investment, Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795755690002",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WaSH Field Officer (Infrastructure background), Tyre, Lebanon",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795755649728",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Energy Engineer, Kiribati",
    "info": "via UNjobs · construction",
@@ -4394,6 +4472,58 @@
    "status": "open",
    "checked": "2026-11-22",
    "pack": "needs-link",
+   "tries": 0
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Officer (Displacement Management)",
+   "info": "IOM · Antananarivo · P",
+   "link": "https://www.iom.int/Zc8",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Displacement/CCCM focus. French likely",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "UN-Habitat · Niterói, Brazil",
+   "link": "https://unvacancies.org/jobs/function/engineering",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Procurement Advisor",
+   "info": "UN-Habitat · Rio de Janeiro",
+   "link": "https://unvacancies.org/jobs/organization/un-habitat",
+   "deadline": "2026-10-10",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
    "tries": 0
   }
  ]
