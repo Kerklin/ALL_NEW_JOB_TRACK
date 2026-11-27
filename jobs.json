@@ -14,7 +14,7 @@
     "muted": ""
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,28 +64,54 @@
   },
   "since": "2026-10-06",
   "outbox_tries": {},
-  "maint": "2026-11-26",
+  "maint": "2026-11-27",
   "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 557,
-   "day": "2026-11-26",
+   "rev": 559,
+   "day": "2026-11-27",
    "used": {
-    "high": 5,
-    "low": 3
+    "high": 1,
+    "low": 1
    },
    "packs": 0,
-   "hour": "2026-11-26T18",
+   "hour": "2026-11-27T01",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "fd4fb0cfd1a32d0ba71369da1b57c0309b9e94da60208aaf6f6bec1f909a8c54",
-  "site_time": "2026-11-26T18:45:07.733488+00:00"
+  "site_hash": "f3a69f98d14e4275bc3809da71c8c44acbbfbb77e485018ef794c32ddfc53f7e",
+  "site_time": "2026-11-27T01:56:54.689739+00:00"
  },
  "jobs": [
+  {
+   "title": "Energy Engineer, Kiribati",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795743845574",
+   "deadline": "2026-12-04",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WaSH Field Officer (Infrastructure background) - Tyre (Re-advertised), Tyre, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795730546809",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Project Manager - Ukraine",
    "info": "via ReliefWeb · infrastructure",
@@ -862,7 +888,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -872,10 +898,10 @@
    "link": "https://unjobs.org/vacancies/1795089717459",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-27)",
    "found": "2026-11-19",
-   "status": "open",
-   "checked": "2026-11-19",
+   "status": "removed",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -888,7 +914,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -901,7 +927,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -914,7 +940,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-19",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -1462,7 +1488,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-12",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -1735,7 +1761,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -2220,7 +2246,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -2243,10 +2269,10 @@
    "link": "https://unjobs.org/vacancies/1793167466760",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-11-27)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-19",
+   "status": "removed",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -2272,7 +2298,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -2285,7 +2311,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -2402,7 +2428,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-19",
+   "checked": "2026-11-27",
    "pack": "",
    "tries": 0
   },
@@ -3733,19 +3759,6 @@
    "tries": 0
   },
   {
-   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791464823412",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-12)",
-   "found": "2026-10-09",
-   "status": "removed",
-   "checked": "2026-10-12",
-   "pack": "",
-   "tries": 0
-  },
-  {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791439395420",
@@ -3925,19 +3938,6 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-11-22",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
-   "info": "via UNjobs · Bosnia and Herzegovina",
-   "link": "https://unjobs.org/vacancies/1789649136938",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-12)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -4394,58 +4394,6 @@
    "status": "open",
    "checked": "2026-11-22",
    "pack": "needs-link",
-   "tries": 0
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Procurement Advisor",
-   "info": "UN-Habitat · Rio de Janeiro",
-   "link": "https://unvacancies.org/jobs/organization/un-habitat",
-   "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "",
-   "pack": "",
    "tries": 0
   }
  ]
