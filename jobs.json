@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -26,7 +26,7 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "unvacancies · engineering": {
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,7 +59,7 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-10",
-    "muted": "2026-11-26T0"
+    "muted": "2026-11-27T3"
    }
   },
   "since": "2026-10-06",
@@ -70,22 +70,61 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 563,
+   "rev": 565,
    "day": "2026-11-27",
    "used": {
-    "high": 4,
-    "low": 2
+    "high": 5,
+    "low": 3
    },
    "packs": 0,
-   "hour": "2026-11-27T10",
+   "hour": "2026-11-27T19",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "c47704876b3f2ac6db854bea50cb05940763edd7d0d6a750e8c2dd33acd674ba",
-  "site_time": "2026-11-27T10:24:32.658971+00:00"
+  "site_hash": "b4bce5427a7ea0f74816a98d4a49ad86566605c41291b42bf5ac736adf570858",
+  "site_time": "2026-11-27T19:32:05.239577+00:00"
  },
  "jobs": [
+  {
+   "title": "Protection from Violence (PFV) Project Manager North-East Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240125/protection-violence-pfv-project-manager-north-east-syria",
+   "deadline": "2026-12-05",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Protection from Violence (PFV) Project Manager North-West Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240124/protection-violence-pfv-project-manager-north-west-syria",
+   "deadline": "2026-12-05",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Protection from Violence Project Manager South-Central Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-27",
+   "status": "open",
+   "checked": "2026-11-27",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)",
    "info": "via ReliefWeb · construction",

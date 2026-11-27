@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**108 open jobs** (🟢 47 · 🟡 48 · ⚪ 13) · AI today: 6 of 130 requests (max 16/hour) · 0 packs · 103 waiting · updated 2026-11-27 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**111 open jobs** (🟢 50 · 🟡 48 · ⚪ 13) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 106 waiting · updated 2026-11-27 · sources working today: 10 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -25,9 +25,12 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) | via ReliefWeb · shelter | 2026-12-03 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (32 points) |
 | [Lead Civil Engineer](https://unjobs.org/vacancies/1795075281189) | via UNjobs · construction | 2026-12-03 | 🔴 6 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Energy Engineer, Kiribati](https://unjobs.org/vacancies/1795743845574) 🆕 | via UNjobs · construction | 2026-12-04 | 🔴 7 days | 🟢 High | ⏳ queued | Found automatically (13 points) |
+| [Protection from Violence (PFV) Project Manager North-East Syria](https://reliefweb.int/job/4240125/protection-violence-pfv-project-manager-north-east-syria) 🆕 | via ReliefWeb · shelter | 2026-12-05 | 8 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Protection from Violence (PFV) Project Manager North-West Syria](https://reliefweb.int/job/4240124/protection-violence-pfv-project-manager-north-west-syria) 🆕 | via ReliefWeb · shelter | 2026-12-05 | 8 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 11 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 11 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
 | [Specialiste Wash - RCA](https://reliefweb.int/job/4240008/specialiste-wash-rca) 🆕 | via ReliefWeb · infrastructure | 2026-12-09 | 12 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
+| [Protection from Violence Project Manager South-Central Syria](https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 13 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [ICLA Project Manager Tripoli Libya](https://reliefweb.int/job/4240166/icla-project-manager-tripoli-libya) 🆕 | via ReliefWeb · housing | 2026-12-10 | 13 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 13 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · architect | 2026-12-10 | 13 days | 🟢 High | ⏳ queued | Found automatically (30 points) |
@@ -380,15 +383,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|
 | ReliefWeb · construction | 2026-11-27 |
 | ReliefWeb · infrastructure | 2026-11-26 |
-| ReliefWeb · shelter | 2026-11-26 |
+| ReliefWeb · shelter | 2026-11-27 |
 | ReliefWeb · architect | 2026-11-27 |
 | ReliefWeb · housing | 2026-11-27 |
 | ReliefWeb · engineer | 2026-11-26 |
-| ReliefWeb · Bosnia and Herzegovina | 2026-11-26 |
+| ReliefWeb · Bosnia and Herzegovina | 2026-11-27 |
 | unvacancies · engineering | 2026-11-27 |
 | unvacancies · UNOPS | 2026-11-27 |
 | unvacancies · UN-Habitat | 2026-11-26 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-26 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-27 |
 | UNjobs · construction | 2026-11-27 |
 | UNjobs · infrastructure projects | 2026-11-27 |
 | UNOPS careers | 2026-11-26 |
