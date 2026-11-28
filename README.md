@@ -4,14 +4,14 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**104 open jobs** (🟢 45 · 🟡 46 · ⚪ 13) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 99 waiting · updated 2026-11-28 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**104 open jobs** (🟢 45 · 🟡 46 · ⚪ 13) · AI today: 8 of 130 requests (max 16/hour) · 0 packs · 98 waiting · updated 2026-11-28 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
-| [Civil Engineer, Aleppo, Syria](https://unjobs.org/vacancies/1795521704891) | via UNjobs · construction | 2026-11-29 | 🔴 1 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
+| [Civil Engineer, Aleppo, Syria](https://unjobs.org/vacancies/1795521704891) | via UNjobs · construction | 2026-11-29 | 🔴 1 days | 🟢 High | – | Found automatically (10 points) |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) | via ReliefWeb · engineer | 2026-11-29 | 🔴 1 days | 🟢 High | ⏳ queued | Found automatically (20 points) |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 2 days | 🟢 High | ⏳ queued | Found automatically (18 points) |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) | via ReliefWeb · shelter | 2026-12-02 | 🔴 4 days | 🟢 High | ⏳ queued | Found automatically (26 points) |
