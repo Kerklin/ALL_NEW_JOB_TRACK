@@ -4,7 +4,7 @@
 
 > ⚠️ **Your MASTER_CV is 13260 characters – only the first 7,000 are used. Shorten older roles**
 
-**103 open jobs** (🟢 44 · 🟡 46 · ⚪ 13) · AI today: 2 of 130 requests (max 16/hour) · 0 packs · 98 waiting · updated 2026-11-28 · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
+**104 open jobs** (🟢 45 · 🟡 46 · ⚪ 13) · AI today: 4 of 130 requests (max 16/hour) · 0 packs · 99 waiting · updated 2026-11-28 · sources working today: 7 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/ALL_NEW_JOB_TRACK/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's own link. **Login-only job pages:** Add file → Create new file → `inbox/any-name.txt` → paste the link and the full job text → Commit.
@@ -24,6 +24,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 10 days | 🟢 High | ⏳ queued | Found automatically (14 points) |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 10 days | 🟢 High | ⏳ queued | Found automatically (16 points) |
 | [Specialiste Wash - RCA](https://reliefweb.int/job/4240008/specialiste-wash-rca) 🆕 | via ReliefWeb · infrastructure | 2026-12-09 | 11 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
+| [WatHab Energy Project Manager](https://unjobs.org/vacancies/1795842091663) 🆕 | via UNjobs · construction | 2026-12-10 | 12 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Protection from Violence Project Manager South-Central Syria](https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 12 days | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [ICLA Project Manager Tripoli Libya](https://reliefweb.int/job/4240166/icla-project-manager-tripoli-libya) 🆕 | via ReliefWeb · housing | 2026-12-10 | 12 days | 🟢 High | ⏳ queued | Found automatically (10 points) |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 12 days | 🟢 High | ⏳ queued | Found automatically (15 points) |
@@ -115,7 +116,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | ⏳ queued | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | 🔗 needs the job's own link | Very senior banking role |
 
-<details><summary>Closed or removed (236)</summary>
+<details><summary>Closed or removed (241)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
@@ -355,6 +356,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -38 days | 🟡 Medium | 🔗 needs the job's own link | Deadline from listing |
 | [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -45 days | 🟡 Medium | 🔗 needs the job's own link | National consultancy in BiH – eligible. Links to your CSW work |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -45 days | ⚪ Low | 🔗 needs the job's own link | Social protection, not construction |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -49 days | 🟢 High | – | Check French + nationality rules |
+| [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -46 days | ⚪ Low | – | Junior UNV, French. Listings disagree on national vs international |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -51 days | ⚪ Low | – | Displacement/CCCM focus. French likely |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -51 days | ⚪ Low | – | Portuguese likely required |
+| [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -49 days | ⚪ Low | – | Portuguese likely required |
 
 </details>
 
@@ -379,15 +385,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · construction | 2026-11-27 |
 | ReliefWeb · infrastructure | 2026-11-28 |
 | ReliefWeb · shelter | 2026-11-27 |
-| ReliefWeb · architect | 2026-11-27 |
+| ReliefWeb · architect | 2026-11-28 |
 | ReliefWeb · housing | 2026-11-27 |
 | ReliefWeb · engineer | 2026-11-28 |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-27 |
-| unvacancies · engineering | 2026-11-27 |
+| unvacancies · engineering | 2026-11-28 |
 | unvacancies · UNOPS | 2026-11-27 |
 | unvacancies · UN-Habitat | 2026-11-28 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-27 |
-| UNjobs · construction | 2026-11-27 |
+| UNjobs · construction | 2026-11-28 |
 | UNjobs · infrastructure projects | 2026-11-27 |
 | UNOPS careers | 2026-11-28 |
 | UNICEF · construction | 2026-11-10 |

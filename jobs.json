@@ -14,7 +14,7 @@
     "muted": ""
    },
    "ReliefWeb · architect": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · housing": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-27",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -70,22 +70,35 @@
    "actions/checkout@v6 → @v7"
   ],
   "ai": {
-   "rev": 569,
+   "rev": 572,
    "day": "2026-11-28",
    "used": {
-    "high": 1,
-    "low": 1
+    "high": 2,
+    "low": 2
    },
    "packs": 0,
-   "hour": "2026-11-28T02",
+   "hour": "2026-11-28T10",
    "hour_used": 2,
    "blocked": {},
    "holder": ""
   },
-  "site_hash": "a56b6e6b6ef9265d1418b4954341b64be7d52054fa100ca521e4938bd4a86590",
-  "site_time": "2026-11-28T02:07:24.996786+00:00"
+  "site_hash": "08ea1c51dea8f8f2dfea162d75f89acaf1447fbda431e6ee6ddc9ace71917b3d",
+  "site_time": "2026-11-28T10:15:58.387051+00:00"
  },
  "jobs": [
+  {
+   "title": "WatHab Energy Project Manager",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795842091663",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-28",
+   "status": "open",
+   "checked": "2026-11-28",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Protection from Violence (PFV) Project Manager North-East Syria",
    "info": "via ReliefWeb · shelter",
@@ -4498,6 +4511,71 @@
    "status": "open",
    "checked": "2026-11-22",
    "pack": "needs-link",
+   "tries": 0
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)",
+   "info": "UNV · Korhogo",
+   "link": "https://www.impactpool.org/jobs/1239099",
+   "deadline": "2026-10-13",
+   "fit": "Low",
+   "note": "Junior UNV, French. Listings disagree on national vs international",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Officer (Displacement Management)",
+   "info": "IOM · Antananarivo · P",
+   "link": "https://www.iom.int/Zc8",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Displacement/CCCM focus. French likely",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "UN-Habitat · Niterói, Brazil",
+   "link": "https://unvacancies.org/jobs/function/engineering",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Procurement Advisor",
+   "info": "UN-Habitat · Rio de Janeiro",
+   "link": "https://unvacancies.org/jobs/organization/un-habitat",
+   "deadline": "2026-10-10",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": "",
+   "pack": "",
    "tries": 0
   }
  ]
